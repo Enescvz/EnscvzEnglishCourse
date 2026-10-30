@@ -1,5 +1,7 @@
 name: Content, corpus and engine checks
 on: [push, pull_request]
+permissions:
+  contents: read
 jobs:
   test:
     runs-on: ubuntu-latest
@@ -11,13 +13,19 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - run: npm test
-      - run: npm run test:corpus
-      - name: Ensure incomplete content fails publication gate
+      - name: Install Python test dependencies
+        run: python3 -m pip install -r requirements-ci.txt
+      - name: JavaScript engine and UI tests
+        run: npm test
+      - name: Public-safe Python corpus tests (private source checks not executed)
+        run: python3 tools/run_public_corpus.py
+      - name: Keep incomplete content behind release gate
         shell: bash
         run: |
           if python3 tools/release_gate.py; then
-            echo 'All release criteria are met — manual deployment remains a separate operation.'
+            echo 'All release criteria appear met; manual deployment still requires approval.'
           else
-            echo 'Release locked: incomplete content must not be deployed.'
+            echo 'Release remains LOCKED. This CI check is not a publication approval.'
+            echo '### Release is locked' >> "$GITHUB_STEP_SUMMARY"
+            echo 'Incomplete content and device/audio/editor QA must be resolved before deployment.' >> "$GITHUB_STEP_SUMMARY"
           fi

@@ -5,7 +5,12 @@ globalThis.document={documentElement:{dataset:{}},querySelector:s=>s==='#app'?ro
 globalThis.window={addEventListener(){},speechSynthesis:{cancel(){}}};globalThis.location={hash:'#/home',protocol:'about:'};globalThis.scrollTo=()=>{};globalThis.localStorage={getItem:()=>null,setItem:()=>{}};
 globalThis.__AEL_TEST_EAGER__=true;
 globalThis.fetch=async (url)=>({ok:true,json:async()=>JSON.parse(await fs.readFile(new URL('../'+url,import.meta.url),'utf8'))});
-await import('../js/app.js');await new Promise(r=>setTimeout(r,50));
+await import('../js/app.js');
+// Test startup is async; waiting a fixed 50 ms made this suite flaky on slower CI hosts.
+for(let attempt=0;attempt<120&&!root.innerHTML.includes('Real progress.');attempt++){
+ await new Promise(resolve=>setTimeout(resolve,50));
+}
+
 const action=(a,ds={})=>actions.click({target:{closest:()=>({dataset:{act:a,...ds}})},preventDefault(){}});
 test('home renders actual dashboard',()=>{assert.ok(root.innerHTML.includes('Real progress.'));assert.ok(root.innerHTML.includes('214 genel + 284 finans')===false);});
 test('every major module renders',()=>{for(const v of ['listening','vocabulary','phrasals','podcasts','reading','grammar','speaking','writing','conversations','pronunciation','tests','review','analytics','settings']){action('goto',{view:v});assert.ok(!root.innerHTML.includes('Bir sorun oluştu'),v);assert.ok(root.innerHTML.includes('class="heading"'),v);}});
