@@ -1,0 +1,12 @@
+PRIVATE DEVELOPMENT BACKUP — ROBOTIC PODCASTS REMOVED — 2026-10-29
+18 archived eSpeak podcast records + 24 archived eSpeak drill records retained for progress compatibility; ALL 42 robotic MP3 files removed. No synthetic podcast or drill audio exposed in UI, offline cache or download. 0 locally bundled human speech MP3. VOA publisher online audio accessible; real Safari playback not verified.
+Release LOCKED. Speaking unchanged. Do not upload to GitHub or deploy.
+
+PRIVATE DEVELOPMENT BACKUP — DO NOT DEPLOY — 2026-10-29
+AEL TOEFL 2026 + Daily combined practice.
+62 JavaScript + 158 Python unit tests passed.
+Targeted virtual Chromium desktop/mobile passed, NOT iPhone Safari, actual offline origin or audio playback.
+Release gate LOCKED; do not publish, create a production ZIP, enable Github Pages or upload to GitHub.
+Speaking and microphone logic unchanged; 400/75 shared cards and 50 VOA/204 questions IDs preserved.
+Text-only original Listening tasks have NO VERIFIED AUDIO and MUST NOT be scored as listening ability.
+The timed Reading mini is original 9 questions/12 minutes and is NOT ETS/official adaptive TOEFL/score.
