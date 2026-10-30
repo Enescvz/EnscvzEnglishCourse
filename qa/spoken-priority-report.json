@@ -1,0 +1,24 @@
+{
+  "review_method": "manual editorial red-flag screening, not corpus scoring",
+  "screened_total": 1500,
+  "screened_by_kind": {
+    "general": 1000,
+    "phrasal": 500
+  },
+  "preliminary_review_flags": {
+    "general": 0,
+    "phrasal": 13
+  },
+  "spoken_frequency_verified": 0,
+  "high_frequency_confirmed": 0,
+  "recommended_next_step": "Compare sense-level items to licensed COCA spoken / US TV subtitle frequency data; compare everyday contexts, then replace low-value candidates before approving the 1000+500 focus selection.",
+  "criteria": [
+    "US spoken frequency",
+    "listening comprehension utility",
+    "active speaking utility",
+    "daily scenario coverage",
+    "learner B1 novelty",
+    "US sense/phrase naturalness"
+  ],
+  "disclaimer": "Unflagged items are not verified as frequent. Flagged entries are not proven rare; they require priority review."
+}

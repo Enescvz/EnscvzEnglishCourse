@@ -1,0 +1,15 @@
+{
+  "sourceHeadwords": 1204,
+  "distinctSourceHeadwords": 1204,
+  "currentPhrasalLearningCards": 500,
+  "sourceOverlapsLearningCards": 424,
+  "newHeadwordCandidates": 780,
+  "candidatesWithB2C1VerifiedLevel": 0,
+  "newVerifiedTeachingCards": 0,
+  "releaseReady": false,
+  "sourceUrl": "https://github.com/tema4p/english-vocabulary/blob/main/content/phrasal-verbs/English_Phrasal_Verbs_in_Action_EN.txt",
+  "license": "CC BY-NC 4.0 (noncommercial use only)",
+  "sourceFormat": "prefix-delta, headwords only, no English/Turkish definitions",
+  "sourceSha256": "ff0ca79b8fb295f59c00fd6c7a086ac7484063e5d2d6c191fd9de3bac83bef5a",
+  "warning": "All source CEFR levels and senses unverified; this cannot satisfy the 500 independently approved focus phrasals release gate."
+}

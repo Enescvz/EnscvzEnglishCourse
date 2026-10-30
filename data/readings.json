@@ -1,0 +1,1922 @@
+[
+  {
+    "id": "the-midnight-train",
+    "title": "The Midnight Train",
+    "level": "B2",
+    "category": "Story",
+    "body": "When the last train arrived at the station, Nora was surprised to find that only one passenger stepped off. He carried an old suitcase and kept checking a folded paper map. Nora had been waiting for a friend, but a text message confirmed that her friend would be late. She decided to stay near the information desk. The stranger approached and asked whether the historical museum was still open. Nora explained that it had closed two hours earlier, although a special exhibition would open the following morning. The man's disappointment was evident. He had traveled across the state to see a photograph believed to show his grandfather as a young sailor. Nora suggested the museum's website, where a digital copy might be available. A few minutes later, he returned with a smile: he had found the image, though its caption raised more questions than it answered. Nora realized that sometimes a small piece of information can open a much larger story.",
+    "questions": [
+      {
+        "question": "Why was Nora at the station?",
+        "options": [
+          "She was waiting for a friend",
+          "She was collecting a repaired suitcase",
+          "She was working at the ticket window",
+          "She had arranged to tour the museum"
+        ],
+        "answer": 0,
+        "explanation": "In the text, the relevant detail is: She was waiting for a friend. The other choices are not supported by the passage."
+      },
+      {
+        "question": "Why did the stranger travel?",
+        "options": [
+          "To attend a concert nearby",
+          "To see a historical photograph",
+          "To meet a former colleague",
+          "To photograph the train station"
+        ],
+        "answer": 1,
+        "explanation": "In the text, the relevant detail is: To see a historical photograph. The other choices are not supported by the passage."
+      },
+      {
+        "question": "What does the encounter at the station suggest about small discoveries?",
+        "options": [
+          "Caution when interpreting informal experiments",
+          "How small community projects build relationships",
+          "Unexpected connections through small clues",
+          "Evaluating business expansion with incomplete data"
+        ],
+        "answer": 2,
+        "explanation": "This option describes the central focus of the passage. The other choices belong to different texts."
+      },
+      {
+        "question": "What did the museum website offer?",
+        "options": [
+          "A replacement train ticket",
+          "A new suitcase",
+          "A hotel reservation",
+          "A digital copy of the photograph"
+        ],
+        "answer": 3,
+        "explanation": "Nora suggested looking for a digital copy of the photo on the museum website."
+      },
+      {
+        "question": "What did the caption do?",
+        "options": [
+          "It raised further questions",
+          "It confirmed every detail",
+          "It identified Nora as the sailor",
+          "It announced the museum had moved"
+        ],
+        "answer": 0,
+        "explanation": "The caption raised more questions than it answered."
+      }
+    ]
+  },
+  {
+    "id": "the-attention-experiment",
+    "title": "The Attention Experiment",
+    "level": "B2",
+    "category": "Psychology",
+    "body": "A community center invited volunteers to try two reading routines. In the first routine, participants read in a quiet room for twenty minutes. In the second, they kept their phones nearby with notifications enabled. The organizers wanted to explore how interruptions affected reading comprehension. After each session, volunteers answered questions about the passage and rated how focused they felt. The results were mixed: many participants reported feeling distracted by notifications, but individual scores varied. The organizers emphasized that this informal exercise was not a controlled scientific study. The passages differed slightly, and some participants were more familiar with the topics. Nevertheless, the event encouraged people to reflect on their daily habits. Several volunteers decided to silence notifications during study sessions, not because the experiment proved a universal rule, but because they personally found the quieter routine more comfortable.",
+    "questions": [
+      {
+        "question": "What did the organizers explore?",
+        "options": [
+          "Whether music helped readers remember more",
+          "The effect of interruptions on reading",
+          "How room temperature affected sleep",
+          "Why volunteers preferred digital magazines"
+        ],
+        "answer": 1,
+        "explanation": "In the text, the relevant detail is: The effect of interruptions on reading. The other choices are not supported by the passage."
+      },
+      {
+        "question": "Why were the results limited?",
+        "options": [
+          "Every participant had already read the passage",
+          "Scores were identical in both routines",
+          "It was not a controlled study",
+          "The session included a randomly assigned control group"
+        ],
+        "answer": 2,
+        "explanation": "In the text, the relevant detail is: It was not a controlled study. The other choices are not supported by the passage."
+      },
+      {
+        "question": "What caution should readers take from the notification experiment?",
+        "options": [
+          "Unexpected connections through small clues",
+          "How small community projects build relationships",
+          "Evaluating business expansion with incomplete data",
+          "Caution when interpreting informal experiments"
+        ],
+        "answer": 3,
+        "explanation": "This option describes the central focus of the passage. The other choices belong to different texts."
+      },
+      {
+        "question": "Which condition involved notifications?",
+        "options": [
+          "The second reading routine",
+          "The first reading routine",
+          "Both routines required music",
+          "Neither routine included phones"
+        ],
+        "answer": 0,
+        "explanation": "Participants kept phones nearby with notifications enabled in the second routine."
+      },
+      {
+        "question": "Why did some volunteers silence notifications afterward?",
+        "options": [
+          "The event conclusively proved a scientific theory",
+          "They personally preferred fewer distractions",
+          "The center required them to",
+          "The reading passages were identical"
+        ],
+        "answer": 1,
+        "explanation": "They made an individual choice; the informal comparison was not a controlled study."
+      }
+    ]
+  },
+  {
+    "id": "a-hidden-garden",
+    "title": "A Hidden Garden",
+    "level": "B2",
+    "category": "Culture",
+    "body": "Behind an ordinary apartment building in Chicago sits a small garden maintained by the residents. A decade ago, the space was filled with broken furniture and weeds. A few neighbors proposed turning it into a shared place to grow herbs and vegetables. Initially, the plan faced considerable resistance. Some residents worried about costs, while others feared that nobody would maintain the area. The volunteers responded by creating a modest budget and a rotating schedule. They also established clear rules about water use and shared equipment. Today, the garden produces only a limited amount of food, but its social value is significant. People who previously passed one another without speaking now exchange recipes and organize weekend events. The story illustrates how a small, practical initiative can change the atmosphere of a neighborhood without solving every problem in the community.",
+    "questions": [
+      {
+        "question": "What was the original concern?",
+        "options": [
+          "The building was about to be demolished",
+          "The courtyard was too sunny for vegetables",
+          "Cost and maintenance",
+          "Residents wanted the garden to charge admission"
+        ],
+        "answer": 2,
+        "explanation": "In the text, the relevant detail is: Cost and maintenance. The other choices are not supported by the passage."
+      },
+      {
+        "question": "What was a key benefit?",
+        "options": [
+          "Lower apartment rents for residents",
+          "A year-round source of all household food",
+          "A reduction in the building’s electricity use",
+          "Stronger neighborhood relationships"
+        ],
+        "answer": 3,
+        "explanation": "In the text, the relevant detail is: Stronger neighborhood relationships. The other choices are not supported by the passage."
+      },
+      {
+        "question": "What broader effect did the shared garden have on the residents?",
+        "options": [
+          "How small community projects build relationships",
+          "Unexpected connections through small clues",
+          "Caution when interpreting informal experiments",
+          "Evaluating business expansion with incomplete data"
+        ],
+        "answer": 0,
+        "explanation": "This option describes the central focus of the passage. The other choices belong to different texts."
+      },
+      {
+        "question": "How did volunteers answer concerns about maintenance?",
+        "options": [
+          "By hiring a permanent chef",
+          "With a budget and rotating schedule",
+          "By closing the courtyard",
+          "By canceling the garden"
+        ],
+        "answer": 1,
+        "explanation": "The volunteers made a modest budget and shared a rotating maintenance schedule."
+      },
+      {
+        "question": "What does the story say about food production?",
+        "options": [
+          "It feeds every resident in the district",
+          "It exports all its vegetables",
+          "It produces a limited amount of food",
+          "It stopped producing food years ago"
+        ],
+        "answer": 2,
+        "explanation": "The text explicitly calls the quantity of food produced limited."
+      }
+    ]
+  },
+  {
+    "id": "a-calculated-risk",
+    "title": "A Calculated Risk",
+    "level": "C1",
+    "category": "Finance",
+    "body": "An independent bookstore considered opening a second location. Revenue at the original store had remained stable for three years, and customers frequently asked for a branch across town. However, the owner was reluctant to commit to a long lease without examining the financial implications. She estimated expected revenue, fixed expenses, staffing costs, and the initial capital expenditure. In a conservative scenario, the second store would need more time to reach the break-even point than she had anticipated. The owner also examined liquidity: even a profitable business can struggle if bills must be paid before customers generate enough cash. Rather than treating optimistic forecasts as guarantees, she scrutinized the assumptions and discussed alternatives with her team. They ultimately decided to test the new neighborhood through temporary weekend events. The experiment could provide useful evidence without creating an irreversible long-term obligation.",
+    "questions": [
+      {
+        "question": "What was the owner cautious about?",
+        "options": [
+          "A shortage of books at the original shop",
+          "A temporary sign outside the store",
+          "A delay in scheduling a weekend event",
+          "A long lease based on uncertain forecasts"
+        ],
+        "answer": 3,
+        "explanation": "In the text, the relevant detail is: A long lease based on uncertain forecasts. The other choices are not supported by the passage."
+      },
+      {
+        "question": "What did the team choose?",
+        "options": [
+          "Temporary weekend events",
+          "Signing a second long-term lease immediately",
+          "Stopping sales at the original store",
+          "Opening a branch without testing demand"
+        ],
+        "answer": 0,
+        "explanation": "In the text, the relevant detail is: Temporary weekend events. The other choices are not supported by the passage."
+      },
+      {
+        "question": "What business decision principle does the bookstore example illustrate?",
+        "options": [
+          "Unexpected connections through small clues",
+          "Evaluating business expansion with incomplete data",
+          "Caution when interpreting informal experiments",
+          "How small community projects build relationships"
+        ],
+        "answer": 1,
+        "explanation": "This option describes the central focus of the passage. The other choices belong to different texts."
+      },
+      {
+        "question": "Why can profitability be insufficient for survival?",
+        "options": [
+          "Profit always equals cash in the bank",
+          "A profitable shop cannot have debts",
+          "Bills may be due before enough cash arrives",
+          "Rent can never change"
+        ],
+        "answer": 2,
+        "explanation": "The owner considers liquidity because cash outflows and inflows occur at different times."
+      },
+      {
+        "question": "What is the main advantage of weekend test events?",
+        "options": [
+          "Making expansion legally mandatory",
+          "Avoiding all business expenses",
+          "Guaranteeing future revenue",
+          "Gathering evidence without a long commitment"
+        ],
+        "answer": 3,
+        "explanation": "Temporary events test demand without an irreversible lease."
+      }
+    ]
+  },
+  {
+    "id": "the-memory-of-a-song",
+    "title": "The Memory of a Song",
+    "level": "C1",
+    "category": "Science",
+    "body": "A familiar song can sometimes trigger vivid memories, even when a person has not heard it in years. Researchers study how music interacts with attention, emotion, and autobiographical memory. However, claims that one specific song can reliably unlock a memory for everyone would exaggerate what the evidence demonstrates. Personal experiences differ, and the emotional significance of a melody depends partly on its associations. In one local workshop, participants listened to short instrumental excerpts and wrote down memories that came to mind. Some described childhood celebrations; others reported no particular recollection. The facilitator emphasized that neither response was wrong. The exercise was designed to prompt reflection, not to diagnose memory strength. Its main lesson was subtle: memory is not a perfect recording of the past, and meaningful associations can influence which details we remember.",
+    "questions": [
+      {
+        "question": "What does the passage reject?",
+        "options": [
+          "A universal effect of one song",
+          "That instrumental music can prompt reflection",
+          "That people associate songs with experiences",
+          "That a workshop can invite personal memories"
+        ],
+        "answer": 0,
+        "explanation": "In the text, the relevant detail is: A universal effect of one song. The other choices are not supported by the passage."
+      },
+      {
+        "question": "What was the workshop for?",
+        "options": [
+          "Formal clinical diagnosis of memory problems",
+          "Reflection rather than diagnosis",
+          "Comparing hearing ability with age",
+          "Testing whether everyone knew the same tune"
+        ],
+        "answer": 1,
+        "explanation": "In the text, the relevant detail is: Reflection rather than diagnosis. The other choices are not supported by the passage."
+      },
+      {
+        "question": "What does the song workshop suggest about personal memory?",
+        "options": [
+          "Unexpected connections through small clues",
+          "Caution when interpreting informal experiments",
+          "How associations influence autobiographical memory",
+          "How small community projects build relationships"
+        ],
+        "answer": 2,
+        "explanation": "This option describes the central focus of the passage. The other choices belong to different texts."
+      },
+      {
+        "question": "Why may the same melody affect people differently?",
+        "options": [
+          "All people hear identical memories",
+          "Music has no emotional associations",
+          "Every melody has one fixed meaning",
+          "Associations and experiences differ"
+        ],
+        "answer": 3,
+        "explanation": "The passage attributes different responses partly to personal associations."
+      },
+      {
+        "question": "What was the facilitator’s attitude to varied responses?",
+        "options": [
+          "Neither response was wrong",
+          "Only detailed memories were acceptable",
+          "Everyone had to identify a song",
+          "No written reflections were permitted"
+        ],
+        "answer": 0,
+        "explanation": "The facilitator expressly said that neither response was wrong."
+      }
+    ]
+  },
+  {
+    "id": "a-debate-about-remote-work",
+    "title": "A Debate About Remote Work",
+    "level": "C1",
+    "category": "Opinion",
+    "body": "At a community forum, two business owners discussed whether employees should work remotely. One argued that flexibility could reduce commuting time and help people manage personal responsibilities. The other emphasized the value of spontaneous conversations, mentoring, and face-to-face collaboration. Neither speaker claimed that a single arrangement would suit every organization. They instead explored the conditions under which different models might succeed. A team working independently on well-defined tasks may benefit from a different schedule than a group that relies on rapid, informal coordination. The moderator asked the audience to distinguish measurable outcomes from assumptions about productivity. By the end, the debate had moved beyond a simple choice between home and office. It became a discussion about designing working arrangements that fit the task, the team, and the people involved.",
+    "questions": [
+      {
+        "question": "What did both speakers recognize?",
+        "options": [
+          "That every job benefits equally from remote work",
+          "Different teams may need different arrangements",
+          "That all team meetings should be canceled",
+          "That productivity can never be evaluated"
+        ],
+        "answer": 1,
+        "explanation": "In the text, the relevant detail is: Different teams may need different arrangements. The other choices are not supported by the passage."
+      },
+      {
+        "question": "What did the moderator emphasize?",
+        "options": [
+          "Personal preferences without any evidence",
+          "A fixed rule that applies to every company",
+          "Evidence rather than assumptions",
+          "Assumptions about productivity without measurement"
+        ],
+        "answer": 2,
+        "explanation": "In the text, the relevant detail is: Evidence rather than assumptions. The other choices are not supported by the passage."
+      },
+      {
+        "question": "What approach to remote work does the debate ultimately favor?",
+        "options": [
+          "Unexpected connections through small clues",
+          "Caution when interpreting informal experiments",
+          "How small community projects build relationships",
+          "Choosing working arrangements based on context"
+        ],
+        "answer": 3,
+        "explanation": "This option describes the central focus of the passage. The other choices belong to different texts."
+      },
+      {
+        "question": "What advantage of remote work was mentioned?",
+        "options": [
+          "Less commuting and greater flexibility",
+          "Guaranteed increases in salary",
+          "Fewer written documents",
+          "No need for any collaboration"
+        ],
+        "answer": 0,
+        "explanation": "One owner mentioned reduced commuting and flexible personal responsibilities."
+      },
+      {
+        "question": "What advantage of working face-to-face was mentioned?",
+        "options": [
+          "The elimination of meetings",
+          "Spontaneous interaction and mentoring",
+          "No commute for employees",
+          "Automatic higher productivity"
+        ],
+        "answer": 1,
+        "explanation": "The other owner emphasized unplanned conversations and face-to-face mentoring."
+      }
+    ]
+  },
+  {
+    "id": "the-museum-label",
+    "title": "The Museum Label",
+    "level": "B2",
+    "category": "History",
+    "body": "A city museum discovered that one of its oldest exhibit labels contained a misleading date. The artifact itself was genuine, but a previous catalog had confused the date of its creation with the date of its donation. Curators noticed the discrepancy while preparing an online collection. They could have quietly replaced the label, but instead chose to explain the correction in a short public note. The museum director said that acknowledging mistakes was an essential part of preserving trust. Visitors responded positively; several wrote that the note helped them understand how historical knowledge changes as evidence is reviewed. The revised label included both dates and a description of the records used to confirm them. The incident became a small but useful lesson in transparency: accurate information often depends on people being willing to question familiar assumptions.",
+    "questions": [
+      {
+        "question": "What was wrong with the label?",
+        "options": [
+          "It gave the wrong name for the donor",
+          "It described a replica as authentic",
+          "It confused creation and donation dates",
+          "It listed the artifact under the wrong city"
+        ],
+        "answer": 2,
+        "explanation": "In the text, the relevant detail is: It confused creation and donation dates. The other choices are not supported by the passage."
+      },
+      {
+        "question": "Why publish a correction?",
+        "options": [
+          "To avoid publishing the online collection",
+          "To remove the artifact from display permanently",
+          "To persuade visitors the mistake had never happened",
+          "To be transparent and preserve trust"
+        ],
+        "answer": 3,
+        "explanation": "In the text, the relevant detail is: To be transparent and preserve trust. The other choices are not supported by the passage."
+      },
+      {
+        "question": "What principle does the museum’s public correction demonstrate?",
+        "options": [
+          "Transparency when correcting historical information",
+          "Unexpected connections through small clues",
+          "Caution when interpreting informal experiments",
+          "How small community projects build relationships"
+        ],
+        "answer": 0,
+        "explanation": "This option describes the central focus of the passage. The other choices belong to different texts."
+      },
+      {
+        "question": "How was the discrepancy discovered?",
+        "options": [
+          "While building a train station",
+          "During an online collection project",
+          "By a visitor comparing paintings",
+          "Through a new security camera"
+        ],
+        "answer": 1,
+        "explanation": "Curators noticed the label mismatch while preparing the online collection."
+      },
+      {
+        "question": "How did many visitors respond to the correction?",
+        "options": [
+          "They demanded the exhibition close",
+          "They all stopped visiting museums",
+          "Positively, because it explained changing knowledge",
+          "They concluded the artifact was fake"
+        ],
+        "answer": 2,
+        "explanation": "Several visitors appreciated the public explanation of how evidence is reviewed."
+      }
+    ]
+  },
+  {
+    "id": "a-more-resilient-city",
+    "title": "A More Resilient City",
+    "level": "C1",
+    "category": "Environment",
+    "body": "After several severe summer storms, a coastal city began reassessing its infrastructure. Engineers warned that a single dramatic project would not eliminate flood risk. Instead, they proposed a combination of drainage improvements, protected green areas, and revised building standards. These measures varied in cost and in the time required to implement them. Some residents were skeptical because the benefits would be difficult to observe during an ordinary week. Public officials responded by presenting scenarios and acknowledging uncertainty in their projections. Their argument was not that every intervention would work perfectly, but that a layered approach could mitigate damage when individual defenses failed. The proposal also highlighted an equity issue: lower-income neighborhoods had historically received fewer upgrades. The city therefore prioritized projects that addressed both exposure to flooding and the unequal distribution of previous investment.",
+    "questions": [
+      {
+        "question": "What approach was recommended?",
+        "options": [
+          "Building only a single sea wall",
+          "Replacing all green spaces with concrete",
+          "Moving every resident out of the city",
+          "Several complementary risk-reduction measures"
+        ],
+        "answer": 3,
+        "explanation": "In the text, the relevant detail is: Several complementary risk-reduction measures. The other choices are not supported by the passage."
+      },
+      {
+        "question": "What additional concern mattered?",
+        "options": [
+          "Unequal investment across neighborhoods",
+          "Every neighborhood had received equal funding",
+          "The proposed works would be finished immediately",
+          "The city already had a zero-flood guarantee"
+        ],
+        "answer": 0,
+        "explanation": "In the text, the relevant detail is: Unequal investment across neighborhoods. The other choices are not supported by the passage."
+      },
+      {
+        "question": "Which approach to flood protection did the city’s engineers favor?",
+        "options": [
+          "Unexpected connections through small clues",
+          "Combining infrastructure measures to reduce risk",
+          "Caution when interpreting informal experiments",
+          "How small community projects build relationships"
+        ],
+        "answer": 1,
+        "explanation": "This option describes the central focus of the passage. The other choices belong to different texts."
+      },
+      {
+        "question": "Why were some residents skeptical?",
+        "options": [
+          "Engineers denied the storms happened",
+          "Drainage projects were completed already",
+          "Benefits would be hard to observe on ordinary days",
+          "The proposal excluded all neighborhoods"
+        ],
+        "answer": 2,
+        "explanation": "The proposed risk reduction is less obvious outside severe weather."
+      },
+      {
+        "question": "How did officials address uncertainty?",
+        "options": [
+          "By promising zero future floods",
+          "By refusing public discussion",
+          "By publishing only one prediction",
+          "By presenting scenarios and acknowledging limits"
+        ],
+        "answer": 3,
+        "explanation": "Officials presented scenarios and noted uncertainty instead of guaranteeing outcomes."
+      }
+    ]
+  },
+  {
+    "id": "the-last-minute-change",
+    "title": "A Last-Minute Change of Plans",
+    "level": "B2",
+    "category": "Daily Life",
+    "body": "Jordan and Mia had planned to meet friends at an outdoor movie night on Friday. By late afternoon, dark clouds were gathering and the forecast called for thunderstorms. Jordan suggested moving the gathering to his apartment, but there was one problem: his living room was being painted. Mia called the neighborhood community center, which had a small screening room available until nine. She reserved it for two hours and sent everyone the new address. Two friends arrived at the original park anyway because they had missed the group message. Jordan walked over to find them while Mia set up the projector. The movie started fifteen minutes late, but nobody complained. Later, Mia said the unexpected change had actually made the evening more relaxed because everyone could hear the dialogue without traffic noise.",
+    "questions": [
+      {
+        "question": "Why did the group abandon the outdoor screening?",
+        "options": [
+          "Thunderstorms were forecast",
+          "The projector was stolen",
+          "The park required expensive tickets",
+          "Their friends disliked the movie"
+        ],
+        "answer": 0,
+        "explanation": "The weather forecast predicted thunderstorms that evening."
+      },
+      {
+        "question": "Why was Jordan’s apartment unsuitable?",
+        "options": [
+          "The electricity had been disconnected",
+          "The living room was being painted",
+          "His neighbors were holding a party",
+          "The building had no elevator"
+        ],
+        "answer": 1,
+        "explanation": "Jordan mentioned that his living room was being painted."
+      },
+      {
+        "question": "Where did Mia arrange to show the movie?",
+        "options": [
+          "A school gym",
+          "A restaurant patio",
+          "A community-center screening room",
+          "A hotel conference room"
+        ],
+        "answer": 2,
+        "explanation": "Mia reserved a screening room at the neighborhood community center."
+      },
+      {
+        "question": "Why were two friends initially missing?",
+        "options": [
+          "They went to the wrong city",
+          "They had forgotten the date",
+          "They were stuck at work",
+          "They had not seen the group message"
+        ],
+        "answer": 3,
+        "explanation": "Two friends went to the original park after missing the group message."
+      },
+      {
+        "question": "What unexpected benefit did Mia notice?",
+        "options": [
+          "They could hear the dialogue better",
+          "The movie was shorter",
+          "The food was free",
+          "The projector produced subtitles"
+        ],
+        "answer": 0,
+        "explanation": "Mia said the indoor setting removed traffic noise and made the evening more relaxed."
+      }
+    ]
+  },
+  {
+    "id": "a-second-opinion",
+    "title": "A Second Opinion",
+    "level": "B2",
+    "category": "Health & Decisions",
+    "body": "After three weeks of shoulder pain, Elena visited a clinic near her office. The first clinician recommended avoiding heavy lifting and beginning gentle exercises. Elena followed the advice but remained worried because she had signed up for a charity swimming event. Instead of searching online for alarming stories, she booked a follow-up appointment and wrote down her questions. A second clinician reviewed her symptoms, asked about her training routine, and explained that recovery could take longer than she expected. The clinician did not promise a specific date but suggested tracking pain and gradually increasing movement as advised. Elena decided to skip the swimming event rather than rush her recovery. She still volunteered at the registration desk, which allowed her to support her teammates without aggravating her shoulder.",
+    "questions": [
+      {
+        "question": "Why did Elena seek another appointment?",
+        "options": [
+          "She planned to travel overseas",
+          "She was worried about an upcoming swim",
+          "She wanted a different medication brand",
+          "She lost her clinic records"
+        ],
+        "answer": 1,
+        "explanation": "The charity swimming event made Elena concerned about recovery time."
+      },
+      {
+        "question": "What did Elena do before the follow-up?",
+        "options": [
+          "She booked a race ticket",
+          "She stopped all physical activity permanently",
+          "She wrote down her questions",
+          "She changed her swimming team"
+        ],
+        "answer": 2,
+        "explanation": "Elena prepared questions for her appointment rather than relying on alarming online accounts."
+      },
+      {
+        "question": "What did the clinician avoid promising?",
+        "options": [
+          "That Elena could volunteer",
+          "That gentle movement was possible",
+          "That swimming exists as an exercise",
+          "An exact recovery date"
+        ],
+        "answer": 3,
+        "explanation": "The clinician said recovery could take time and gave no definite recovery date."
+      },
+      {
+        "question": "How did Elena take part in the event?",
+        "options": [
+          "She worked at the registration desk",
+          "She coached every swimmer",
+          "She served as a lifeguard",
+          "She competed in the final race"
+        ],
+        "answer": 0,
+        "explanation": "She skipped swimming and volunteered at the registration desk."
+      },
+      {
+        "question": "Which best describes Elena’s final decision?",
+        "options": [
+          "She treated online stories as a diagnosis",
+          "She chose recovery over rushing back",
+          "She ignored all medical advice",
+          "She abandoned her teammates"
+        ],
+        "answer": 1,
+        "explanation": "She decided not to aggravate her injury while still supporting the event."
+      }
+    ]
+  },
+  {
+    "id": "the-rent-discussion",
+    "title": "The Rent Discussion",
+    "level": "B2",
+    "category": "Housing",
+    "body": "When their lease renewal arrived, Sam and Priya noticed that the monthly rent had increased more than they expected. Sam wanted to accept immediately because moving would be exhausting. Priya suggested reviewing the lease terms and comparing similar apartments in the area first. They found that nearby buildings were advertising lower prices, although most required a security deposit and a moving fee. Rather than making a threat, Priya emailed their landlord a polite explanation and included three comparable listings. The landlord offered a smaller increase in exchange for another twelve-month commitment. Sam and Priya calculated the total cost of staying versus moving and realized the difference was modest. They agreed to renew, but they also set a reminder to review their housing budget three months before the next renewal.",
+    "questions": [
+      {
+        "question": "What triggered the discussion?",
+        "options": [
+          "A broken heating system",
+          "A new roommate",
+          "A larger-than-expected rent increase",
+          "A landlord selling the building"
+        ],
+        "answer": 2,
+        "explanation": "The new lease proposed a rent increase larger than expected."
+      },
+      {
+        "question": "What did Priya suggest doing first?",
+        "options": [
+          "Moving out immediately",
+          "Signing the new lease without reading it",
+          "Complaining to every neighbor",
+          "Comparing nearby rental options"
+        ],
+        "answer": 3,
+        "explanation": "Priya wanted to examine the lease and comparable apartments."
+      },
+      {
+        "question": "What did their email include?",
+        "options": [
+          "Three comparable rental listings",
+          "A court document",
+          "A copy of their utility bill",
+          "Photos of damaged furniture"
+        ],
+        "answer": 0,
+        "explanation": "Priya sent a polite explanation supported by three nearby listings."
+      },
+      {
+        "question": "What did the landlord request for a smaller increase?",
+        "options": [
+          "A different roommate",
+          "A twelve-month commitment",
+          "An advance payment for two years",
+          "A new security camera"
+        ],
+        "answer": 1,
+        "explanation": "The landlord offered lower rent growth in exchange for another year."
+      },
+      {
+        "question": "Why did they decide to stay?",
+        "options": [
+          "Every other apartment was unavailable",
+          "The landlord canceled the increase",
+          "Moving would save relatively little overall",
+          "Their lease had no renewal option"
+        ],
+        "answer": 2,
+        "explanation": "Their calculation showed that savings after moving costs would be modest."
+      }
+    ]
+  },
+  {
+    "id": "a-missed-connection",
+    "title": "A Missed Connection",
+    "level": "B2",
+    "category": "Travel",
+    "body": "Naomi’s train from Philadelphia was delayed by an equipment problem, leaving her only ten minutes to catch the final bus to her sister’s town. She checked the transit app, but it showed two different departure times. Instead of guessing, she approached the station information desk. The employee confirmed that the bus had already left and offered two alternatives: a late-night rideshare or an early train the next morning. The rideshare cost almost as much as a hotel, so Naomi called her sister to explain. They agreed that Naomi should stay near the station and travel in daylight. She booked a small hotel room and changed her morning meeting to a video call. The delay was frustrating, but her sister appreciated being informed rather than left wondering where Naomi was.",
+    "questions": [
+      {
+        "question": "What caused Naomi’s original delay?",
+        "options": [
+          "A snowstorm",
+          "A missed alarm",
+          "A ticketing error",
+          "A train equipment problem"
+        ],
+        "answer": 3,
+        "explanation": "Her train was delayed due to an equipment issue."
+      },
+      {
+        "question": "Why did Naomi ask the information desk?",
+        "options": [
+          "The app listed conflicting departure times",
+          "She needed a new passport",
+          "She wanted a restaurant recommendation",
+          "She had lost her luggage"
+        ],
+        "answer": 0,
+        "explanation": "The app showed two different times, so Naomi checked directly."
+      },
+      {
+        "question": "What had happened to the final bus?",
+        "options": [
+          "It was canceled for the whole week",
+          "It had already departed",
+          "It was running on time",
+          "It was waiting at a different gate"
+        ],
+        "answer": 1,
+        "explanation": "The station employee confirmed that the last bus was gone."
+      },
+      {
+        "question": "Why did she choose a hotel instead of a rideshare?",
+        "options": [
+          "Her sister owned the hotel",
+          "Rideshares were forbidden at the station",
+          "The rideshare was nearly as expensive",
+          "Her phone battery died"
+        ],
+        "answer": 2,
+        "explanation": "The rideshare price was comparable to staying overnight."
+      },
+      {
+        "question": "How did Naomi adjust her next day?",
+        "options": [
+          "She canceled her entire trip",
+          "She took an overnight flight",
+          "She asked her sister to work for her",
+          "She switched a meeting to video"
+        ],
+        "answer": 3,
+        "explanation": "She booked a room and changed a morning meeting to a video call."
+      }
+    ]
+  },
+  {
+    "id": "an-honest-review",
+    "title": "An Honest Review",
+    "level": "B2",
+    "category": "Online Life",
+    "body": "Leo bought wireless headphones after reading a long list of enthusiastic reviews. The sound quality was impressive, but the microphone frequently cut out during calls. Leo was disappointed because he worked remotely and had bought the headphones mainly for meetings. He contacted customer support, described the problem clearly, and tested a suggested software update. The update improved the connection but did not solve the issue entirely. Rather than post an angry one-star review, Leo wrote a balanced account explaining both the strong sound and the unreliable microphone. Several readers thanked him for distinguishing music listening from conference calls. The company offered a refund, which Leo accepted. He later bought a less stylish headset with a dependable microphone and decided that future purchases should be based on how he intended to use them.",
+    "questions": [
+      {
+        "question": "What was Leo’s main reason for buying the headphones?",
+        "options": [
+          "Remote work meetings",
+          "Music production",
+          "Running outdoors",
+          "Studying a foreign language"
+        ],
+        "answer": 0,
+        "explanation": "Leo needed a reliable microphone for remote meetings."
+      },
+      {
+        "question": "Which feature worked well?",
+        "options": [
+          "Call microphone reliability",
+          "Sound quality",
+          "Battery replacement service",
+          "Customer support wait time"
+        ],
+        "answer": 1,
+        "explanation": "Leo said the sound quality was impressive."
+      },
+      {
+        "question": "What happened after the software update?",
+        "options": [
+          "Everything worked perfectly",
+          "The warranty expired",
+          "The problem improved but continued",
+          "The headset stopped charging"
+        ],
+        "answer": 2,
+        "explanation": "The update helped but did not completely solve the microphone issue."
+      },
+      {
+        "question": "Why did readers appreciate Leo’s review?",
+        "options": [
+          "He wrote it before trying the headphones",
+          "He offered discount coupons",
+          "He avoided mentioning the product",
+          "He described different use cases separately"
+        ],
+        "answer": 3,
+        "explanation": "His review distinguished music quality from call performance."
+      },
+      {
+        "question": "What lesson did Leo take from the experience?",
+        "options": [
+          "Choose products based on intended use",
+          "Always select the most attractive design",
+          "Avoid reading reviews altogether",
+          "Buy headphones only in person"
+        ],
+        "answer": 0,
+        "explanation": "Leo concluded that practical needs should guide purchases."
+      }
+    ]
+  },
+  {
+    "id": "the-neighborhood-meeting",
+    "title": "The Neighborhood Meeting",
+    "level": "B2",
+    "category": "Community",
+    "body": "Residents on Maple Avenue disagreed about a proposal to replace several parking spaces with a small public garden. Parents liked the idea because children had few places to play. Shop owners worried that customers would struggle to park, while an older resident pointed out that the sidewalk was already difficult to navigate. At a community meeting, the city planner presented a revised plan that preserved accessible parking and included a wider walking path. Volunteers offered to maintain the plants so that the city would not carry the full cost. The vote was close, but the revised proposal passed. Six months later, the garden hosted a weekend market that brought more customers to the nearby stores. The shop owners still wanted better signs for the remaining parking spaces, so discussions continued rather than ending with the vote.",
+    "questions": [
+      {
+        "question": "What did the proposal replace?",
+        "options": [
+          "A neighborhood school",
+          "Several parking spaces",
+          "An apartment building",
+          "A bus station"
+        ],
+        "answer": 1,
+        "explanation": "The proposed garden would take the place of several parking spaces."
+      },
+      {
+        "question": "Why were some shop owners concerned?",
+        "options": [
+          "The garden would charge admission",
+          "The market would close on weekends",
+          "Customers might have trouble parking",
+          "The city would raise sales taxes"
+        ],
+        "answer": 2,
+        "explanation": "They worried a reduction in parking could deter customers."
+      },
+      {
+        "question": "What did the revised plan preserve?",
+        "options": [
+          "A playground already on the site",
+          "The old traffic signal",
+          "Every original parking space",
+          "Accessible parking"
+        ],
+        "answer": 3,
+        "explanation": "The city planner kept accessible parking and widened the path."
+      },
+      {
+        "question": "Who offered to care for the plants?",
+        "options": [
+          "Local volunteers",
+          "Visiting tourists",
+          "The shop owners alone",
+          "The city police"
+        ],
+        "answer": 0,
+        "explanation": "Volunteers offered maintenance to reduce municipal costs."
+      },
+      {
+        "question": "What happened after the garden opened?",
+        "options": [
+          "All parking restrictions disappeared",
+          "A weekend market attracted shoppers",
+          "Every business relocated",
+          "No further discussions were needed"
+        ],
+        "answer": 1,
+        "explanation": "The garden hosted a market that brought customers to nearby stores."
+      }
+    ]
+  },
+  {
+    "id": "the-quiet-candidate",
+    "title": "The Quiet Candidate",
+    "level": "B2",
+    "category": "Work",
+    "body": "A small design agency interviewed three applicants for a client-support role. The most outgoing candidate spoke confidently but offered few concrete examples of handling difficult requests. Another applicant, Denise, was quieter and asked the interviewers several questions about how they measured customer satisfaction. She described a time when she had acknowledged a shipping mistake, arranged a replacement, and checked with the customer afterward. One interviewer initially worried that Denise might be too reserved for a busy office. After reviewing the interviews, the team agreed that careful listening and reliable follow-through mattered more than speaking the most. Denise received an offer. During her first month, she introduced a short checklist that reduced the number of unresolved support cases, although she still needed practice presenting updates to larger groups.",
+    "questions": [
+      {
+        "question": "What did the outgoing candidate lack?",
+        "options": [
+          "Confidence while speaking",
+          "Experience with any clients",
+          "Specific examples of handling difficult requests",
+          "Interest in the position"
+        ],
+        "answer": 2,
+        "explanation": "He spoke well but gave few concrete service examples."
+      },
+      {
+        "question": "What did Denise ask about?",
+        "options": [
+          "The agency’s parking rules",
+          "Vacation destinations",
+          "The interviewer’s university",
+          "How customer satisfaction was measured"
+        ],
+        "answer": 3,
+        "explanation": "Denise asked how the agency measured customer satisfaction."
+      },
+      {
+        "question": "How had Denise handled a shipping error?",
+        "options": [
+          "She acknowledged it, replaced the item and followed up",
+          "She offered no replacement",
+          "She ignored the complaint until it expired",
+          "She blamed the delivery driver and ended the call"
+        ],
+        "answer": 0,
+        "explanation": "She described acknowledging a mistake, arranging a replacement and checking later."
+      },
+      {
+        "question": "What ultimately mattered most to the team?",
+        "options": [
+          "Having the largest social network",
+          "Listening and reliable follow-through",
+          "Speaking louder than others",
+          "Dressing more formally"
+        ],
+        "answer": 1,
+        "explanation": "They valued customer care and follow-through over being the most outspoken."
+      },
+      {
+        "question": "What was an early result of Denise’s work?",
+        "options": [
+          "An immediate promotion to director",
+          "A new office building",
+          "Fewer unresolved support cases",
+          "Elimination of all customer complaints"
+        ],
+        "answer": 2,
+        "explanation": "Her checklist reduced the number of cases remaining unresolved."
+      }
+    ]
+  },
+  {
+    "id": "weekend-without-screens",
+    "title": "A Weekend Without Screens",
+    "level": "B2",
+    "category": "Habits",
+    "body": "After noticing that evenings disappeared into endless scrolling, Aisha invited three friends to try a screen-free Saturday. They agreed to keep their phones for emergencies but turn off nonessential notifications. At first, the group felt restless and kept reaching for their pockets. They visited a farmers market, cooked lunch together, and walked through a nearby park. One friend complained that they could not quickly look up the name of a bird they had spotted. Aisha suggested describing it and searching later. By the end of the afternoon, they had talked longer than usual and felt less rushed. Still, Aisha decided that a total digital ban was unrealistic during the workweek. Instead, she created a smaller habit: leaving her phone in another room for the first hour after dinner.",
+    "questions": [
+      {
+        "question": "What prompted Aisha’s experiment?",
+        "options": [
+          "A broken phone screen",
+          "A school research assignment",
+          "A new mobile-data contract",
+          "Too much time spent scrolling"
+        ],
+        "answer": 3,
+        "explanation": "She was concerned about how quickly evenings disappeared into scrolling."
+      },
+      {
+        "question": "What exception did the friends make?",
+        "options": [
+          "Phones could be used for emergencies",
+          "Phones could be used for games",
+          "All calls were banned",
+          "Work emails were always allowed"
+        ],
+        "answer": 0,
+        "explanation": "They kept phones available for genuine emergencies."
+      },
+      {
+        "question": "What activity frustrated one friend?",
+        "options": [
+          "Forgetting the ingredients for lunch",
+          "Not being able to identify a bird immediately",
+          "Losing their way in the park",
+          "Not being allowed into the farmers market"
+        ],
+        "answer": 1,
+        "explanation": "A friend could not immediately search for a bird name."
+      },
+      {
+        "question": "How did the group feel by afternoon?",
+        "options": [
+          "Eager to cancel every future plan",
+          "Angrier with one another",
+          "Less rushed and more connected",
+          "Too exhausted to speak"
+        ],
+        "answer": 2,
+        "explanation": "They had talked for longer than usual and felt less rushed."
+      },
+      {
+        "question": "What routine did Aisha finally adopt?",
+        "options": [
+          "No internet access throughout the week",
+          "Phone off at every meal forever",
+          "Only paper maps on weekends",
+          "No phone for an hour after dinner"
+        ],
+        "answer": 3,
+        "explanation": "She chose a realistic rule of leaving her phone elsewhere after dinner."
+      }
+    ]
+  },
+  {
+    "id": "a-shared-budget",
+    "title": "A Shared Budget",
+    "level": "B2",
+    "category": "Money",
+    "body": "When Alex and Morgan moved in together, they realized that their spending habits were different. Morgan carefully tracked every grocery purchase, while Alex preferred to estimate costs at the end of the month. They agreed to create a shared account for rent, utilities, and household supplies, but kept personal spending separate. After two months, their grocery costs were higher than planned. Instead of arguing over individual receipts, they reviewed the pattern and discovered that several small deliveries were adding up. They set a weekly meal plan and agreed to discuss unusual expenses before placing orders. By the next month, the household budget had improved. Neither person changed completely, but both felt the system was fair because it focused on shared goals rather than controlling personal choices.",
+    "questions": [
+      {
+        "question": "Which expenses were paid from the shared account?",
+        "options": [
+          "Rent, utilities and household supplies",
+          "Personal hobbies and gifts",
+          "Individual clothing purchases",
+          "Vacation souvenirs"
+        ],
+        "answer": 0,
+        "explanation": "They agreed to share household expenses, not all personal spending."
+      },
+      {
+        "question": "How did Alex usually manage spending?",
+        "options": [
+          "By using only cash",
+          "By estimating costs later",
+          "By asking Morgan to keep every receipt",
+          "By recording every purchase immediately"
+        ],
+        "answer": 1,
+        "explanation": "Alex preferred a month-end estimate rather than detailed tracking."
+      },
+      {
+        "question": "What made grocery costs rise?",
+        "options": [
+          "Buying a new refrigerator",
+          "A large rent increase",
+          "Frequent small deliveries",
+          "An unexpected car repair"
+        ],
+        "answer": 2,
+        "explanation": "Several small delivery orders accumulated over the month."
+      },
+      {
+        "question": "What solution did they try?",
+        "options": [
+          "Separate apartments",
+          "A ban on buying groceries",
+          "Closing every bank account",
+          "Weekly meal plans and discussing unusual expenses"
+        ],
+        "answer": 3,
+        "explanation": "They planned meals and agreed to communicate about unusual spending."
+      },
+      {
+        "question": "Why did they consider the arrangement fair?",
+        "options": [
+          "It respected personal choices while meeting shared goals",
+          "Both had exactly the same spending habits",
+          "Morgan made every decision alone",
+          "It eliminated the need to track expenses"
+        ],
+        "answer": 0,
+        "explanation": "They preserved personal independence while coordinating shared household costs."
+      }
+    ]
+  },
+  {
+    "id": "the-park-volunteers",
+    "title": "The Park Volunteers",
+    "level": "B2",
+    "category": "Community",
+    "body": "A group of neighbors signed up to clean a riverbank after a weekend storm left plastic and branches along the walking path. The organizers expected about a dozen volunteers, but thirty people arrived. They divided the area into smaller zones and reminded everyone not to touch sharp or unidentified objects. Children helped collect paper and plastic in supervised areas, while trained staff handled heavier debris. By noon, the volunteers had filled more bags than expected. A local cafe donated sandwiches, and the group sat together to discuss what would prevent the same problem next month. They proposed installing covered trash bins and clearer signs near the picnic area. The cleanup was successful, but the organizers emphasized that ongoing prevention would matter more than any single event.",
+    "questions": [
+      {
+        "question": "What led to the riverbank cleanup?",
+        "options": [
+          "Construction of a new bridge",
+          "Storm debris along the path",
+          "An annual sports competition",
+          "A citywide power outage"
+        ],
+        "answer": 1,
+        "explanation": "A storm left branches and plastic along the riverbank trail."
+      },
+      {
+        "question": "How many volunteers arrived?",
+        "options": [
+          "Twelve",
+          "Five",
+          "Thirty",
+          "Fifty"
+        ],
+        "answer": 2,
+        "explanation": "Organizers expected about twelve people, but thirty showed up."
+      },
+      {
+        "question": "Who handled heavy debris?",
+        "options": [
+          "The cafe employees",
+          "Visitors walking their dogs",
+          "Unsupervised children",
+          "Trained staff"
+        ],
+        "answer": 3,
+        "explanation": "Trained workers were assigned heavier or potentially hazardous debris."
+      },
+      {
+        "question": "Who provided lunch?",
+        "options": [
+          "A local cafe",
+          "The city mayor",
+          "The local library",
+          "A hotel chain"
+        ],
+        "answer": 0,
+        "explanation": "A neighborhood cafe donated sandwiches."
+      },
+      {
+        "question": "What did volunteers propose for prevention?",
+        "options": [
+          "Closing the walking path permanently",
+          "Covered trash bins and clearer signs",
+          "Moving the river underground",
+          "Holding cleanups every morning"
+        ],
+        "answer": 1,
+        "explanation": "They discussed improved covered bins and signs near the picnic area."
+      }
+    ]
+  },
+  {
+    "id": "a-disputed-photo",
+    "title": "A Disputed Photograph",
+    "level": "C1",
+    "category": "Media Literacy",
+    "body": "A photograph of a flooded street spread quickly through the city’s social-media groups, accompanied by claims that a new drainage project had failed. The image looked convincing, but journalist Tessa noticed an unfamiliar storefront in the background. She searched older local news archives and found the same photograph in an article published five years earlier. The original caption identified a neighborhood several miles away. Before publishing a correction, Tessa contacted the photographer to confirm when and where the picture was taken. The photographer supplied the original file and its date. Tessa then wrote an article explaining the mix-up, but she also interviewed residents who had legitimate concerns about the new drainage system. Her report did not dismiss those concerns; it separated evidence about an old photograph from questions that still deserved investigation.",
+    "questions": [
+      {
+        "question": "What was being alleged online?",
+        "options": [
+          "The street had been renamed",
+          "The city had canceled a bridge",
+          "A drainage project had failed",
+          "A new shopping center was opening"
+        ],
+        "answer": 2,
+        "explanation": "The picture was shared as supposed evidence that drainage improvements failed."
+      },
+      {
+        "question": "What first made Tessa suspicious?",
+        "options": [
+          "The number of cars in traffic",
+          "A cloud in the sky",
+          "The photographer’s name in the caption",
+          "A storefront she did not recognize"
+        ],
+        "answer": 3,
+        "explanation": "An unfamiliar storefront prompted her to investigate the image."
+      },
+      {
+        "question": "Where did she find the same image?",
+        "options": [
+          "An article published five years earlier",
+          "A live weather camera",
+          "A new city planning report",
+          "An advertisement from last week"
+        ],
+        "answer": 0,
+        "explanation": "A local archive contained the photo in a five-year-old article."
+      },
+      {
+        "question": "How did Tessa confirm the image’s origin?",
+        "options": [
+          "She relied on the number of social shares",
+          "She contacted the photographer and checked the original file",
+          "She compared emoji reactions",
+          "She asked a stranger to vote online"
+        ],
+        "answer": 1,
+        "explanation": "The photographer supplied the original file and its date."
+      },
+      {
+        "question": "Which conclusion best matches Tessa’s report?",
+        "options": [
+          "The flood had happened on the same day",
+          "All residents were making false complaints",
+          "The photograph was misleading, but drainage concerns still warranted review",
+          "The project was proven flawless by the old photo"
+        ],
+        "answer": 2,
+        "explanation": "Tessa distinguished a false image claim from legitimate open questions."
+      }
+    ]
+  },
+  {
+    "id": "an-unexpected-mentor",
+    "title": "An Unexpected Mentor",
+    "level": "C1",
+    "category": "Career",
+    "body": "When Camille joined a research team, she assumed that the most experienced scientist would become her mentor. Instead, her manager paired her with Andre, a technician who had been maintaining the laboratory for years. Initially, Camille worried that she would miss opportunities to discuss theoretical problems. Andre surprised her by explaining how small procedural changes could alter experimental results. He also taught her to document failures without treating them as personal setbacks. During her first project, Camille noticed that one measurement changed depending on how long equipment had been warming up. She discussed the pattern with Andre, and together they adjusted the protocol. The team repeated the experiment and obtained more consistent data. Camille still sought advice from senior researchers, but she came to regard technical expertise and theoretical knowledge as complementary rather than competing sources of insight.",
+    "questions": [
+      {
+        "question": "Who became Camille’s assigned mentor?",
+        "options": [
+          "A scientist from another university",
+          "The newest graduate student",
+          "The laboratory director",
+          "Andre, a long-serving laboratory technician"
+        ],
+        "answer": 3,
+        "explanation": "Her manager paired her with technician Andre."
+      },
+      {
+        "question": "What did Camille initially worry about?",
+        "options": [
+          "Missing theoretical discussions",
+          "Having no access to the laboratory",
+          "Being transferred to another country",
+          "Losing all research funding"
+        ],
+        "answer": 0,
+        "explanation": "She feared a technician mentor might not help with theory."
+      },
+      {
+        "question": "What variable affected her measurement?",
+        "options": [
+          "The color of the laboratory walls",
+          "How long the equipment had warmed up",
+          "The length of the staff meeting",
+          "The date of a conference"
+        ],
+        "answer": 1,
+        "explanation": "The reading changed with the equipment warm-up duration."
+      },
+      {
+        "question": "What did the team do after adjusting the protocol?",
+        "options": [
+          "They replaced every researcher",
+          "They deleted the original data",
+          "They repeated the experiment",
+          "They abandoned the project permanently"
+        ],
+        "answer": 2,
+        "explanation": "The experiment was repeated and produced more consistent data."
+      },
+      {
+        "question": "What did Camille conclude about expertise?",
+        "options": [
+          "Experiments should never be documented",
+          "Only senior titles matter",
+          "Technical knowledge replaces theory entirely",
+          "Practical and theoretical knowledge can complement each other"
+        ],
+        "answer": 3,
+        "explanation": "She learned to value technical and theoretical expertise together."
+      }
+    ]
+  },
+  {
+    "id": "the-quiet-policy-change",
+    "title": "The Quiet Policy Change",
+    "level": "C1",
+    "category": "Workplace",
+    "body": "A technology firm announced that employees could work from home three days a week, but the policy contained a condition many people initially overlooked: each department had to agree on common office days. Engineers preferred Tuesdays and Thursdays, while the support team needed staff on site during client visits. When conflicts emerged, manager Rosa invited representatives from each group to propose a schedule. The first meeting was tense because some employees assumed that their preferences would be ignored. Rosa asked everyone to describe a genuine operational need before discussing personal convenience. Eventually the teams agreed on two shared days and one flexible day. The arrangement was not ideal for everyone, but productivity and attendance stabilized after a month. Rosa also scheduled a review after eight weeks, acknowledging that an agreement should be adjustable when circumstances change.",
+    "questions": [
+      {
+        "question": "What condition did the hybrid policy include?",
+        "options": [
+          "Departments had to coordinate common office days",
+          "Home working required a salary reduction",
+          "Only engineers could work remotely",
+          "Everyone had to come in on Mondays"
+        ],
+        "answer": 0,
+        "explanation": "The policy required departments to agree on shared office days."
+      },
+      {
+        "question": "Why did the support team need people on site?",
+        "options": [
+          "To supervise construction",
+          "For client visits",
+          "To repair office furniture",
+          "For daily company lunches"
+        ],
+        "answer": 1,
+        "explanation": "The support team needed coverage when clients visited."
+      },
+      {
+        "question": "What did Rosa ask teams to explain first?",
+        "options": [
+          "Their preferred lunch meals",
+          "Their annual vacation destinations",
+          "Their actual operational needs",
+          "Their personal shopping habits"
+        ],
+        "answer": 2,
+        "explanation": "She prioritized practical business needs over personal convenience."
+      },
+      {
+        "question": "What schedule was ultimately agreed?",
+        "options": [
+          "Five fixed office days",
+          "A four-day office closure",
+          "Different offices for every employee",
+          "Two shared days and one flexible day"
+        ],
+        "answer": 3,
+        "explanation": "The groups compromised on two common days and one flexible day."
+      },
+      {
+        "question": "Why was another review scheduled?",
+        "options": [
+          "The agreement might need adjustment",
+          "Attendance had fallen to zero",
+          "The company was closing",
+          "The manager planned to cancel remote work"
+        ],
+        "answer": 0,
+        "explanation": "Rosa recognized that circumstances might change."
+      }
+    ]
+  },
+  {
+    "id": "a-customer-complaint",
+    "title": "Beyond the Refund",
+    "level": "C1",
+    "category": "Customer Service",
+    "body": "A local delivery company received complaints after several customers discovered that their parcels had been left in the rain. The operations manager, Becca, offered refunds, but one customer pointed out that replacing a damaged gift before a birthday was impossible. Becca realized that compensation alone would not repair the company’s reputation. She reviewed delivery routes and found that drivers lacked a consistent procedure when no one answered the door. Some left packages on porches while others returned them to the depot. Becca introduced a clear policy requiring a sheltered drop-off spot or a delivery notice. She also arranged short training sessions and personally followed up with customers whose parcels had been damaged. Complaints fell over the next two months, although Becca continued to monitor deliveries during bad weather.",
+    "questions": [
+      {
+        "question": "What caused the original complaints?",
+        "options": [
+          "Customers were charged twice",
+          "Parcels were left in the rain",
+          "Deliveries arrived in unmarked vans",
+          "The website stopped accepting payments"
+        ],
+        "answer": 1,
+        "explanation": "Several parcels had been damaged after exposure to rain."
+      },
+      {
+        "question": "Why were refunds insufficient for one customer?",
+        "options": [
+          "The refund amount was too large",
+          "The recipient wanted to change cities",
+          "A birthday gift could not be replaced in time",
+          "The store offered a discount"
+        ],
+        "answer": 2,
+        "explanation": "A damaged birthday gift had a time-sensitive value."
+      },
+      {
+        "question": "What inconsistency did Becca discover?",
+        "options": [
+          "Customers received duplicate tracking numbers",
+          "All deliveries were delayed by trains",
+          "The company used different currencies",
+          "Drivers followed different no-answer procedures"
+        ],
+        "answer": 3,
+        "explanation": "Drivers handled unanswered doors in different ways."
+      },
+      {
+        "question": "What did the new policy require?",
+        "options": [
+          "A sheltered drop-off or delivery notice",
+          "Calling the police for each delivery",
+          "Leaving every parcel on a porch",
+          "Returning all parcels without explanation"
+        ],
+        "answer": 0,
+        "explanation": "The policy specified sheltered drop-offs or a notice."
+      },
+      {
+        "question": "How did Becca respond beyond changing policy?",
+        "options": [
+          "She closed the company website",
+          "She trained drivers and followed up with customers",
+          "She stopped offering refunds",
+          "She canceled all rainy-day deliveries"
+        ],
+        "answer": 1,
+        "explanation": "She added training and customer follow-up to the procedural change."
+      }
+    ]
+  },
+  {
+    "id": "the-inconvenient-evidence",
+    "title": "An Inconvenient Result",
+    "level": "C1",
+    "category": "Science",
+    "body": "A university research group had spent months testing whether a new study app improved exam performance. The team expected encouraging results because early feedback was enthusiastic. However, when analyst Mei compared final scores, she found little difference between the app users and the comparison group. One colleague suggested highlighting only satisfaction ratings in the report. Mei objected: the study had been designed to measure learning, not simply whether participants enjoyed the interface. She proposed publishing the disappointing results alongside limitations, including a small sample and inconsistent app use. The supervisor agreed and encouraged a follow-up study focused on study habits rather than interface design. Their final report attracted fewer headlines than a success story might have, but several educators praised its transparency and used it to rethink how they evaluated digital learning tools.",
+    "questions": [
+      {
+        "question": "What had the researchers hoped to improve?",
+        "options": [
+          "Library opening hours",
+          "Teachers’ salaries",
+          "Exam performance",
+          "Students’ commuting times"
+        ],
+        "answer": 2,
+        "explanation": "The app was tested for its effect on exam scores."
+      },
+      {
+        "question": "What did Mei find in the final results?",
+        "options": [
+          "No one completed the study",
+          "Every student failed the exam",
+          "All app users earned perfect grades",
+          "Little score difference between groups"
+        ],
+        "answer": 3,
+        "explanation": "Mei found no meaningful difference in the compared exam scores."
+      },
+      {
+        "question": "What did a colleague suggest emphasizing?",
+        "options": [
+          "Satisfaction ratings",
+          "The comparison-group scores",
+          "The experiment’s limitations",
+          "The exam marking criteria"
+        ],
+        "answer": 0,
+        "explanation": "A colleague wanted to focus on enthusiastic satisfaction ratings."
+      },
+      {
+        "question": "Why did Mei reject that suggestion?",
+        "options": [
+          "The ratings were collected by a different university",
+          "It avoided the study’s learning outcome",
+          "The app had no user interface",
+          "The exam had been canceled"
+        ],
+        "answer": 1,
+        "explanation": "The stated research question concerned learning rather than enjoyment."
+      },
+      {
+        "question": "What did the supervisor recommend next?",
+        "options": [
+          "Selling the app immediately",
+          "Recruiting people without exams",
+          "A study focused on study habits",
+          "Publishing only the positive comments"
+        ],
+        "answer": 2,
+        "explanation": "The supervisor suggested investigating actual study behavior."
+      }
+    ]
+  },
+  {
+    "id": "the-library-debate",
+    "title": "A Library After Dark",
+    "level": "C1",
+    "category": "Public Policy",
+    "body": "When the city proposed extending library hours until midnight, supporters argued that students and shift workers needed a quiet place in the evening. Critics raised legitimate concerns about staffing costs and employee safety. Library director Nadia avoided framing the discussion as a simple choice between access and responsibility. Instead, she proposed a three-month pilot at one branch, with security staff, additional lighting, and data collection on attendance. The city council approved the pilot with a limited budget. Early figures showed strong attendance on weekdays but few visitors late on Sundays. Nadia recommended keeping extended weekday hours while ending the Sunday trial. Some residents wanted every branch to stay open, yet Nadia explained that expanding gradually would allow the city to assess benefits without committing resources it could not sustain.",
+    "questions": [
+      {
+        "question": "Who particularly wanted late opening hours?",
+        "options": [
+          "Only the library board",
+          "Visitors from another state",
+          "Private bookshop owners",
+          "Students and shift workers"
+        ],
+        "answer": 3,
+        "explanation": "Supporters highlighted students and people working shifts."
+      },
+      {
+        "question": "What concern did critics raise?",
+        "options": [
+          "Costs and staff safety",
+          "Too many weekend sports events",
+          "A ban on electronic books",
+          "A shortage of bookshelves"
+        ],
+        "answer": 0,
+        "explanation": "The proposal raised staffing-cost and safety issues."
+      },
+      {
+        "question": "What did Nadia propose instead of an immediate citywide change?",
+        "options": [
+          "Extending every branch indefinitely",
+          "A three-month pilot at one branch",
+          "Closing every branch for repairs",
+          "Switching entirely to online books"
+        ],
+        "answer": 1,
+        "explanation": "Nadia suggested testing the approach at a single branch."
+      },
+      {
+        "question": "What did attendance data show about Sundays?",
+        "options": [
+          "The highest attendance of the week",
+          "All visitors arrived after midnight",
+          "Few late-night visitors",
+          "The branch was closed by accident"
+        ],
+        "answer": 2,
+        "explanation": "Late Sunday attendance was low compared with weekday demand."
+      },
+      {
+        "question": "What principle guided Nadia’s recommendation?",
+        "options": [
+          "Always offer identical hours regardless of demand",
+          "Ignore staffing costs",
+          "Replace security with volunteers only",
+          "Expand services gradually based on evidence"
+        ],
+        "answer": 3,
+        "explanation": "She used pilot data to balance service benefits and sustainability."
+      }
+    ]
+  },
+  {
+    "id": "the-family-recipe",
+    "title": "A Recipe With a History",
+    "level": "B2",
+    "category": "Family & Food",
+    "body": "When her grandmother moved into a smaller apartment, Clara offered to organize a box of handwritten recipes. Many pages were stained and some measurements were missing. Clara first tried to type everything into a spreadsheet, but her grandmother insisted that the notes in the margins mattered. One recipe included a reminder to use less sugar if the fruit was particularly sweet. Another had the name of a neighbor who used to bring fresh lemons. Clara began recording short conversations with her grandmother while they cooked the dishes together. She photographed the original cards, added clear instructions, and noted which steps were estimates. By the end of the month, the family had a small digital cookbook. Clara said the project had preserved stories and relationships, not just ingredients.",
+    "questions": [
+      {
+        "question": "Why did Clara begin organizing recipes?",
+        "options": [
+          "Her grandmother was moving to a smaller home",
+          "She was opening a restaurant",
+          "She had lost her own cookbook",
+          "She needed to buy a new oven"
+        ],
+        "answer": 0,
+        "explanation": "The move prompted Clara to sort a box of family recipe cards."
+      },
+      {
+        "question": "What problem did the written recipes have?",
+        "options": [
+          "None included ingredients",
+          "Some measurements were missing",
+          "Every page had been printed twice",
+          "All recipes were in a foreign language"
+        ],
+        "answer": 1,
+        "explanation": "Some old handwritten cards lacked exact measurements."
+      },
+      {
+        "question": "Why were the margin notes important?",
+        "options": [
+          "They explained how to repair cookware",
+          "They recorded shop opening times",
+          "They contained practical cooking adjustments and memories",
+          "They listed calorie counts for every dish"
+        ],
+        "answer": 2,
+        "explanation": "The notes included sugar adjustments and a neighbor’s name."
+      },
+      {
+        "question": "How did Clara capture unwritten details?",
+        "options": [
+          "By hiring an advertising agency",
+          "By translating magazine articles",
+          "By asking strangers online",
+          "By recording conversations while cooking"
+        ],
+        "answer": 3,
+        "explanation": "Clara recorded her grandmother explaining recipes during cooking."
+      },
+      {
+        "question": "What did the finished cookbook preserve besides ingredients?",
+        "options": [
+          "Family stories and connections",
+          "A complete restaurant menu",
+          "All local grocery prices",
+          "The apartment lease"
+        ],
+        "answer": 0,
+        "explanation": "Clara valued the personal stories behind the recipes."
+      }
+    ]
+  },
+  {
+    "id": "the-subscription-trap",
+    "title": "The Subscription Trap",
+    "level": "B2",
+    "category": "Money & Technology",
+    "body": "After noticing an unusually high credit-card bill, Dev went through his monthly statements. He found charges for three services he rarely used: a fitness app, a streaming platform, and a cloud-storage upgrade. None of the subscriptions seemed expensive on its own, but together they added up. The fitness service required a cancellation through its website, while the streaming platform could be canceled from the phone app. The storage upgrade was more complicated because Dev needed to download some photos before reducing his plan. He created a reminder to check recurring payments every three months and moved his savings into an emergency fund. Dev did not cancel everything; he kept the music service he used daily. His goal was to spend intentionally rather than avoid technology.",
+    "questions": [
+      {
+        "question": "What prompted Dev to review his subscriptions?",
+        "options": [
+          "A new job contract",
+          "An unexpectedly high credit-card bill",
+          "A missing phone",
+          "A bank branch closure"
+        ],
+        "answer": 1,
+        "explanation": "An unusually high statement made Dev examine recurring charges."
+      },
+      {
+        "question": "How many seldom-used services did Dev find?",
+        "options": [
+          "One",
+          "Five",
+          "Three",
+          "Seven"
+        ],
+        "answer": 2,
+        "explanation": "He found a fitness app, a streaming platform and extra storage."
+      },
+      {
+        "question": "What had to happen before Dev reduced cloud storage?",
+        "options": [
+          "He had to buy a new phone",
+          "He needed to cancel his internet service",
+          "He had to create another bank account",
+          "He needed to download some photos"
+        ],
+        "answer": 3,
+        "explanation": "Some stored photos needed to be downloaded first."
+      },
+      {
+        "question": "How often did Dev plan to review recurring payments?",
+        "options": [
+          "Every three months",
+          "Every two years",
+          "Only after a missed payment",
+          "Every day"
+        ],
+        "answer": 0,
+        "explanation": "He created a quarterly review reminder."
+      },
+      {
+        "question": "Why did Dev keep a music subscription?",
+        "options": [
+          "It was the most expensive service",
+          "He used it every day",
+          "It was impossible to cancel",
+          "It came with his rent"
+        ],
+        "answer": 1,
+        "explanation": "He kept services that provided regular value."
+      }
+    ]
+  },
+  {
+    "id": "an-imperfect-apology",
+    "title": "An Imperfect Apology",
+    "level": "C1",
+    "category": "Relationships",
+    "body": "At a team dinner, Omar made a joke about a colleague’s presentation that he intended to sound lighthearted. The comment embarrassed Nina, who had worked all week on the project. The next morning, Omar sent a message saying he was sorry if she had been offended. Nina replied that the problem was not her sensitivity but his public remark. Omar realized that his wording had avoided taking responsibility. He asked to speak privately, acknowledged that the joke had been inappropriate, and apologized without adding an excuse. Nina appreciated the second conversation, although she said trust would take time to rebuild. During the next team meeting, Omar credited Nina’s contribution clearly. They did not become close friends immediately, but their working relationship gradually improved because his behavior became more considerate.",
+    "questions": [
+      {
+        "question": "What initially upset Nina?",
+        "options": [
+          "A correction to her email",
+          "A missed dinner invitation",
+          "A public joke about her presentation",
+          "A canceled business trip"
+        ],
+        "answer": 2,
+        "explanation": "Omar joked about her work in front of colleagues."
+      },
+      {
+        "question": "Why was Omar’s first apology inadequate?",
+        "options": [
+          "It was delivered too late at night",
+          "It was handwritten",
+          "It mentioned a different project",
+          "It made her reaction the issue instead of his behavior"
+        ],
+        "answer": 3,
+        "explanation": "“Sorry if you were offended” avoided accepting responsibility."
+      },
+      {
+        "question": "How did Omar change his apology?",
+        "options": [
+          "He acknowledged his inappropriate remark without excuses",
+          "He blamed Nina again",
+          "He criticized the team",
+          "He refused to meet privately"
+        ],
+        "answer": 0,
+        "explanation": "He took responsibility and apologized directly."
+      },
+      {
+        "question": "What did Nina say about rebuilding trust?",
+        "options": [
+          "It depended only on the manager",
+          "It would take time",
+          "The issue could never improve",
+          "One message had fixed everything"
+        ],
+        "answer": 1,
+        "explanation": "Nina appreciated the discussion but cautioned that trust needed time."
+      },
+      {
+        "question": "What later action supported Omar’s apology?",
+        "options": [
+          "Taking credit for her work",
+          "Avoiding all communication",
+          "Giving Nina clear credit in a meeting",
+          "Repeating the joke"
+        ],
+        "answer": 2,
+        "explanation": "Omar publicly recognized Nina’s contribution in a later meeting."
+      }
+    ]
+  },
+  {
+    "id": "the-longer-route",
+    "title": "The Longer Route",
+    "level": "B2",
+    "category": "Travel & Cities",
+    "body": "Dylan usually drove across the city on a busy highway, but road construction forced him to take a longer route through residential streets. He initially complained because the new trip added ten minutes. After a week, he noticed that the neighborhood route was more predictable: traffic moved slowly but rarely stopped completely. He also discovered a small bakery where he could pick up breakfast before work. When the highway reopened, Dylan compared travel times rather than automatically returning to his old habit. The highway was faster on some mornings but much slower after minor accidents. Dylan began checking conditions before leaving and chose the quieter route when delays were likely. He realized that the shortest distance did not always produce the most reliable journey.",
+    "questions": [
+      {
+        "question": "Why did Dylan change his usual journey?",
+        "options": [
+          "His car had broken down",
+          "He moved to a different house",
+          "He started cycling to work",
+          "Highway road construction"
+        ],
+        "answer": 3,
+        "explanation": "Construction forced him off his usual highway."
+      },
+      {
+        "question": "How much longer did the alternate drive first seem?",
+        "options": [
+          "Ten minutes",
+          "Half an hour",
+          "An entire hour",
+          "Five minutes"
+        ],
+        "answer": 0,
+        "explanation": "The route initially added about ten minutes."
+      },
+      {
+        "question": "What advantage did he notice after a week?",
+        "options": [
+          "A much shorter distance",
+          "More predictable traffic",
+          "Free parking on every street",
+          "No traffic lights"
+        ],
+        "answer": 1,
+        "explanation": "Traffic was slow but more consistent."
+      },
+      {
+        "question": "What did he discover along the route?",
+        "options": [
+          "A new railway station",
+          "An airport shuttle",
+          "A small bakery",
+          "A public library"
+        ],
+        "answer": 2,
+        "explanation": "He found a bakery for breakfast."
+      },
+      {
+        "question": "How did his commuting habit change?",
+        "options": [
+          "He permanently avoided every highway",
+          "He drove without considering traffic",
+          "He traveled only on weekends",
+          "He checked conditions and selected the more reliable route"
+        ],
+        "answer": 3,
+        "explanation": "Dylan chose routes based on actual conditions, not habit."
+      }
+    ]
+  },
+  {
+    "id": "the-concert-ticket",
+    "title": "A Ticket Worth Keeping",
+    "level": "B2",
+    "category": "Social Life",
+    "body": "Rina bought two concert tickets months in advance because her brother loved the band. A week before the show, he learned that his final exam had been moved to the following morning. He decided not to attend, even though he was disappointed. Rina offered the spare ticket to a friend, but the friend could only arrive halfway through the performance. Instead of letting the seat remain empty, Rina posted a message in her neighborhood group offering it at face value. A teacher who had recently moved to the city replied and bought the ticket. They met outside the venue, enjoyed the show, and discovered they lived on the same street. Rina sent her brother a short video afterward. He appreciated the gesture and said he would plan another concert after exams.",
+    "questions": [
+      {
+        "question": "Why could Rina’s brother not attend?",
+        "options": [
+          "His final exam was moved to the next morning",
+          "He had lost his ticket",
+          "The band canceled",
+          "He had moved abroad"
+        ],
+        "answer": 0,
+        "explanation": "A rescheduled exam conflicted with the concert."
+      },
+      {
+        "question": "Why was Rina’s friend not an ideal replacement?",
+        "options": [
+          "The friend had already bought a ticket",
+          "The friend could arrive only halfway through",
+          "The friend was performing with the band",
+          "The friend disliked all music"
+        ],
+        "answer": 1,
+        "explanation": "The friend could not attend the full show."
+      },
+      {
+        "question": "How did Rina offer the spare ticket?",
+        "options": [
+          "By mailing it to the band",
+          "Through an expensive auction",
+          "In a neighborhood group at face value",
+          "By leaving it outside the venue"
+        ],
+        "answer": 2,
+        "explanation": "Rina offered the spare seat locally without a markup."
+      },
+      {
+        "question": "Who bought the ticket?",
+        "options": [
+          "The venue manager",
+          "The original ticket seller",
+          "Her brother’s examiner",
+          "A teacher new to the city"
+        ],
+        "answer": 3,
+        "explanation": "A recently arrived teacher responded."
+      },
+      {
+        "question": "What did Rina and the buyer discover?",
+        "options": [
+          "They lived on the same street",
+          "They had attended the same school",
+          "They were relatives",
+          "They had worked together previously"
+        ],
+        "answer": 0,
+        "explanation": "They found out they were neighbors."
+      }
+    ]
+  },
+  {
+    "id": "the-faulty-metric",
+    "title": "The Wrong Metric",
+    "level": "C1",
+    "category": "Business & Analytics",
+    "body": "A retail chain celebrated after its new loyalty program attracted thousands of sign-ups. Senior managers pointed to the growing registration chart as proof of success. Analyst Imani was less convinced. She discovered that many customers created accounts for a one-time discount but never returned. She proposed examining repeat purchases and customer complaints alongside sign-ups. The deeper analysis revealed that customers who joined in person returned more often than those recruited through online advertisements. Rather than cancel the campaign, Imani recommended testing a follow-up welcome message and improving the checkout experience. Over the next quarter, the proportion of returning customers rose slightly. The team learned to distinguish a metric that looked impressive from one that actually reflected lasting customer relationships.",
+    "questions": [
+      {
+        "question": "Which measure originally impressed management?",
+        "options": [
+          "Profit per store",
+          "Number of loyalty-program sign-ups",
+          "Average delivery distance",
+          "Employee attendance"
+        ],
+        "answer": 1,
+        "explanation": "Managers focused on the growing registration count."
+      },
+      {
+        "question": "Why did Imani question the interpretation?",
+        "options": [
+          "The program had no members",
+          "Every customer complained immediately",
+          "Many members never made a second purchase",
+          "Stores had stopped selling products"
+        ],
+        "answer": 2,
+        "explanation": "Some people joined for a discount and did not return."
+      },
+      {
+        "question": "What did she suggest measuring instead or as well?",
+        "options": [
+          "The company logo size",
+          "How many employees wore uniforms",
+          "Only the number of advertisements",
+          "Repeat purchases and customer complaints"
+        ],
+        "answer": 3,
+        "explanation": "She proposed metrics tied to customer behavior and experience."
+      },
+      {
+        "question": "Which enrollment channel brought more returning shoppers?",
+        "options": [
+          "In-person enrollment",
+          "Radio competitions",
+          "Online advertisements",
+          "Printed newspaper ads"
+        ],
+        "answer": 0,
+        "explanation": "The data indicated higher repeat visits for in-person sign-ups."
+      },
+      {
+        "question": "What lesson did the team learn?",
+        "options": [
+          "Large numbers always mean success",
+          "An impressive-looking figure may not reflect lasting value",
+          "Customer feedback is useless",
+          "Every online campaign should be canceled"
+        ],
+        "answer": 1,
+        "explanation": "The team separated vanity metrics from real customer relationships."
+      }
+    ]
+  }
+]

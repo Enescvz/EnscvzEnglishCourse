@@ -1,0 +1,59 @@
+{
+  "date": "2026-10-29",
+  "type": "private_development_QA_do_not_deploy",
+  "sourceZip": "AEL_PRIVATE_DEV_BACKUP_20261029_DAILY_EXPRESSIONS_B1_100_QA_DO_NOT_DEPLOY.zip",
+  "authored": {
+    "total": 300,
+    "byLevel": {
+      "B1": 100,
+      "B2": 120,
+      "C1": 80
+    },
+    "newCards": 200,
+    "preservedB1": 100,
+    "examples": 600,
+    "dialogues": 300
+  },
+  "integration": {
+    "dailyExpressionsJsonUpdated": true,
+    "levelFilteredFSRS": true,
+    "separateProgressMap": true,
+    "oldLearningIdsPreserved": true,
+    "serviceWorkerVersionUpdated": true,
+    "releaseGateRecomputesExpressionCounts": true
+  },
+  "checks": {
+    "javascript": {
+      "passed": 104,
+      "failed": 0
+    },
+    "python": {
+      "passed": 186,
+      "failed": 0
+    },
+    "total": 290,
+    "B1CardsUnmodified": true,
+    "oldDataOtherThanExpressionsUnmodified": true,
+    "speakingAndListeningAudioUnchanged": true,
+    "releaseGate": "LOCKED"
+  },
+  "browser": {
+    "virtualChromium": "NOT_RUN",
+    "reason": "Playwright package available but Chromium executable missing in working environment",
+    "mobileRealSafari": "NOT_RUN"
+  },
+  "editorial": {
+    "reviewStatus": "authored_pending_independent_review",
+    "externalCorpusValidated": false,
+    "certifiedCEFRLevels": false,
+    "humanVoiceApproved": 0,
+    "syntheticTTSNotHumanAudio": true
+  },
+  "SHA256_DailyExpressionsJson": "c85f1937b4d78b1e784be65abd9effe634e8ac5cac9847ed1b69ad41dca13fa2",
+  "releaseApproved": false,
+  "remaining": [
+    "Independent US-English editor review of all examples/translations",
+    "Licensed human-voice recordings if needed",
+    "Physical Safari and offline QA"
+  ]
+}

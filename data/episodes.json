@@ -1,0 +1,2176 @@
+[
+  {
+    "id": "mystery-library",
+    "title": "The Library That Never Closed",
+    "level": "B2",
+    "category": "Mystery",
+    "source": "Original script · locally synthesized American English speech (eSpeak)",
+    "turns": [
+      {
+        "speaker": "Maya",
+        "text": "You know the old library on Oak Street? I came across a curious note about it yesterday."
+      },
+      {
+        "speaker": "Alex",
+        "text": "The one that closed twenty years ago? What did you find?"
+      },
+      {
+        "speaker": "Maya",
+        "text": "A visitor claimed that the lights were still on after midnight. At first, I thought the story was exaggerated."
+      },
+      {
+        "speaker": "Alex",
+        "text": "That sounds intriguing, but a light doesn’t prove anyone was inside."
+      },
+      {
+        "speaker": "Maya",
+        "text": "Exactly. So I looked into the building’s history. The library used to host evening classes for factory workers."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Maybe the security system is still active. Did you check with the city?"
+      },
+      {
+        "speaker": "Maya",
+        "text": "I did. The city confirmed that the building receives electricity, but nobody has permission to enter."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Then the mystery isn’t solved. We need evidence before we jump to conclusions."
+      },
+      {
+        "speaker": "Maya",
+        "text": "Agreed. I’m going back during the day, with permission, to see whether a timer controls the lights."
+      }
+    ],
+    "questions": [
+      {
+        "question": "What are Maya and Alex investigating?",
+        "options": [
+          "An unexpected storm",
+          "Lights in an old library",
+          "A missing book",
+          "A new school"
+        ],
+        "answer": 1,
+        "explanation": "The conversation supports “Lights in an old library”; the other options are not stated or contradict the speakers."
+      },
+      {
+        "question": "Why is Alex skeptical?",
+        "options": [
+          "A light is not evidence of a visitor",
+          "The library has no windows",
+          "The note is written in Spanish",
+          "The building was demolished"
+        ],
+        "answer": 0,
+        "explanation": "The conversation supports “A light is not evidence of a visitor”; the other options are not stated or contradict the speakers."
+      }
+    ],
+    "focus": "That sounds intriguing, but a light doesn’t prove anyone was inside.",
+    "minutes": 1,
+    "audio": "assets/audio/episode-mystery-library.mp3",
+    "timings": [
+      {
+        "start": 0.0,
+        "end": 6.41
+      },
+      {
+        "start": 6.61,
+        "end": 11.56
+      },
+      {
+        "start": 11.76,
+        "end": 19.58
+      },
+      {
+        "start": 19.78,
+        "end": 24.8
+      },
+      {
+        "start": 25.0,
+        "end": 33.65
+      },
+      {
+        "start": 33.85,
+        "end": 39.11
+      },
+      {
+        "start": 39.31,
+        "end": 46.61
+      },
+      {
+        "start": 46.81,
+        "end": 52.74
+      },
+      {
+        "start": 52.94,
+        "end": 60.29
+      }
+    ]
+  },
+  {
+    "id": "tiny-habits",
+    "title": "Why Small Habits Stick",
+    "level": "B2",
+    "category": "Psychology",
+    "source": "Original script · locally synthesized American English speech (eSpeak)",
+    "turns": [
+      {
+        "speaker": "Maya",
+        "text": "Every January I set huge goals, and by February I feel overwhelmed."
+      },
+      {
+        "speaker": "Alex",
+        "text": "I used to do that too. Then I decided to narrow down my goals to one small action."
+      },
+      {
+        "speaker": "Maya",
+        "text": "Just one? Doesn’t that seem a little too easy?"
+      },
+      {
+        "speaker": "Alex",
+        "text": "That’s the point. If the task feels manageable, I’m much more likely to follow through on it."
+      },
+      {
+        "speaker": "Maya",
+        "text": "Give me a concrete example."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Instead of promising to read a book every week, I started reading two pages before breakfast."
+      },
+      {
+        "speaker": "Maya",
+        "text": "So the routine matters more than the number of pages?"
+      },
+      {
+        "speaker": "Alex",
+        "text": "At first, yes. Once the habit is consistent, you can gradually build up the difficulty."
+      },
+      {
+        "speaker": "Maya",
+        "text": "I like that. I’m going to try five minutes of English listening after my morning coffee."
+      }
+    ],
+    "questions": [
+      {
+        "question": "What is Alex’s main advice?",
+        "options": [
+          "Set several large goals",
+          "Start with a small repeatable action",
+          "Avoid tracking habits",
+          "Change goals daily"
+        ],
+        "answer": 1,
+        "explanation": "The conversation supports “Start with a small repeatable action”; the other options are not stated or contradict the speakers."
+      },
+      {
+        "question": "What does Maya decide to do?",
+        "options": [
+          "Read a book each week",
+          "Join a gym",
+          "Listen to English for five minutes",
+          "Skip breakfast"
+        ],
+        "answer": 2,
+        "explanation": "The conversation supports “Listen to English for five minutes”; the other options are not stated or contradict the speakers."
+      }
+    ],
+    "focus": "That’s the point. If the task feels manageable, I’m much more likely to follow through on it.",
+    "minutes": 1,
+    "audio": "assets/audio/episode-tiny-habits.mp3",
+    "timings": [
+      {
+        "start": 0.0,
+        "end": 5.43
+      },
+      {
+        "start": 5.63,
+        "end": 11.97
+      },
+      {
+        "start": 12.17,
+        "end": 15.78
+      },
+      {
+        "start": 15.98,
+        "end": 22.45
+      },
+      {
+        "start": 22.65,
+        "end": 24.98
+      },
+      {
+        "start": 25.18,
+        "end": 31.66
+      },
+      {
+        "start": 31.86,
+        "end": 35.37
+      },
+      {
+        "start": 35.57,
+        "end": 42.63
+      },
+      {
+        "start": 42.83,
+        "end": 49.17
+      }
+    ]
+  },
+  {
+    "id": "strange-hotel",
+    "title": "A Strange Hotel Reservation",
+    "level": "B2",
+    "category": "Travel",
+    "source": "Original script · locally synthesized American English speech (eSpeak)",
+    "turns": [
+      {
+        "speaker": "Maya",
+        "text": "My hotel reservation somehow disappeared while I was traveling in Oregon."
+      },
+      {
+        "speaker": "Alex",
+        "text": "That sounds stressful. How did you deal with it?"
+      },
+      {
+        "speaker": "Maya",
+        "text": "I showed the front desk my confirmation email, but they couldn’t find my name in their system."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Did they turn you away?"
+      },
+      {
+        "speaker": "Maya",
+        "text": "Not exactly. The receptionist acknowledged the mistake and offered to look into it."
+      },
+      {
+        "speaker": "Alex",
+        "text": "So what had happened?"
+      },
+      {
+        "speaker": "Maya",
+        "text": "Apparently, the booking platform had sent my reservation to a different property with a similar name."
+      },
+      {
+        "speaker": "Alex",
+        "text": "I hope they made up for the inconvenience."
+      },
+      {
+        "speaker": "Maya",
+        "text": "They did. They found a room nearby and covered the difference in price."
+      }
+    ],
+    "questions": [
+      {
+        "question": "What caused the reservation problem?",
+        "options": [
+          "Maya booked the wrong date",
+          "It went to a similarly named hotel",
+          "The hotel closed permanently",
+          "The card expired"
+        ],
+        "answer": 1,
+        "explanation": "The conversation supports “It went to a similarly named hotel”; the other options are not stated or contradict the speakers."
+      },
+      {
+        "question": "What did the hotel do?",
+        "options": [
+          "Offered a free flight",
+          "Canceled the vacation",
+          "Found another room and paid the difference",
+          "Asked for double payment"
+        ],
+        "answer": 2,
+        "explanation": "The conversation supports “Found another room and paid the difference”; the other options are not stated or contradict the speakers."
+      }
+    ],
+    "focus": "Did they turn you away?",
+    "minutes": 1,
+    "audio": "assets/audio/episode-strange-hotel.mp3",
+    "timings": [
+      {
+        "start": 0.0,
+        "end": 5.1
+      },
+      {
+        "start": 5.3,
+        "end": 9.16
+      },
+      {
+        "start": 9.36,
+        "end": 15.58
+      },
+      {
+        "start": 15.78,
+        "end": 17.67
+      },
+      {
+        "start": 17.87,
+        "end": 24.0
+      },
+      {
+        "start": 24.2,
+        "end": 26.01
+      },
+      {
+        "start": 26.21,
+        "end": 33.08
+      },
+      {
+        "start": 33.28,
+        "end": 36.25
+      },
+      {
+        "start": 36.45,
+        "end": 41.6
+      }
+    ]
+  },
+  {
+    "id": "city-garden",
+    "title": "Can a City Grow Its Own Food?",
+    "level": "B2",
+    "category": "Science",
+    "source": "Original script · locally synthesized American English speech (eSpeak)",
+    "turns": [
+      {
+        "speaker": "Maya",
+        "text": "Have you noticed that vacant lots in some cities are turning into gardens?"
+      },
+      {
+        "speaker": "Alex",
+        "text": "Yes. Community groups are using them to grow vegetables and bring neighbors together."
+      },
+      {
+        "speaker": "Maya",
+        "text": "I read a report that highlighted the benefits, but it also pointed out some limitations."
+      },
+      {
+        "speaker": "Alex",
+        "text": "What kinds of limitations?"
+      },
+      {
+        "speaker": "Maya",
+        "text": "Access to clean soil and water can be a major constraint. Some plots need careful testing."
+      },
+      {
+        "speaker": "Alex",
+        "text": "That makes sense. And volunteers need to keep up with the work through the summer."
+      },
+      {
+        "speaker": "Maya",
+        "text": "Still, the gardens can enhance neighborhood life even if they don’t produce huge quantities of food."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Right. It’s important not to exaggerate the impact, but also not to overlook the social value."
+      }
+    ],
+    "questions": [
+      {
+        "question": "What concern does Maya mention?",
+        "options": [
+          "Too many restaurants",
+          "Clean soil and water",
+          "Excessive parking fees",
+          "A shortage of books"
+        ],
+        "answer": 1,
+        "explanation": "The conversation supports “Clean soil and water”; the other options are not stated or contradict the speakers."
+      },
+      {
+        "question": "What is their overall conclusion?",
+        "options": [
+          "Gardens solve all food shortages",
+          "Gardens should be banned",
+          "Gardens have benefits and limitations",
+          "Volunteers are unnecessary"
+        ],
+        "answer": 2,
+        "explanation": "The conversation supports “Gardens have benefits and limitations”; the other options are not stated or contradict the speakers."
+      }
+    ],
+    "focus": "What kinds of limitations?",
+    "minutes": 1,
+    "audio": "assets/audio/episode-city-garden.mp3",
+    "timings": [
+      {
+        "start": 0.0,
+        "end": 4.99
+      },
+      {
+        "start": 5.19,
+        "end": 11.58
+      },
+      {
+        "start": 11.78,
+        "end": 18.04
+      },
+      {
+        "start": 18.24,
+        "end": 20.55
+      },
+      {
+        "start": 20.75,
+        "end": 27.82
+      },
+      {
+        "start": 28.02,
+        "end": 33.58
+      },
+      {
+        "start": 33.78,
+        "end": 40.79
+      },
+      {
+        "start": 40.99,
+        "end": 48.55
+      }
+    ]
+  },
+  {
+    "id": "decision-fatigue",
+    "title": "The Hidden Cost of Decisions",
+    "level": "C1",
+    "category": "Psychology",
+    "source": "Original script · locally synthesized American English speech (eSpeak)",
+    "turns": [
+      {
+        "speaker": "Maya",
+        "text": "I spent twenty minutes choosing toothpaste yesterday. That seems ridiculous."
+      },
+      {
+        "speaker": "Alex",
+        "text": "It might reflect decision fatigue, although the evidence around that concept is more nuanced than headlines imply."
+      },
+      {
+        "speaker": "Maya",
+        "text": "So making lots of decisions doesn’t automatically reduce our willpower?"
+      },
+      {
+        "speaker": "Alex",
+        "text": "Exactly. Researchers disagree about some underlying mechanisms. Context and expectations seem to matter."
+      },
+      {
+        "speaker": "Maya",
+        "text": "How would you handle too many options in practice?"
+      },
+      {
+        "speaker": "Alex",
+        "text": "I’d set clear criteria in advance and rule out products that don’t meet them."
+      },
+      {
+        "speaker": "Maya",
+        "text": "That would help narrow down the choices without pretending there’s a perfect answer."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Right. We shouldn’t turn a tentative theory into a universal rule."
+      },
+      {
+        "speaker": "Maya",
+        "text": "I appreciate that distinction. It changes how I interpret advice about productivity."
+      }
+    ],
+    "questions": [
+      {
+        "question": "What is Alex cautious about?",
+        "options": [
+          "Making every decision slowly",
+          "Treating a debated theory as settled",
+          "Buying household products",
+          "Writing shopping lists"
+        ],
+        "answer": 1,
+        "explanation": "The conversation supports “Treating a debated theory as settled”; the other options are not stated or contradict the speakers."
+      },
+      {
+        "question": "What strategy does Alex suggest?",
+        "options": [
+          "Always choose the cheapest item",
+          "Avoid all decisions",
+          "Set criteria to reduce options",
+          "Ask strangers to decide"
+        ],
+        "answer": 2,
+        "explanation": "The conversation supports “Set criteria to reduce options”; the other options are not stated or contradict the speakers."
+      }
+    ],
+    "focus": "Exactly. Researchers disagree about some underlying mechanisms. Context and expectations seem to matter.",
+    "minutes": 1,
+    "audio": "assets/audio/episode-decision-fatigue.mp3",
+    "timings": [
+      {
+        "start": 0.0,
+        "end": 5.89
+      },
+      {
+        "start": 6.09,
+        "end": 13.97
+      },
+      {
+        "start": 14.17,
+        "end": 19.03
+      },
+      {
+        "start": 19.23,
+        "end": 27.82
+      },
+      {
+        "start": 28.02,
+        "end": 31.42
+      },
+      {
+        "start": 31.62,
+        "end": 37.44
+      },
+      {
+        "start": 37.64,
+        "end": 42.97
+      },
+      {
+        "start": 43.17,
+        "end": 48.01
+      },
+      {
+        "start": 48.21,
+        "end": 54.76
+      }
+    ]
+  },
+  {
+    "id": "financial-resilience",
+    "title": "How Much of a Safety Net?",
+    "level": "B2",
+    "category": "Finance",
+    "source": "Original script · locally synthesized American English speech (eSpeak)",
+    "turns": [
+      {
+        "speaker": "Maya",
+        "text": "I’ve been trying to build an emergency fund, but I’m not sure where to start."
+      },
+      {
+        "speaker": "Alex",
+        "text": "First, calculate your essential monthly expenses. Then decide how much of a financial cushion is feasible."
+      },
+      {
+        "speaker": "Maya",
+        "text": "Would you invest all of that money to earn a higher return?"
+      },
+      {
+        "speaker": "Alex",
+        "text": "Not necessarily. An emergency fund should usually prioritize accessibility and stability over aggressive growth."
+      },
+      {
+        "speaker": "Maya",
+        "text": "So liquidity is more important than maximizing returns?"
+      },
+      {
+        "speaker": "Alex",
+        "text": "For money you may need soon, yes. But the right amount depends on your circumstances."
+      },
+      {
+        "speaker": "Maya",
+        "text": "I’m going to set aside a manageable amount after each paycheck."
+      },
+      {
+        "speaker": "Alex",
+        "text": "That sounds sustainable. Just review your plan if your expenses change."
+      }
+    ],
+    "questions": [
+      {
+        "question": "What feature is emphasized for an emergency fund?",
+        "options": [
+          "Maximum leverage",
+          "Liquidity and stability",
+          "Long lockup periods",
+          "Speculative returns"
+        ],
+        "answer": 1,
+        "explanation": "The conversation supports “Liquidity and stability”; the other options are not stated or contradict the speakers."
+      },
+      {
+        "question": "How does Maya plan to save?",
+        "options": [
+          "Only after a promotion",
+          "By borrowing money",
+          "Regularly after each paycheck",
+          "Through day trading"
+        ],
+        "answer": 2,
+        "explanation": "The conversation supports “Regularly after each paycheck”; the other options are not stated or contradict the speakers."
+      }
+    ],
+    "focus": "Not necessarily. An emergency fund should usually prioritize accessibility and stability over aggressive growth.",
+    "minutes": 1,
+    "audio": "assets/audio/episode-financial-resilience.mp3",
+    "timings": [
+      {
+        "start": 0.0,
+        "end": 5.61
+      },
+      {
+        "start": 5.81,
+        "end": 13.84
+      },
+      {
+        "start": 14.04,
+        "end": 17.67
+      },
+      {
+        "start": 17.87,
+        "end": 25.89
+      },
+      {
+        "start": 26.09,
+        "end": 30.29
+      },
+      {
+        "start": 30.49,
+        "end": 37.02
+      },
+      {
+        "start": 37.22,
+        "end": 41.59
+      },
+      {
+        "start": 41.79,
+        "end": 47.53
+      }
+    ]
+  },
+  {
+    "id": "history-mistake",
+    "title": "The Map That Changed a Voyage",
+    "level": "C1",
+    "category": "History",
+    "source": "Original script · locally synthesized American English speech (eSpeak)",
+    "turns": [
+      {
+        "speaker": "Maya",
+        "text": "An old navigation map became the centerpiece of an exhibition I visited."
+      },
+      {
+        "speaker": "Alex",
+        "text": "What made this particular map stand out?"
+      },
+      {
+        "speaker": "Maya",
+        "text": "It contained a coastal detail that contradicted the conventional maps of its time."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Was the detail accurate, or merely an intriguing error?"
+      },
+      {
+        "speaker": "Maya",
+        "text": "The curator argued that it was partially accurate, but the evidence was incomplete."
+      },
+      {
+        "speaker": "Alex",
+        "text": "That distinction is crucial. A compelling story can still rely on uncertain evidence."
+      },
+      {
+        "speaker": "Maya",
+        "text": "The exhibit was transparent about that uncertainty. It showed competing interpretations."
+      },
+      {
+        "speaker": "Alex",
+        "text": "I wish more history programs did that instead of presenting every theory as fact."
+      },
+      {
+        "speaker": "Maya",
+        "text": "Me too. The uncertainty actually made the exhibition more interesting."
+      }
+    ],
+    "questions": [
+      {
+        "question": "How did the exhibit present its claim?",
+        "options": [
+          "As fully proven",
+          "As impossible",
+          "As partially supported and uncertain",
+          "As a modern navigation rule"
+        ],
+        "answer": 2,
+        "explanation": "The conversation supports “As partially supported and uncertain”; the other options are not stated or contradict the speakers."
+      },
+      {
+        "question": "What does Alex value?",
+        "options": [
+          "Avoiding museums",
+          "Distinguishing evidence from a story",
+          "Ignoring uncertainty",
+          "Replacing maps with charts"
+        ],
+        "answer": 1,
+        "explanation": "The conversation supports “Distinguishing evidence from a story”; the other options are not stated or contradict the speakers."
+      }
+    ],
+    "focus": "Was the detail accurate, or merely an intriguing error?",
+    "minutes": 1,
+    "audio": "assets/audio/episode-history-mistake.mp3",
+    "timings": [
+      {
+        "start": 0.0,
+        "end": 5.08
+      },
+      {
+        "start": 5.28,
+        "end": 8.43
+      },
+      {
+        "start": 8.63,
+        "end": 14.54
+      },
+      {
+        "start": 14.74,
+        "end": 18.45
+      },
+      {
+        "start": 18.65,
+        "end": 24.27
+      },
+      {
+        "start": 24.47,
+        "end": 30.66
+      },
+      {
+        "start": 30.86,
+        "end": 37.51
+      },
+      {
+        "start": 37.71,
+        "end": 43.65
+      },
+      {
+        "start": 43.85,
+        "end": 49.05
+      }
+    ]
+  },
+  {
+    "id": "culture-quiet",
+    "title": "Why Some Cities Value Quiet",
+    "level": "C1",
+    "category": "Culture",
+    "source": "Original script · locally synthesized American English speech (eSpeak)",
+    "turns": [
+      {
+        "speaker": "Maya",
+        "text": "When I visited a small town in Vermont, I noticed how quiet the public spaces were."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Did that feel peaceful or uncomfortable?"
+      },
+      {
+        "speaker": "Maya",
+        "text": "Both, actually. At first I interpreted the silence as unfriendly."
+      },
+      {
+        "speaker": "Alex",
+        "text": "That illustrates how easy it is to project our own expectations onto another culture."
+      },
+      {
+        "speaker": "Maya",
+        "text": "After a few days, I realized people were friendly; they simply valued personal space."
+      },
+      {
+        "speaker": "Alex",
+        "text": "So your initial assumption didn’t withstand closer observation."
+      },
+      {
+        "speaker": "Maya",
+        "text": "Exactly. It reminded me to be cautious about broad cultural generalizations."
+      },
+      {
+        "speaker": "Alex",
+        "text": "That’s a valuable insight. One neighborhood can’t represent an entire country."
+      }
+    ],
+    "questions": [
+      {
+        "question": "What changed Maya’s interpretation?",
+        "options": [
+          "Reading a tourist brochure",
+          "Observing behavior over several days",
+          "Meeting a travel agent",
+          "Watching television"
+        ],
+        "answer": 1,
+        "explanation": "The conversation supports “Observing behavior over several days”; the other options are not stated or contradict the speakers."
+      },
+      {
+        "question": "What general principle emerges?",
+        "options": [
+          "Silence always means hostility",
+          "All towns share one culture",
+          "Avoid quick cultural generalizations",
+          "Travelers should not speak"
+        ],
+        "answer": 2,
+        "explanation": "The conversation supports “Avoid quick cultural generalizations”; the other options are not stated or contradict the speakers."
+      }
+    ],
+    "focus": "That illustrates how easy it is to project our own expectations onto another culture.",
+    "minutes": 1,
+    "audio": "assets/audio/episode-culture-quiet.mp3",
+    "timings": [
+      {
+        "start": 0.0,
+        "end": 5.93
+      },
+      {
+        "start": 6.13,
+        "end": 9.26
+      },
+      {
+        "start": 9.46,
+        "end": 14.78
+      },
+      {
+        "start": 14.98,
+        "end": 20.77
+      },
+      {
+        "start": 20.97,
+        "end": 27.42
+      },
+      {
+        "start": 27.62,
+        "end": 32.33
+      },
+      {
+        "start": 32.53,
+        "end": 38.43
+      },
+      {
+        "start": 38.63,
+        "end": 44.39
+      }
+    ]
+  },
+  {
+    "id": "digital-footprint",
+    "title": "The Photos We Never Deleted",
+    "level": "B2",
+    "category": "Technology",
+    "source": "Original script · locally synthesized American English speech (eSpeak)",
+    "turns": [
+      {
+        "speaker": "Maya",
+        "text": "A photo from a decade ago suddenly appeared in a search result about me."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Was it something private?"
+      },
+      {
+        "speaker": "Maya",
+        "text": "Not exactly, but it made me realize how persistent our digital footprints can be."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Did you try to remove it?"
+      },
+      {
+        "speaker": "Maya",
+        "text": "I contacted the original website. They agreed to take it down, but search results took longer to update."
+      },
+      {
+        "speaker": "Alex",
+        "text": "People often overlook the difference between deleting a source and removing cached copies."
+      },
+      {
+        "speaker": "Maya",
+        "text": "That’s true. I’m now more deliberate about what I share publicly."
+      },
+      {
+        "speaker": "Alex",
+        "text": "A good approach is to review privacy settings regularly, not just after a problem."
+      }
+    ],
+    "questions": [
+      {
+        "question": "What surprised Maya?",
+        "options": [
+          "Her phone stopped working",
+          "An old photo was still searchable",
+          "A friend moved away",
+          "Her camera disappeared"
+        ],
+        "answer": 1,
+        "explanation": "The conversation supports “An old photo was still searchable”; the other options are not stated or contradict the speakers."
+      },
+      {
+        "question": "What is Alex’s recommendation?",
+        "options": [
+          "Delete every online account",
+          "Avoid taking pictures",
+          "Review privacy settings regularly",
+          "Use only one website"
+        ],
+        "answer": 2,
+        "explanation": "The conversation supports “Review privacy settings regularly”; the other options are not stated or contradict the speakers."
+      }
+    ],
+    "focus": "Did you try to remove it?",
+    "minutes": 1,
+    "audio": "assets/audio/episode-digital-footprint.mp3",
+    "timings": [
+      {
+        "start": 0.0,
+        "end": 4.8
+      },
+      {
+        "start": 5.0,
+        "end": 7.05
+      },
+      {
+        "start": 7.25,
+        "end": 13.35
+      },
+      {
+        "start": 13.55,
+        "end": 15.55
+      },
+      {
+        "start": 15.75,
+        "end": 23.66
+      },
+      {
+        "start": 23.86,
+        "end": 29.76
+      },
+      {
+        "start": 29.96,
+        "end": 34.7
+      },
+      {
+        "start": 34.9,
+        "end": 40.77
+      }
+    ]
+  },
+  {
+    "id": "space-signal",
+    "title": "A Signal From the Desert",
+    "level": "C1",
+    "category": "Science",
+    "source": "Original script · locally synthesized American English speech (eSpeak)",
+    "turns": [
+      {
+        "speaker": "Maya",
+        "text": "A team of astronomers detected an unusual radio signal using a telescope in the desert."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Was it evidence of something extraordinary?"
+      },
+      {
+        "speaker": "Maya",
+        "text": "Not necessarily. The signal was intriguing, but an ordinary technical source had not been ruled out."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Good scientists don’t jump to conclusions when an explanation is ambiguous."
+      },
+      {
+        "speaker": "Maya",
+        "text": "The team scrutinized the data and repeated the measurements."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Did the signal persist?"
+      },
+      {
+        "speaker": "Maya",
+        "text": "No. It vanished during later observations, which made the original hypothesis harder to support."
+      },
+      {
+        "speaker": "Alex",
+        "text": "That’s still useful. A rigorous investigation can eliminate weak explanations."
+      },
+      {
+        "speaker": "Maya",
+        "text": "Exactly. The absence of a dramatic discovery doesn’t mean the experiment failed."
+      }
+    ],
+    "questions": [
+      {
+        "question": "What happened during later observations?",
+        "options": [
+          "The telescope collapsed",
+          "The signal did not reappear",
+          "The team found a new planet",
+          "A visitor arrived"
+        ],
+        "answer": 1,
+        "explanation": "The conversation supports “The signal did not reappear”; the other options are not stated or contradict the speakers."
+      },
+      {
+        "question": "What is the central message?",
+        "options": [
+          "Every unusual signal is alien",
+          "Technology always fails",
+          "Careful investigation matters despite uncertain results",
+          "All hypotheses are equally proven"
+        ],
+        "answer": 2,
+        "explanation": "The conversation supports “Careful investigation matters despite uncertain results”; the other options are not stated or contradict the speakers."
+      }
+    ],
+    "focus": "Good scientists don’t jump to conclusions when an explanation is ambiguous.",
+    "minutes": 1,
+    "audio": "assets/audio/episode-space-signal.mp3",
+    "timings": [
+      {
+        "start": 0.0,
+        "end": 5.88
+      },
+      {
+        "start": 6.08,
+        "end": 9.19
+      },
+      {
+        "start": 9.39,
+        "end": 16.61
+      },
+      {
+        "start": 16.81,
+        "end": 22.1
+      },
+      {
+        "start": 22.3,
+        "end": 26.44
+      },
+      {
+        "start": 26.64,
+        "end": 28.56
+      },
+      {
+        "start": 28.76,
+        "end": 36.16
+      },
+      {
+        "start": 36.36,
+        "end": 42.27
+      },
+      {
+        "start": 42.47,
+        "end": 48.59
+      }
+    ]
+  },
+  {
+    "id": "conflict-resolution",
+    "title": "The Meeting Nobody Wanted",
+    "level": "C1",
+    "category": "Relationships",
+    "source": "Original script · locally synthesized American English speech (eSpeak)",
+    "turns": [
+      {
+        "speaker": "Maya",
+        "text": "Two neighbors had a dispute over a shared fence, and neither wanted to compromise."
+      },
+      {
+        "speaker": "Alex",
+        "text": "That sounds like a situation where resentment could build up."
+      },
+      {
+        "speaker": "Maya",
+        "text": "It did. They kept exchanging complaints without addressing the underlying concern."
+      },
+      {
+        "speaker": "Alex",
+        "text": "What finally changed?"
+      },
+      {
+        "speaker": "Maya",
+        "text": "A mediator asked each person to articulate what mattered most to them."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Sometimes identifying a mutual interest can transform the discussion."
+      },
+      {
+        "speaker": "Maya",
+        "text": "Exactly. Both wanted privacy, but they had different assumptions about how to achieve it."
+      },
+      {
+        "speaker": "Alex",
+        "text": "And once the assumptions were explicit, they could negotiate a practical solution."
+      },
+      {
+        "speaker": "Maya",
+        "text": "They ended up agreeing to plant a hedge instead of rebuilding the fence."
+      }
+    ],
+    "questions": [
+      {
+        "question": "What shared interest did the neighbors have?",
+        "options": [
+          "Higher property taxes",
+          "Privacy",
+          "Louder music",
+          "A new driveway"
+        ],
+        "answer": 1,
+        "explanation": "The conversation supports “Privacy”; the other options are not stated or contradict the speakers."
+      },
+      {
+        "question": "What helped resolve the dispute?",
+        "options": [
+          "Avoiding discussion",
+          "Clarifying the underlying interests",
+          "Ignoring the mediator",
+          "Moving away"
+        ],
+        "answer": 1,
+        "explanation": "The conversation supports “Clarifying the underlying interests”; the other options are not stated or contradict the speakers."
+      }
+    ],
+    "focus": "What finally changed?",
+    "minutes": 1,
+    "audio": "assets/audio/episode-conflict-resolution.mp3",
+    "timings": [
+      {
+        "start": 0.0,
+        "end": 5.7
+      },
+      {
+        "start": 5.9,
+        "end": 10.48
+      },
+      {
+        "start": 10.68,
+        "end": 16.8
+      },
+      {
+        "start": 17.0,
+        "end": 18.87
+      },
+      {
+        "start": 19.07,
+        "end": 24.01
+      },
+      {
+        "start": 24.21,
+        "end": 29.26
+      },
+      {
+        "start": 29.46,
+        "end": 36.25
+      },
+      {
+        "start": 36.45,
+        "end": 42.33
+      },
+      {
+        "start": 42.53,
+        "end": 47.37
+      }
+    ]
+  },
+  {
+    "id": "market-moves",
+    "title": "The Market Headline Trap",
+    "level": "C1",
+    "category": "Finance",
+    "source": "Original script · locally synthesized American English speech (eSpeak)",
+    "turns": [
+      {
+        "speaker": "Maya",
+        "text": "I saw a headline claiming that one bad trading day predicted a long economic downturn."
+      },
+      {
+        "speaker": "Alex",
+        "text": "That’s a strong assertion. Does the evidence support such a broad conclusion?"
+      },
+      {
+        "speaker": "Maya",
+        "text": "The article relied on a single chart and barely acknowledged the uncertainty."
+      },
+      {
+        "speaker": "Alex",
+        "text": "A short-term fluctuation can reflect several factors, including liquidity and investor expectations."
+      },
+      {
+        "speaker": "Maya",
+        "text": "So we should distinguish volatility from a fundamental change in value?"
+      },
+      {
+        "speaker": "Alex",
+        "text": "Exactly. And even a plausible narrative doesn’t eliminate alternative explanations."
+      },
+      {
+        "speaker": "Maya",
+        "text": "I’ll scrutinize the data before accepting the next dramatic prediction."
+      },
+      {
+        "speaker": "Alex",
+        "text": "That’s the right habit: evaluate the argument, not just the headline."
+      }
+    ],
+    "questions": [
+      {
+        "question": "What is the problem with the headline?",
+        "options": [
+          "It includes too much historical context",
+          "It makes a broad claim from limited evidence",
+          "It discusses liquidity",
+          "It uses an American newspaper"
+        ],
+        "answer": 1,
+        "explanation": "The conversation supports “It makes a broad claim from limited evidence”; the other options are not stated or contradict the speakers."
+      },
+      {
+        "question": "What should readers do?",
+        "options": [
+          "Trust all market predictions",
+          "Evaluate evidence and alternatives",
+          "Avoid reading charts",
+          "Ignore uncertainty"
+        ],
+        "answer": 1,
+        "explanation": "The conversation supports “Evaluate evidence and alternatives”; the other options are not stated or contradict the speakers."
+      }
+    ],
+    "focus": "A short-term fluctuation can reflect several factors, including liquidity and investor expectations.",
+    "minutes": 1,
+    "audio": "assets/audio/episode-market-moves.mp3",
+    "timings": [
+      {
+        "start": 0.0,
+        "end": 6.03
+      },
+      {
+        "start": 6.23,
+        "end": 11.76
+      },
+      {
+        "start": 11.96,
+        "end": 17.08
+      },
+      {
+        "start": 17.28,
+        "end": 25.22
+      },
+      {
+        "start": 25.42,
+        "end": 30.33
+      },
+      {
+        "start": 30.53,
+        "end": 36.76
+      },
+      {
+        "start": 36.96,
+        "end": 41.89
+      },
+      {
+        "start": 42.09,
+        "end": 47.45
+      }
+    ]
+  },
+  {
+    "id": "mountain-trail",
+    "title": "The Trail That Changed Overnight",
+    "level": "B2",
+    "category": "Travel & Nature",
+    "source": "Original script · locally synthesized en-US speech (eSpeak)",
+    "audioType": "synthetic",
+    "editorialStatus": "authored_unreviewed",
+    "turns": [
+      {
+        "speaker": "Maya",
+        "text": "I saw a notice about the Ridge Trail. Apparently, the main route is closed this weekend."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Is it because of the storm? We were planning to hike there on Saturday."
+      },
+      {
+        "speaker": "Maya",
+        "text": "Partly. The storm damaged a bridge, and volunteers found a second problem near the waterfall."
+      },
+      {
+        "speaker": "Alex",
+        "text": "What kind of problem? I assumed the entire trail was safe once the bridge was repaired."
+      },
+      {
+        "speaker": "Maya",
+        "text": "The slope is unstable. The park wants to assess the risk before allowing people through."
+      },
+      {
+        "speaker": "Alex",
+        "text": "So we should rule out the waterfall route, even if the weather looks perfect."
+      },
+      {
+        "speaker": "Maya",
+        "text": "Exactly. There is an alternate path, but it adds about two miles and has very little shade."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Then we should bring extra water. Can we still reach the lake before sunset?"
+      },
+      {
+        "speaker": "Maya",
+        "text": "Yes, if we start early. I checked the official map and downloaded it for offline use."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Good idea. A map on your phone is helpful, but a printed backup could be crucial."
+      }
+    ],
+    "questions": [
+      {
+        "question": "Why is the waterfall route restricted?",
+        "options": [
+          "The lake has disappeared",
+          "The hillside may be unstable",
+          "The parking lot is full",
+          "The trail has no signs"
+        ],
+        "answer": 1,
+        "explanation": "The speakers say the slope near the waterfall is unstable, so the park must assess the risk.",
+        "optionExplanations": [
+          "Bu seçenek konuşmadaki bilgiyle desteklenmiyor.",
+          "The speakers say the slope near the waterfall is unstable, so the park must assess the risk.",
+          "Bu seçenek konuşmadaki bilgiyle desteklenmiyor.",
+          "Bu seçenek konuşmadaki bilgiyle desteklenmiyor."
+        ]
+      },
+      {
+        "question": "How is the alternate path different?",
+        "options": [
+          "It is about two miles longer",
+          "It passes through a museum",
+          "It requires a boat",
+          "It is completely shaded"
+        ],
+        "answer": 0,
+        "explanation": "The alternate route adds roughly two miles and offers little shade.",
+        "optionExplanations": [
+          "The alternate route adds roughly two miles and offers little shade.",
+          "Bu seçenek konuşmadaki bilgiyle desteklenmiyor.",
+          "Bu seçenek konuşmadaki bilgiyle desteklenmiyor.",
+          "Bu seçenek konuşmadaki bilgiyle desteklenmiyor."
+        ]
+      },
+      {
+        "question": "What preparation do they agree on?",
+        "options": [
+          "Hiking after sunset",
+          "Ignoring the map",
+          "Starting early and taking extra water",
+          "Crossing the damaged bridge"
+        ],
+        "answer": 2,
+        "explanation": "They plan an early start and extra water, while relying on official route information.",
+        "optionExplanations": [
+          "Bu seçenek konuşmadaki bilgiyle desteklenmiyor.",
+          "Bu seçenek konuşmadaki bilgiyle desteklenmiyor.",
+          "They plan an early start and extra water, while relying on official route information.",
+          "Bu seçenek konuşmadaki bilgiyle desteklenmiyor."
+        ]
+      }
+    ],
+    "focus": "So we should rule out the waterfall route, even if the weather looks perfect.",
+    "minutes": 1,
+    "audio": "assets/audio/episode-mountain-trail.mp3",
+    "timings": [
+      {
+        "start": 0.0,
+        "end": 6.21
+      },
+      {
+        "start": 6.43,
+        "end": 11.38
+      },
+      {
+        "start": 11.6,
+        "end": 18.43
+      },
+      {
+        "start": 18.65,
+        "end": 25.01
+      },
+      {
+        "start": 25.23,
+        "end": 31.01
+      },
+      {
+        "start": 31.23,
+        "end": 36.32
+      },
+      {
+        "start": 36.54,
+        "end": 43.29
+      },
+      {
+        "start": 43.51,
+        "end": 48.95
+      },
+      {
+        "start": 49.17,
+        "end": 55.5
+      },
+      {
+        "start": 55.72,
+        "end": 61.87
+      }
+    ]
+  },
+  {
+    "id": "museum-origin",
+    "title": "Who Owns the Story?",
+    "level": "C1",
+    "category": "History & Ethics",
+    "source": "Original script · locally synthesized en-US speech (eSpeak)",
+    "audioType": "synthetic",
+    "editorialStatus": "authored_unreviewed",
+    "turns": [
+      {
+        "speaker": "Maya",
+        "text": "Did you read about the museum returning an ancient sculpture to the community where it was found?"
+      },
+      {
+        "speaker": "Alex",
+        "text": "Yes. The decision sparked a debate about who should preserve historical objects."
+      },
+      {
+        "speaker": "Maya",
+        "text": "Some visitors argued that the museum had protected the sculpture for generations."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Others pointed out that the community never consented to its removal in the first place."
+      },
+      {
+        "speaker": "Maya",
+        "text": "I think those are distinct questions: who can preserve it, and who has the right to decide?"
+      },
+      {
+        "speaker": "Alex",
+        "text": "Exactly. Preserving an object does not automatically justify keeping it."
+      },
+      {
+        "speaker": "Maya",
+        "text": "The museum plans to collaborate with local historians on a traveling exhibition."
+      },
+      {
+        "speaker": "Alex",
+        "text": "That approach may help reconcile competing priorities without pretending the history was simple."
+      },
+      {
+        "speaker": "Maya",
+        "text": "The museum also published the documents behind its decision. That seems important for transparency."
+      },
+      {
+        "speaker": "Alex",
+        "text": "And the community will help write the exhibition labels, so its perspective is represented."
+      }
+    ],
+    "questions": [
+      {
+        "question": "What ethical issue do the speakers emphasize?",
+        "options": [
+          "Ticket prices",
+          "Rights and consent surrounding an artifact",
+          "The sculpture’s weight",
+          "Modern architecture"
+        ],
+        "answer": 1,
+        "explanation": "They distinguish the right to decide about an object from the ability to preserve it.",
+        "optionExplanations": [
+          "Bu seçenek konuşmadaki bilgiyle desteklenmiyor.",
+          "They distinguish the right to decide about an object from the ability to preserve it.",
+          "Bu seçenek konuşmadaki bilgiyle desteklenmiyor.",
+          "Bu seçenek konuşmadaki bilgiyle desteklenmiyor."
+        ]
+      },
+      {
+        "question": "What collaborative solution is proposed?",
+        "options": [
+          "Destroying the exhibition",
+          "Hiding the records",
+          "A traveling exhibition with local historians",
+          "Selling tickets abroad"
+        ],
+        "answer": 2,
+        "explanation": "The speakers mention a traveling exhibition developed together with local historians.",
+        "optionExplanations": [
+          "Bu seçenek konuşmadaki bilgiyle desteklenmiyor.",
+          "Bu seçenek konuşmadaki bilgiyle desteklenmiyor.",
+          "The speakers mention a traveling exhibition developed together with local historians.",
+          "Bu seçenek konuşmadaki bilgiyle desteklenmiyor."
+        ]
+      },
+      {
+        "question": "Why will the community contribute to the labels?",
+        "options": [
+          "To represent its perspective",
+          "To shorten every description",
+          "To advertise a new store",
+          "To avoid publishing documents"
+        ],
+        "answer": 0,
+        "explanation": "Community members will help write the labels so their interpretation is included.",
+        "optionExplanations": [
+          "Community members will help write the labels so their interpretation is included.",
+          "Bu seçenek konuşmadaki bilgiyle desteklenmiyor.",
+          "Bu seçenek konuşmadaki bilgiyle desteklenmiyor.",
+          "Bu seçenek konuşmadaki bilgiyle desteklenmiyor."
+        ]
+      }
+    ],
+    "focus": "That approach may help reconcile competing priorities without pretending the history was simple.",
+    "minutes": 1,
+    "audio": "assets/audio/episode-museum-origin.mp3",
+    "timings": [
+      {
+        "start": 0.0,
+        "end": 6.15
+      },
+      {
+        "start": 6.37,
+        "end": 12.44
+      },
+      {
+        "start": 12.66,
+        "end": 18.29
+      },
+      {
+        "start": 18.51,
+        "end": 24.16
+      },
+      {
+        "start": 24.38,
+        "end": 30.81
+      },
+      {
+        "start": 31.03,
+        "end": 36.55
+      },
+      {
+        "start": 36.77,
+        "end": 42.32
+      },
+      {
+        "start": 42.54,
+        "end": 48.94
+      },
+      {
+        "start": 49.16,
+        "end": 56.34
+      },
+      {
+        "start": 56.56,
+        "end": 62.9
+      }
+    ]
+  },
+  {
+    "id": "food-rescue",
+    "title": "The Rescue Fridge on Elm Street",
+    "level": "B2",
+    "category": "Community & Food",
+    "source": "Original script · locally synthesized en-US speech (eSpeak)",
+    "audioType": "synthetic",
+    "editorialStatus": "authored_unreviewed",
+    "turns": [
+      {
+        "speaker": "Maya",
+        "text": "A new community refrigerator opened near my apartment yesterday."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Is that the project where restaurants donate food they cannot sell?"
+      },
+      {
+        "speaker": "Maya",
+        "text": "Yes, but they have strict safety rules. Volunteers label each item with a date and storage instructions."
+      },
+      {
+        "speaker": "Alex",
+        "text": "That sounds sensible. How do they prevent donated food from going to waste again?"
+      },
+      {
+        "speaker": "Maya",
+        "text": "They track which items disappear quickly and adjust collection schedules accordingly."
+      },
+      {
+        "speaker": "Alex",
+        "text": "So the goal is not simply to fill the fridge; it is to match donations with actual demand."
+      },
+      {
+        "speaker": "Maya",
+        "text": "Right. One bakery now delivers bread after lunch instead of late at night."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Do residents have to provide proof that they need the food?"
+      },
+      {
+        "speaker": "Maya",
+        "text": "No. Anyone can take a reasonable amount, and signs emphasize respect and privacy."
+      },
+      {
+        "speaker": "Alex",
+        "text": "I appreciate that. The organizers seem to be learning from evidence rather than assumptions."
+      }
+    ],
+    "questions": [
+      {
+        "question": "What information is attached to donated food?",
+        "options": [
+          "The name of a sponsor",
+          "Dates and storage guidance",
+          "A restaurant rating",
+          "A suggested retail price"
+        ],
+        "answer": 1,
+        "explanation": "Volunteers mark items with dates and instructions for storing them safely.",
+        "optionExplanations": [
+          "Bu seçenek konuşmadaki bilgiyle desteklenmiyor.",
+          "Volunteers mark items with dates and instructions for storing them safely.",
+          "Bu seçenek konuşmadaki bilgiyle desteklenmiyor.",
+          "Bu seçenek konuşmadaki bilgiyle desteklenmiyor."
+        ]
+      },
+      {
+        "question": "Why did one bakery change its delivery time?",
+        "options": [
+          "To avoid the lunch rush",
+          "To reduce its rent",
+          "To match food donations with demand",
+          "To stop baking bread"
+        ],
+        "answer": 2,
+        "explanation": "The schedule was adjusted because the organizers track when items are actually taken.",
+        "optionExplanations": [
+          "Bu seçenek konuşmadaki bilgiyle desteklenmiyor.",
+          "Bu seçenek konuşmadaki bilgiyle desteklenmiyor.",
+          "The schedule was adjusted because the organizers track when items are actually taken.",
+          "Bu seçenek konuşmadaki bilgiyle desteklenmiyor."
+        ]
+      },
+      {
+        "question": "Who can use the refrigerator?",
+        "options": [
+          "Only restaurant employees",
+          "Only people with paperwork",
+          "Only volunteers",
+          "Anyone taking a reasonable amount"
+        ],
+        "answer": 3,
+        "explanation": "The speakers explicitly say no proof of need is required.",
+        "optionExplanations": [
+          "Bu seçenek konuşmadaki bilgiyle desteklenmiyor.",
+          "Bu seçenek konuşmadaki bilgiyle desteklenmiyor.",
+          "Bu seçenek konuşmadaki bilgiyle desteklenmiyor.",
+          "The speakers explicitly say no proof of need is required."
+        ]
+      }
+    ],
+    "focus": "They track which items disappear quickly and adjust collection schedules accordingly.",
+    "minutes": 1,
+    "audio": "assets/audio/episode-food-rescue.mp3",
+    "timings": [
+      {
+        "start": 0.0,
+        "end": 4.23
+      },
+      {
+        "start": 4.45,
+        "end": 9.03
+      },
+      {
+        "start": 9.25,
+        "end": 16.99
+      },
+      {
+        "start": 17.21,
+        "end": 23.44
+      },
+      {
+        "start": 23.66,
+        "end": 29.45
+      },
+      {
+        "start": 29.67,
+        "end": 35.93
+      },
+      {
+        "start": 36.15,
+        "end": 41.83
+      },
+      {
+        "start": 42.05,
+        "end": 45.96
+      },
+      {
+        "start": 46.18,
+        "end": 52.87
+      },
+      {
+        "start": 53.09,
+        "end": 59.31
+      }
+    ]
+  },
+  {
+    "id": "missing-suitcase",
+    "title": "The Case of the Wandering Suitcase",
+    "level": "B2",
+    "category": "Travel & Mystery",
+    "source": "Original script · locally synthesized en-US speech (eSpeak)",
+    "audioType": "synthetic",
+    "editorialStatus": "authored_unreviewed",
+    "turns": [
+      {
+        "speaker": "Maya",
+        "text": "My suitcase landed in Denver while I landed in Portland. I did not expect that."
+      },
+      {
+        "speaker": "Alex",
+        "text": "That is frustrating. Did the airline give you a tracking number?"
+      },
+      {
+        "speaker": "Maya",
+        "text": "Yes. They said my bag was placed on the wrong connecting flight."
+      },
+      {
+        "speaker": "Alex",
+        "text": "At least they identified the problem. Do you know when it will arrive?"
+      },
+      {
+        "speaker": "Maya",
+        "text": "They estimate tomorrow morning, but they stressed that the time is not guaranteed."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Have you kept the receipts for the toiletries you had to buy?"
+      },
+      {
+        "speaker": "Maya",
+        "text": "I did. I also took screenshots of the baggage report so I can follow up on the claim."
+      },
+      {
+        "speaker": "Alex",
+        "text": "That was smart. It is easier to resolve a dispute when you have a written record."
+      },
+      {
+        "speaker": "Maya",
+        "text": "My plan is to check the tracking page this evening instead of calling every hour."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Good. And keep your medication in your carry-on next time, just in case."
+      }
+    ],
+    "questions": [
+      {
+        "question": "How did the suitcase get misplaced?",
+        "options": [
+          "It was sent on the wrong connecting flight",
+          "It was left in a taxi",
+          "It was stolen at the hotel",
+          "It was shipped by train"
+        ],
+        "answer": 0,
+        "explanation": "The airline says the suitcase was loaded onto an incorrect connecting flight.",
+        "optionExplanations": [
+          "The airline says the suitcase was loaded onto an incorrect connecting flight.",
+          "Bu seçenek konuşmadaki bilgiyle desteklenmiyor.",
+          "Bu seçenek konuşmadaki bilgiyle desteklenmiyor.",
+          "Bu seçenek konuşmadaki bilgiyle desteklenmiyor."
+        ]
+      },
+      {
+        "question": "What does the airline say about the delivery time?",
+        "options": [
+          "Delivery is canceled",
+          "It is absolutely guaranteed",
+          "It is an estimate, not a guarantee",
+          "It will take a month"
+        ],
+        "answer": 2,
+        "explanation": "Tomorrow morning is described as an estimate, with uncertainty remaining.",
+        "optionExplanations": [
+          "Bu seçenek konuşmadaki bilgiyle desteklenmiyor.",
+          "Bu seçenek konuşmadaki bilgiyle desteklenmiyor.",
+          "Tomorrow morning is described as an estimate, with uncertainty remaining.",
+          "Bu seçenek konuşmadaki bilgiyle desteklenmiyor."
+        ]
+      },
+      {
+        "question": "Why were receipts and screenshots saved?",
+        "options": [
+          "To share them on social media",
+          "To document a possible baggage claim",
+          "To change the flight destination",
+          "To print luggage tags"
+        ],
+        "answer": 1,
+        "explanation": "The traveler saves records to follow up on the reimbursement or baggage claim.",
+        "optionExplanations": [
+          "Bu seçenek konuşmadaki bilgiyle desteklenmiyor.",
+          "The traveler saves records to follow up on the reimbursement or baggage claim.",
+          "Bu seçenek konuşmadaki bilgiyle desteklenmiyor.",
+          "Bu seçenek konuşmadaki bilgiyle desteklenmiyor."
+        ]
+      }
+    ],
+    "focus": "I did. I also took screenshots of the baggage report so I can follow up on the claim.",
+    "minutes": 1,
+    "audio": "assets/audio/episode-missing-suitcase.mp3",
+    "timings": [
+      {
+        "start": 0.0,
+        "end": 5.91
+      },
+      {
+        "start": 6.13,
+        "end": 10.66
+      },
+      {
+        "start": 10.88,
+        "end": 15.56
+      },
+      {
+        "start": 15.78,
+        "end": 20.61
+      },
+      {
+        "start": 20.83,
+        "end": 25.96
+      },
+      {
+        "start": 26.18,
+        "end": 30.07
+      },
+      {
+        "start": 30.29,
+        "end": 36.49
+      },
+      {
+        "start": 36.71,
+        "end": 41.95
+      },
+      {
+        "start": 42.17,
+        "end": 47.53
+      },
+      {
+        "start": 47.75,
+        "end": 53.4
+      }
+    ]
+  },
+  {
+    "id": "financial-forecast",
+    "title": "A Forecast Is Not a Promise",
+    "level": "C1",
+    "category": "Accounting & Finance",
+    "source": "Original script · locally synthesized en-US speech (eSpeak)",
+    "audioType": "synthetic",
+    "editorialStatus": "authored_unreviewed",
+    "turns": [
+      {
+        "speaker": "Maya",
+        "text": "Our neighborhood theater is considering a second location, but the financial forecast looks unusually optimistic."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Does it assume ticket sales will increase every month without any setbacks?"
+      },
+      {
+        "speaker": "Maya",
+        "text": "Almost. The model projects steady growth and leaves out several maintenance expenses."
+      },
+      {
+        "speaker": "Alex",
+        "text": "That could distort the cash flow forecast. Profit and available cash are not interchangeable."
+      },
+      {
+        "speaker": "Maya",
+        "text": "Exactly. The theater might report a profit and still struggle to pay rent on time."
+      },
+      {
+        "speaker": "Alex",
+        "text": "I would run three scenarios rather than rely on a single projection."
+      },
+      {
+        "speaker": "Maya",
+        "text": "An optimistic case, a base case, and a cautious case?"
+      },
+      {
+        "speaker": "Alex",
+        "text": "Yes. And I would disclose the assumptions behind each case so the board can evaluate the uncertainty."
+      },
+      {
+        "speaker": "Maya",
+        "text": "We should also consider liquidity. A delay in ticket revenue could create a short-term problem."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Then our recommendation should be to test demand with temporary events before signing a long lease."
+      }
+    ],
+    "questions": [
+      {
+        "question": "What is missing from the optimistic forecast?",
+        "options": [
+          "Some maintenance costs",
+          "The name of the theater",
+          "The location of the audience",
+          "The theater’s opening year"
+        ],
+        "answer": 0,
+        "explanation": "The model omits some maintenance expenses while assuming steady growth.",
+        "optionExplanations": [
+          "The model omits some maintenance expenses while assuming steady growth.",
+          "Bu seçenek konuşmadaki bilgiyle desteklenmiyor.",
+          "Bu seçenek konuşmadaki bilgiyle desteklenmiyor.",
+          "Bu seçenek konuşmadaki bilgiyle desteklenmiyor."
+        ]
+      },
+      {
+        "question": "Why does the conversation distinguish profit from cash?",
+        "options": [
+          "Profit is always higher",
+          "Profitable organizations may still lack cash when bills are due",
+          "Cash cannot be forecast",
+          "Rent is never paid in cash"
+        ],
+        "answer": 1,
+        "explanation": "A theater may be profitable on paper but temporarily unable to cover near-term obligations.",
+        "optionExplanations": [
+          "Bu seçenek konuşmadaki bilgiyle desteklenmiyor.",
+          "A theater may be profitable on paper but temporarily unable to cover near-term obligations.",
+          "Bu seçenek konuşmadaki bilgiyle desteklenmiyor.",
+          "Bu seçenek konuşmadaki bilgiyle desteklenmiyor."
+        ]
+      },
+      {
+        "question": "What is their proposed next step?",
+        "options": [
+          "Immediately sign a long lease",
+          "Abandon the existing theater",
+          "Test demand with temporary events",
+          "Raise every ticket price"
+        ],
+        "answer": 2,
+        "explanation": "They recommend short trial events to gather evidence before a long commitment.",
+        "optionExplanations": [
+          "Bu seçenek konuşmadaki bilgiyle desteklenmiyor.",
+          "Bu seçenek konuşmadaki bilgiyle desteklenmiyor.",
+          "They recommend short trial events to gather evidence before a long commitment.",
+          "Bu seçenek konuşmadaki bilgiyle desteklenmiyor."
+        ]
+      }
+    ],
+    "focus": "I would run three scenarios rather than rely on a single projection.",
+    "minutes": 1,
+    "audio": "assets/audio/episode-financial-forecast.mp3",
+    "timings": [
+      {
+        "start": 0.0,
+        "end": 7.59
+      },
+      {
+        "start": 7.81,
+        "end": 12.79
+      },
+      {
+        "start": 13.01,
+        "end": 19.42
+      },
+      {
+        "start": 19.64,
+        "end": 26.25
+      },
+      {
+        "start": 26.47,
+        "end": 32.72
+      },
+      {
+        "start": 32.94,
+        "end": 37.22
+      },
+      {
+        "start": 37.44,
+        "end": 41.86
+      },
+      {
+        "start": 42.08,
+        "end": 49.15
+      },
+      {
+        "start": 49.37,
+        "end": 55.98
+      },
+      {
+        "start": 56.2,
+        "end": 62.51
+      }
+    ]
+  },
+  {
+    "id": "ocean-mapping",
+    "title": "The Map Beneath the Waves",
+    "level": "C1",
+    "category": "Science & Discovery",
+    "source": "Original script · locally synthesized en-US speech (eSpeak)",
+    "audioType": "synthetic",
+    "editorialStatus": "authored_unreviewed",
+    "turns": [
+      {
+        "speaker": "Maya",
+        "text": "I watched a documentary about researchers mapping the seafloor with sound waves."
+      },
+      {
+        "speaker": "Alex",
+        "text": "I assumed they used cameras. How can sound reveal the shape of something underwater?"
+      },
+      {
+        "speaker": "Maya",
+        "text": "The instrument sends out a pulse, then measures how long the echo takes to return."
+      },
+      {
+        "speaker": "Alex",
+        "text": "So the return time helps them estimate the distance to the surface below?"
+      },
+      {
+        "speaker": "Maya",
+        "text": "Exactly. Multiple measurements can create a detailed map, although the results depend on calibration."
+      },
+      {
+        "speaker": "Alex",
+        "text": "But a strange shape on a map does not necessarily mean they found a shipwreck."
+      },
+      {
+        "speaker": "Maya",
+        "text": "Right. It could be a rock formation or an error in the measurements."
+      },
+      {
+        "speaker": "Alex",
+        "text": "That distinction is crucial. Interesting patterns deserve investigation, not immediate conclusions."
+      },
+      {
+        "speaker": "Maya",
+        "text": "The team plans to send a remotely operated vehicle to examine one unusual area."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Then a photograph might confirm the map, or it might reveal a completely ordinary feature."
+      }
+    ],
+    "questions": [
+      {
+        "question": "How is the underwater map produced?",
+        "options": [
+          "By measuring echoes of emitted sound pulses",
+          "By interviewing fishermen",
+          "By studying satellite photographs only",
+          "By placing mirrors on the ocean floor"
+        ],
+        "answer": 0,
+        "explanation": "The device sends sound pulses and measures the time needed for echoes to return.",
+        "optionExplanations": [
+          "The device sends sound pulses and measures the time needed for echoes to return.",
+          "Bu seçenek konuşmadaki bilgiyle desteklenmiyor.",
+          "Bu seçenek konuşmadaki bilgiyle desteklenmiyor.",
+          "Bu seçenek konuşmadaki bilgiyle desteklenmiyor."
+        ]
+      },
+      {
+        "question": "Why does a strange shape not prove a shipwreck exists?",
+        "options": [
+          "All shipwrecks float",
+          "The sonar cannot detect rocks",
+          "It could be geology or a measurement error",
+          "The researchers already found treasure"
+        ],
+        "answer": 2,
+        "explanation": "They explicitly note that a shape could come from rock or inaccurate measurements.",
+        "optionExplanations": [
+          "Bu seçenek konuşmadaki bilgiyle desteklenmiyor.",
+          "Bu seçenek konuşmadaki bilgiyle desteklenmiyor.",
+          "They explicitly note that a shape could come from rock or inaccurate measurements.",
+          "Bu seçenek konuşmadaki bilgiyle desteklenmiyor."
+        ]
+      },
+      {
+        "question": "What will help investigate the unusual area?",
+        "options": [
+          "A weather balloon",
+          "A remotely operated underwater vehicle",
+          "A new ticketing system",
+          "A public opinion survey"
+        ],
+        "answer": 1,
+        "explanation": "The team intends to inspect the area with a remotely operated vehicle.",
+        "optionExplanations": [
+          "Bu seçenek konuşmadaki bilgiyle desteklenmiyor.",
+          "The team intends to inspect the area with a remotely operated vehicle.",
+          "Bu seçenek konuşmadaki bilgiyle desteklenmiyor.",
+          "Bu seçenek konuşmadaki bilgiyle desteklenmiyor."
+        ]
+      }
+    ],
+    "focus": "That distinction is crucial. Interesting patterns deserve investigation, not immediate conclusions.",
+    "minutes": 1,
+    "audio": "assets/audio/episode-ocean-mapping.mp3",
+    "timings": [
+      {
+        "start": 0.0,
+        "end": 5.16
+      },
+      {
+        "start": 5.38,
+        "end": 11.28
+      },
+      {
+        "start": 11.5,
+        "end": 17.21
+      },
+      {
+        "start": 17.43,
+        "end": 22.41
+      },
+      {
+        "start": 22.63,
+        "end": 30.18
+      },
+      {
+        "start": 30.4,
+        "end": 35.48
+      },
+      {
+        "start": 35.7,
+        "end": 40.3
+      },
+      {
+        "start": 40.52,
+        "end": 47.8
+      },
+      {
+        "start": 48.02,
+        "end": 53.61
+      },
+      {
+        "start": 53.83,
+        "end": 59.79
+      }
+    ]
+  }
+]

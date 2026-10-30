@@ -1,0 +1,57 @@
+{
+  "auditDate": "2026-10-29T15:08:00.500623+00:00",
+  "project": "American English Lab",
+  "scope": "PRIVATE_ENGINEERING_ONLY",
+  "structural": {
+    "50_unique_voa_sources": true,
+    "50_voa_lesson_integrity": true,
+    "204_voa_quiz_items": true,
+    "400_unique_toefl_words": true,
+    "75_unique_toefl_phrasals": true,
+    "toefl_reading_original_questions": true,
+    "no_unverified_human_mp3_claim": true,
+    "release_gate_stays_locked": true
+  },
+  "content": {
+    "voa_lessons": 50,
+    "in_app_transcripts": 22,
+    "publisher_link_only": 28,
+    "voa_questions": 204,
+    "toefl_word_ids": 400,
+    "toefl_phrasal_ids": 75,
+    "toefl_reading_items": 50,
+    "toefl_writing_tasks": 20,
+    "toefl_listening_scripts_without_verified_audio": 8,
+    "bundled_approved_human_recordings": 0,
+    "legacy_synthetic_mp3": 42
+  },
+  "automaticTests": {
+    "node": {
+      "passed": 87,
+      "exit": 0
+    },
+    "python": {
+      "passed": 171,
+      "exit": 0
+    }
+  },
+  "externalBlockers": {
+    "real_iphone_safari_offline_e2e": "OPEN_NOT_PERFORMED",
+    "real_device_human_mp3_playback_and_alignment": "OPEN_NOT_PERFORMED",
+    "voa_29_in_app_transcripts": "OPEN",
+    "local_human_audio_bundles": "OPEN",
+    "toefl_calibrated_adaptive_score": "OPEN_NO_ETS_CALIBRATION",
+    "external_language_editor_475_cards": "OPEN_NO_EDITOR_SIGNOFF",
+    "real_longitudinal_memory_gain": "OPEN_NOT_MEASURED",
+    "copyright_clearance_of_all_older_sources": "OPEN_PENDING_HUMAN_REVIEW",
+    "real_webkit_browser_e2e": "OPEN_NOT_AVAILABLE"
+  },
+  "notes": [
+    "Automated unit tests do not validate real iPhone Safari, human speech or TOEFL scoring.",
+    "Reading and Writing original AEL exercises do not confer an official ETS result.",
+    "VOA online links do not mean bundled audio or verified playback."
+  ],
+  "releaseReady": false,
+  "recommendedRating": null,
+  "releaseGate": "LOCKED"
+}

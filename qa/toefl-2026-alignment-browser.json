@@ -1,0 +1,9 @@
+{
+  "mode": "virtual-routed Chromium",
+  "desktop": "passed",
+  "mobile": "passed",
+  "officialETSScore": false,
+  "physicalSafari": "not_tested",
+  "real_origin_resume": "not_tested",
+  "releaseApproved": false
+}

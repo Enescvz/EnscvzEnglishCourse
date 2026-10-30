@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-29",
+  "scope": "Non-speaking memory coach, vocabulary and TOEFL shared review only",
+  "releaseAllowed": false,
+  "speakingModified": false,
+  "externalHumanEditorApproved": false,
+  "researchRefs": [
+    "PMID:40564553",
+    "PMID:33006925",
+    "PMID:34867656",
+    "PMID:35436027",
+    "PMID:23681928",
+    "PMID:38317910",
+    "PMID:14672102",
+    "Anki Manual FSRS",
+    "Duolingo HLR research"
+  ],
+  "changes": [
+    "exclude premature future reviews",
+    "recover legacy missing due",
+    "optional synthetic TTS cannot lower recall grade when absent",
+    "synthetic recognition does not assert human listening",
+    "self-reported sentence no longer controls FSRS",
+    "remove mnemonic reveal from independent typed recall",
+    "TOEFL 400 words +75 phrasals share same review bank including 50 new academic"
+  ],
+  "shippedMemoryCoachCards": 1550,
+  "toeflCoreWordCardsInMemoryCoach": 400,
+  "toeflCorePhrasalCardsInMemoryCoach": 75,
+  "independentDeviceSafariApproved": false,
+  "realHumanAudioVerified": false,
+  "longitudinalLearningGainMeasured": false,
+  "userSpecificFSRSOptimized": false,
+  "manualSemanticDistractorApproval": false,
+  "physicalIPhoneTesting": "not_performed",
+  "browserVirtualDesktop": "passed_targeted",
+  "browserVirtualMobile": "passed_targeted",
+  "fullLegacyBrowserRun": "desktop_passed_mobile_timed_out",
+  "notes": "Synthetic TTS results never credited as verified real human listening. No learning record deletion. Virtual browser uses mocked storage and origin.",
+  "automatedTests": {
+    "javascript": 82,
+    "python": 168,
+    "total": 250,
+    "passed": 250
+  },
+  "releaseGate": "LOCKED_expected_exit_1",
+  "safeguards": {
+    "oldCardIdsPreserved": true,
+    "oldProgressFilesPreserved": true,
+    "speakingFeatureUnchanged": true,
+    "realHumanListeningClaimed": false
+  }
+}

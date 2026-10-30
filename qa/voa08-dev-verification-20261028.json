@@ -1,0 +1,55 @@
+{
+  "checkpointDate": "2026-10-28",
+  "developmentOnly": true,
+  "speakingChanged": false,
+  "baselineBackup": "AEL_PRIVATE_DEV_BACKUP_20261028_VOA7_QA_DO_NOT_DEPLOY.zip",
+  "sourcePagesCompared": [
+    "https://learningenglish.voanews.com/a/lesson-7-tip-your-tour-guide/4064769.html",
+    "https://learningenglish.voanews.com/a/lets-learn-english-level-2-lesson-8-best-barbecue/4073994.html"
+  ],
+  "nodeTests": {
+    "passed": 49,
+    "failed": 0
+  },
+  "pythonTests": {
+    "passed": 121,
+    "failed": 0
+  },
+  "testCommand": "npm run test:all",
+  "targetedVirtualChromium": {
+    "desktop": "passed",
+    "mobile390x844": "passed",
+    "realIphoneSafari": false
+  },
+  "releaseGate": {
+    "result": "LOCKED",
+    "expectedNonZero": true
+  },
+  "audioQualityBatchCommand": {
+    "result": "timed_out_in_final_aggregate",
+    "approved": false
+  },
+  "networkFetchVOA": {
+    "result": "DNS_unavailable_in_container",
+    "allRemainingTranscriptsFetched": false
+  },
+  "actualRemoteMP3Playback": {
+    "verified": false,
+    "verifiedDevices": 0
+  },
+  "offlineQA": {
+    "completed": false
+  },
+  "publisherTextVerification": "Lesson 7 conversation speaker lines reviewed and Lesson 8 four answers compared; audio-to-transcript timing not verified",
+  "cardIDsAndLearningData": {
+    "vocabularyFileUnchanged": true,
+    "phrasalFileUnchanged": true,
+    "progressSchemaUnchanged": true,
+    "linkedLessonIdRetainedDuringPromotion": "voa-linked-2-07"
+  },
+  "totalQuizQuestions": 204,
+  "turnBoundQuestions": 16,
+  "publisherOnlyQuotedQuestions": 4,
+  "missingExactEvidenceQuestions": 184,
+  "finalPublicationApproved": false
+}

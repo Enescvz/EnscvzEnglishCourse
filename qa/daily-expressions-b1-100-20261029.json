@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-29",
+  "sourceBackup": "AEL_PRIVATE_DEV_BACKUP_20261029_PREUSE_FINAL_QA_DO_NOT_DEPLOY_2.zip",
+  "release": "LOCKED",
+  "target": {
+    "B1": 100,
+    "B2": 120,
+    "C1": 80
+  },
+  "authored": {
+    "B1": 100,
+    "B2": 0,
+    "C1": 0
+  },
+  "originalExamples": 200,
+  "originalDialogues": 100,
+  "duplicateExpressionIds": 0,
+  "originalDataFilesUnchanged": true,
+  "speakingAndListeningAndToeflCoreUnchanged": true,
+  "standaloneAudioVerified": 0,
+  "independentEditorSignoff": false,
+  "physicalIphoneSafariOfflineQA": "not_run",
+  "tests": {
+    "javascript": 103,
+    "python": 180,
+    "total": 283
+  },
+  "next": "B2 120 + C1 80 and separate language-editor review; physical Safari and licensed human voice verification not completed"
+}

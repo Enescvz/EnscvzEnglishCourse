@@ -1,0 +1,10 @@
+{
+  "type": "virtual_origin_chromium_ui",
+  "results": {
+    "desktop_viewport": "passed",
+    "mobile_viewport": "passed"
+  },
+  "physicalSafari": "NOT_TESTED",
+  "realServiceWorkerOffline": "NOT_TESTED",
+  "releaseEvidence": false
+}

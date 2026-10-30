@@ -1,0 +1,19 @@
+{
+  "B2_source_rows": 2778,
+  "excluded_uk_specific": 7,
+  "excluded_ambiguous_variant": 2,
+  "excluded_requires_sensitivity_review": 2,
+  "C1_source_rows": 1111,
+  "cross_level_disagreements": 42,
+  "catalog_unique_headwords": 3647,
+  "already_taught_overlap": 117,
+  "new_candidate_headwords": 3530,
+  "unreviewed_candidate_headwords": 3647,
+  "new_verified_teaching_cards": 0,
+  "american_semantic_review": "NOT_COMPLETE",
+  "publication_allowed": false,
+  "source_checksums": {
+    "B2": "5161f618f2accd46e7243e7a500141855961c053cff5b30fe5601bbebda53d50",
+    "C1": "f7949f86c15941ec0f630536cf1612b993479332b12fc2b856418b1b2c33e7d6"
+  }
+}

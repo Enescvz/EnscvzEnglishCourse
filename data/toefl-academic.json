@@ -1,0 +1,902 @@
+[
+  {
+    "id": "toefl-analyze",
+    "word": "analyze",
+    "tr": "analiz etmek",
+    "definition": "To examine information carefully to understand patterns or causes.",
+    "example": "We will analyze the survey results before making a decision.",
+    "examples": [
+      "We will analyze the survey results before making a decision.",
+      "The students analyzed the data to find changes over time."
+    ],
+    "level": "B2",
+    "category": "toeflAcademic",
+    "priority": 0,
+    "prompt": "Use “analyze” in a daily and in an academic sentence.",
+    "editorialStatus": "authored_unreviewed",
+    "sourceList": "AWL sublist 1 (US headword normalized)",
+    "frequencyStatus": "AWL broad academic frequency; not verified TOEFL exam frequency"
+  },
+  {
+    "id": "toefl-area",
+    "word": "area",
+    "tr": "alan, bölge",
+    "definition": "A particular part of a place or a field of study.",
+    "example": "This area of the city has several public libraries.",
+    "examples": [
+      "This area of the city has several public libraries.",
+      "Our research focuses on an area of environmental science."
+    ],
+    "level": "B2",
+    "category": "toeflAcademic",
+    "priority": 0,
+    "prompt": "Use “area” in a daily and in an academic sentence.",
+    "editorialStatus": "authored_unreviewed",
+    "sourceList": "AWL sublist 1 (US headword normalized)",
+    "frequencyStatus": "AWL broad academic frequency; not verified TOEFL exam frequency"
+  },
+  {
+    "id": "toefl-assume",
+    "word": "assume",
+    "tr": "varsaymak",
+    "definition": "To accept something as true without having complete proof.",
+    "example": "Don't assume the meeting starts at nine without checking.",
+    "examples": [
+      "Don't assume the meeting starts at nine without checking.",
+      "The researchers assumed that all participants had internet access."
+    ],
+    "level": "B2",
+    "category": "toeflAcademic",
+    "priority": 0,
+    "prompt": "Use “assume” in a daily and in an academic sentence.",
+    "editorialStatus": "authored_unreviewed",
+    "sourceList": "AWL sublist 1 (US headword normalized)",
+    "frequencyStatus": "AWL broad academic frequency; not verified TOEFL exam frequency"
+  },
+  {
+    "id": "toefl-authority",
+    "word": "authority",
+    "tr": "yetki, otorite",
+    "definition": "The power or official right to make decisions or enforce rules.",
+    "example": "The local authority approved the new bicycle lanes.",
+    "examples": [
+      "The local authority approved the new bicycle lanes.",
+      "A school administrator has the authority to change the schedule."
+    ],
+    "level": "B2",
+    "category": "toeflAcademic",
+    "priority": 0,
+    "prompt": "Use “authority” in a daily and in an academic sentence.",
+    "editorialStatus": "authored_unreviewed",
+    "sourceList": "AWL sublist 1 (US headword normalized)",
+    "frequencyStatus": "AWL broad academic frequency; not verified TOEFL exam frequency"
+  },
+  {
+    "id": "toefl-available",
+    "word": "available",
+    "tr": "mevcut, erişilebilir",
+    "definition": "Ready to be used or obtained when needed.",
+    "example": "Is the study room available this afternoon?",
+    "examples": [
+      "Is the study room available this afternoon?",
+      "The report is available online for all students."
+    ],
+    "level": "B2",
+    "category": "toeflAcademic",
+    "priority": 0,
+    "prompt": "Use “available” in a daily and in an academic sentence.",
+    "editorialStatus": "authored_unreviewed",
+    "sourceList": "AWL sublist 1 (US headword normalized)",
+    "frequencyStatus": "AWL broad academic frequency; not verified TOEFL exam frequency"
+  },
+  {
+    "id": "toefl-benefit",
+    "word": "benefit",
+    "tr": "fayda, yarar sağlamak",
+    "definition": "As a noun, a positive effect or advantage; as a verb, to help someone or something.",
+    "example": "Regular exercise can benefit both your mood and your sleep.",
+    "examples": [
+      "Regular exercise can benefit both your mood and your sleep.",
+      "The study describes the benefits of learning a second language."
+    ],
+    "level": "B2",
+    "category": "toeflAcademic",
+    "priority": 0,
+    "prompt": "Use “benefit” in a daily and in an academic sentence.",
+    "editorialStatus": "authored_unreviewed",
+    "sourceList": "AWL sublist 1 (US headword normalized)",
+    "frequencyStatus": "AWL broad academic frequency; not verified TOEFL exam frequency"
+  },
+  {
+    "id": "toefl-concept",
+    "word": "concept",
+    "tr": "kavram",
+    "definition": "An idea used to explain or organize information.",
+    "example": "The teacher explained the concept with a simple diagram.",
+    "examples": [
+      "The teacher explained the concept with a simple diagram.",
+      "The concept of sustainability appears throughout the article."
+    ],
+    "level": "B2",
+    "category": "toeflAcademic",
+    "priority": 0,
+    "prompt": "Use “concept” in a daily and in an academic sentence.",
+    "editorialStatus": "authored_unreviewed",
+    "sourceList": "AWL sublist 1 (US headword normalized)",
+    "frequencyStatus": "AWL broad academic frequency; not verified TOEFL exam frequency"
+  },
+  {
+    "id": "toefl-consist",
+    "word": "consist",
+    "tr": "oluşmak, meydana gelmek",
+    "definition": "To be made up of particular parts or elements.",
+    "example": "The workshop will consist of three short sessions.",
+    "examples": [
+      "The workshop will consist of three short sessions.",
+      "The sample consists of students from four different colleges."
+    ],
+    "level": "B2",
+    "category": "toeflAcademic",
+    "priority": 0,
+    "prompt": "Use “consist” in a daily and in an academic sentence.",
+    "editorialStatus": "authored_unreviewed",
+    "sourceList": "AWL sublist 1 (US headword normalized)",
+    "frequencyStatus": "AWL broad academic frequency; not verified TOEFL exam frequency"
+  },
+  {
+    "id": "toefl-constitute",
+    "word": "constitute",
+    "tr": "oluşturmak, teşkil etmek",
+    "definition": "To form or make up a particular whole or amount.",
+    "example": "Online orders constitute a large share of the store's sales.",
+    "examples": [
+      "Online orders constitute a large share of the store's sales.",
+      "These findings constitute the main evidence for the theory."
+    ],
+    "level": "B2",
+    "category": "toeflAcademic",
+    "priority": 0,
+    "prompt": "Use “constitute” in a daily and in an academic sentence.",
+    "editorialStatus": "authored_unreviewed",
+    "sourceList": "AWL sublist 1 (US headword normalized)",
+    "frequencyStatus": "AWL broad academic frequency; not verified TOEFL exam frequency"
+  },
+  {
+    "id": "toefl-context",
+    "word": "context",
+    "tr": "bağlam",
+    "definition": "The situation or surrounding information that gives something meaning.",
+    "example": "A word can have a different meaning depending on its context.",
+    "examples": [
+      "A word can have a different meaning depending on its context.",
+      "The historian explained the decision in its social context."
+    ],
+    "level": "B2",
+    "category": "toeflAcademic",
+    "priority": 0,
+    "prompt": "Use “context” in a daily and in an academic sentence.",
+    "editorialStatus": "authored_unreviewed",
+    "sourceList": "AWL sublist 1 (US headword normalized)",
+    "frequencyStatus": "AWL broad academic frequency; not verified TOEFL exam frequency"
+  },
+  {
+    "id": "toefl-contract",
+    "word": "contract",
+    "tr": "sözleşme",
+    "definition": "A formal agreement that sets out obligations between parties.",
+    "example": "Read the contract carefully before signing it.",
+    "examples": [
+      "Read the contract carefully before signing it.",
+      "The university signed a contract to improve campus internet."
+    ],
+    "level": "B2",
+    "category": "toeflAcademic",
+    "priority": 0,
+    "prompt": "Use “contract” in a daily and in an academic sentence.",
+    "editorialStatus": "authored_unreviewed",
+    "sourceList": "AWL sublist 1 (US headword normalized)",
+    "frequencyStatus": "AWL broad academic frequency; not verified TOEFL exam frequency"
+  },
+  {
+    "id": "toefl-create",
+    "word": "create",
+    "tr": "oluşturmak, yaratmak",
+    "definition": "To make something new or cause something to exist.",
+    "example": "We created a shared calendar for the study group.",
+    "examples": [
+      "We created a shared calendar for the study group.",
+      "The experiment created conditions that favored plant growth."
+    ],
+    "level": "B2",
+    "category": "toeflAcademic",
+    "priority": 0,
+    "prompt": "Use “create” in a daily and in an academic sentence.",
+    "editorialStatus": "authored_unreviewed",
+    "sourceList": "AWL sublist 1 (US headword normalized)",
+    "frequencyStatus": "AWL broad academic frequency; not verified TOEFL exam frequency"
+  },
+  {
+    "id": "toefl-data",
+    "word": "data",
+    "tr": "veriler",
+    "definition": "Facts or measurements collected for analysis or decision-making.",
+    "example": "The app saves your study data on your device.",
+    "examples": [
+      "The app saves your study data on your device.",
+      "The scientists collected data from several coastal areas."
+    ],
+    "level": "B2",
+    "category": "toeflAcademic",
+    "priority": 0,
+    "prompt": "Use “data” in a daily and in an academic sentence.",
+    "editorialStatus": "authored_unreviewed",
+    "sourceList": "AWL sublist 1 (US headword normalized)",
+    "frequencyStatus": "AWL broad academic frequency; not verified TOEFL exam frequency"
+  },
+  {
+    "id": "toefl-define",
+    "word": "define",
+    "tr": "tanımlamak",
+    "definition": "To state the exact meaning or limits of something.",
+    "example": "Can you define the term before using it in an essay?",
+    "examples": [
+      "Can you define the term before using it in an essay?",
+      "The researchers defined success as completing the entire course."
+    ],
+    "level": "B2",
+    "category": "toeflAcademic",
+    "priority": 0,
+    "prompt": "Use “define” in a daily and in an academic sentence.",
+    "editorialStatus": "authored_unreviewed",
+    "sourceList": "AWL sublist 1 (US headword normalized)",
+    "frequencyStatus": "AWL broad academic frequency; not verified TOEFL exam frequency"
+  },
+  {
+    "id": "toefl-distribute",
+    "word": "distribute",
+    "tr": "dağıtmak",
+    "definition": "To give or spread something among different people or places.",
+    "example": "The volunteers distributed meals after the storm.",
+    "examples": [
+      "The volunteers distributed meals after the storm.",
+      "The university distributes course materials through its website."
+    ],
+    "level": "B2",
+    "category": "toeflAcademic",
+    "priority": 0,
+    "prompt": "Use “distribute” in a daily and in an academic sentence.",
+    "editorialStatus": "authored_unreviewed",
+    "sourceList": "AWL sublist 1 (US headword normalized)",
+    "frequencyStatus": "AWL broad academic frequency; not verified TOEFL exam frequency"
+  },
+  {
+    "id": "toefl-economy",
+    "word": "economy",
+    "tr": "ekonomi",
+    "definition": "The system through which goods and services are produced and exchanged.",
+    "example": "The local economy depends partly on tourism.",
+    "examples": [
+      "The local economy depends partly on tourism.",
+      "The report examines how education affects the wider economy."
+    ],
+    "level": "B2",
+    "category": "toeflAcademic",
+    "priority": 0,
+    "prompt": "Use “economy” in a daily and in an academic sentence.",
+    "editorialStatus": "authored_unreviewed",
+    "sourceList": "AWL sublist 1 (US headword normalized)",
+    "frequencyStatus": "AWL broad academic frequency; not verified TOEFL exam frequency"
+  },
+  {
+    "id": "toefl-environment",
+    "word": "environment",
+    "tr": "çevre, ortam",
+    "definition": "The natural world or the conditions surrounding an activity.",
+    "example": "We should protect the environment by reducing waste.",
+    "examples": [
+      "We should protect the environment by reducing waste.",
+      "The experiment took place in a carefully controlled environment."
+    ],
+    "level": "B2",
+    "category": "toeflAcademic",
+    "priority": 0,
+    "prompt": "Use “environment” in a daily and in an academic sentence.",
+    "editorialStatus": "authored_unreviewed",
+    "sourceList": "AWL sublist 1 (US headword normalized)",
+    "frequencyStatus": "AWL broad academic frequency; not verified TOEFL exam frequency"
+  },
+  {
+    "id": "toefl-estimate",
+    "word": "estimate",
+    "tr": "tahmin etmek, yaklaşık hesaplamak",
+    "definition": "To calculate an approximate value using the information available.",
+    "example": "Can you estimate how much the repair will cost?",
+    "examples": [
+      "Can you estimate how much the repair will cost?",
+      "The researchers estimated the number of visitors each month."
+    ],
+    "level": "B2",
+    "category": "toeflAcademic",
+    "priority": 0,
+    "prompt": "Use “estimate” in a daily and in an academic sentence.",
+    "editorialStatus": "authored_unreviewed",
+    "sourceList": "AWL sublist 1 (US headword normalized)",
+    "frequencyStatus": "AWL broad academic frequency; not verified TOEFL exam frequency"
+  },
+  {
+    "id": "toefl-export",
+    "word": "export",
+    "tr": "ihraç etmek, ihracat",
+    "definition": "To sell goods or services to another country (verb), or goods and services sold abroad (noun).",
+    "example": "The company plans to export more products next year.",
+    "examples": [
+      "The company plans to export more products next year.",
+      "The analysis shows how exports affect regional employment."
+    ],
+    "level": "B2",
+    "category": "toeflAcademic",
+    "priority": 0,
+    "prompt": "Use “export” in a daily and in an academic sentence.",
+    "editorialStatus": "authored_unreviewed",
+    "sourceList": "AWL sublist 1 (US headword normalized)",
+    "frequencyStatus": "AWL broad academic frequency; not verified TOEFL exam frequency"
+  },
+  {
+    "id": "toefl-factor",
+    "word": "factor",
+    "tr": "etken, faktör",
+    "definition": "One of several elements that influence a result or situation.",
+    "example": "Cost is an important factor in choosing a university.",
+    "examples": [
+      "Cost is an important factor in choosing a university.",
+      "The researchers identified several factors affecting sleep quality."
+    ],
+    "level": "B2",
+    "category": "toeflAcademic",
+    "priority": 0,
+    "prompt": "Use “factor” in a daily and in an academic sentence.",
+    "editorialStatus": "authored_unreviewed",
+    "sourceList": "AWL sublist 1 (US headword normalized)",
+    "frequencyStatus": "AWL broad academic frequency; not verified TOEFL exam frequency"
+  },
+  {
+    "id": "toefl-finance",
+    "word": "finance",
+    "tr": "finansman sağlamak, mali işler",
+    "definition": "Money management or funding (noun), or to provide money for an activity (verb).",
+    "example": "The city will finance the library renovation through grants.",
+    "examples": [
+      "The city will finance the library renovation through grants.",
+      "The article explains how public finance supports education."
+    ],
+    "level": "B2",
+    "category": "toeflAcademic",
+    "priority": 0,
+    "prompt": "Use “finance” in a daily and in an academic sentence.",
+    "editorialStatus": "authored_unreviewed",
+    "sourceList": "AWL sublist 1 (US headword normalized)",
+    "frequencyStatus": "AWL broad academic frequency; not verified TOEFL exam frequency"
+  },
+  {
+    "id": "toefl-formula",
+    "word": "formula",
+    "tr": "formül",
+    "definition": "A rule or set of symbols used to calculate or describe a relationship.",
+    "example": "Use this formula to calculate the total distance.",
+    "examples": [
+      "Use this formula to calculate the total distance.",
+      "The professor derived a formula from the experimental results."
+    ],
+    "level": "B2",
+    "category": "toeflAcademic",
+    "priority": 0,
+    "prompt": "Use “formula” in a daily and in an academic sentence.",
+    "editorialStatus": "authored_unreviewed",
+    "sourceList": "AWL sublist 1 (US headword normalized)",
+    "frequencyStatus": "AWL broad academic frequency; not verified TOEFL exam frequency"
+  },
+  {
+    "id": "toefl-function",
+    "word": "function",
+    "tr": "işlev, işlev görmek",
+    "definition": "The purpose of something or the way a system operates.",
+    "example": "The main function of this button is to save your work.",
+    "examples": [
+      "The main function of this button is to save your work.",
+      "The lecture explored the function of memory during sleep."
+    ],
+    "level": "B2",
+    "category": "toeflAcademic",
+    "priority": 0,
+    "prompt": "Use “function” in a daily and in an academic sentence.",
+    "editorialStatus": "authored_unreviewed",
+    "sourceList": "AWL sublist 1 (US headword normalized)",
+    "frequencyStatus": "AWL broad academic frequency; not verified TOEFL exam frequency"
+  },
+  {
+    "id": "toefl-income",
+    "word": "income",
+    "tr": "gelir",
+    "definition": "Money received by a person or organization over a period.",
+    "example": "She uses part of her income to pay for evening classes.",
+    "examples": [
+      "She uses part of her income to pay for evening classes.",
+      "The study compares household income across several regions."
+    ],
+    "level": "B2",
+    "category": "toeflAcademic",
+    "priority": 0,
+    "prompt": "Use “income” in a daily and in an academic sentence.",
+    "editorialStatus": "authored_unreviewed",
+    "sourceList": "AWL sublist 1 (US headword normalized)",
+    "frequencyStatus": "AWL broad academic frequency; not verified TOEFL exam frequency"
+  },
+  {
+    "id": "toefl-indicate",
+    "word": "indicate",
+    "tr": "göstermek, işaret etmek",
+    "definition": "To show or suggest that something is true or likely.",
+    "example": "The sign indicates where visitors should wait.",
+    "examples": [
+      "The sign indicates where visitors should wait.",
+      "The results indicate a possible link between diet and concentration."
+    ],
+    "level": "B2",
+    "category": "toeflAcademic",
+    "priority": 0,
+    "prompt": "Use “indicate” in a daily and in an academic sentence.",
+    "editorialStatus": "authored_unreviewed",
+    "sourceList": "AWL sublist 1 (US headword normalized)",
+    "frequencyStatus": "AWL broad academic frequency; not verified TOEFL exam frequency"
+  },
+  {
+    "id": "toefl-individual",
+    "word": "individual",
+    "tr": "birey, bireysel",
+    "definition": "A single person (noun), or relating to one person rather than a group (adjective).",
+    "example": "Each individual received a copy of the instructions.",
+    "examples": [
+      "Each individual received a copy of the instructions.",
+      "The study measured individual differences in learning speed."
+    ],
+    "level": "B2",
+    "category": "toeflAcademic",
+    "priority": 0,
+    "prompt": "Use “individual” in a daily and in an academic sentence.",
+    "editorialStatus": "authored_unreviewed",
+    "sourceList": "AWL sublist 1 (US headword normalized)",
+    "frequencyStatus": "AWL broad academic frequency; not verified TOEFL exam frequency"
+  },
+  {
+    "id": "toefl-involve",
+    "word": "involve",
+    "tr": "içermek, gerektirmek",
+    "definition": "To include a particular activity or require someone's participation.",
+    "example": "The internship will involve working with several teams.",
+    "examples": [
+      "The internship will involve working with several teams.",
+      "The research involved interviews with local residents."
+    ],
+    "level": "B2",
+    "category": "toeflAcademic",
+    "priority": 0,
+    "prompt": "Use “involve” in a daily and in an academic sentence.",
+    "editorialStatus": "authored_unreviewed",
+    "sourceList": "AWL sublist 1 (US headword normalized)",
+    "frequencyStatus": "AWL broad academic frequency; not verified TOEFL exam frequency"
+  },
+  {
+    "id": "toefl-labor",
+    "word": "labor",
+    "tr": "emek, iş gücü",
+    "definition": "Physical or mental work done to produce goods or provide services.",
+    "example": "The project requires a great deal of skilled labor.",
+    "examples": [
+      "The project requires a great deal of skilled labor.",
+      "The lecture examined changes in the labor market."
+    ],
+    "level": "B2",
+    "category": "toeflAcademic",
+    "priority": 0,
+    "prompt": "Use “labor” in a daily and in an academic sentence.",
+    "editorialStatus": "authored_unreviewed",
+    "sourceList": "AWL sublist 1 (US headword normalized)",
+    "frequencyStatus": "AWL broad academic frequency; not verified TOEFL exam frequency"
+  },
+  {
+    "id": "toefl-legal",
+    "word": "legal",
+    "tr": "yasal, hukuki",
+    "definition": "Connected with the law or permitted under the law.",
+    "example": "You should understand the legal terms before agreeing.",
+    "examples": [
+      "You should understand the legal terms before agreeing.",
+      "The course introduces students to basic legal principles."
+    ],
+    "level": "B2",
+    "category": "toeflAcademic",
+    "priority": 0,
+    "prompt": "Use “legal” in a daily and in an academic sentence.",
+    "editorialStatus": "authored_unreviewed",
+    "sourceList": "AWL sublist 1 (US headword normalized)",
+    "frequencyStatus": "AWL broad academic frequency; not verified TOEFL exam frequency"
+  },
+  {
+    "id": "toefl-legislate",
+    "word": "legislate",
+    "tr": "yasayla düzenlemek",
+    "definition": "To make or introduce laws through a government process.",
+    "example": "The government may legislate to protect public water supplies.",
+    "examples": [
+      "The government may legislate to protect public water supplies.",
+      "The article discusses efforts to legislate workplace safety."
+    ],
+    "level": "B2",
+    "category": "toeflAcademic",
+    "priority": 0,
+    "prompt": "Use “legislate” in a daily and in an academic sentence.",
+    "editorialStatus": "authored_unreviewed",
+    "sourceList": "AWL sublist 1 (US headword normalized)",
+    "frequencyStatus": "AWL broad academic frequency; not verified TOEFL exam frequency"
+  },
+  {
+    "id": "toefl-method",
+    "word": "method",
+    "tr": "yöntem",
+    "definition": "A planned way of doing something to achieve a result.",
+    "example": "This method helps me remember new vocabulary.",
+    "examples": [
+      "This method helps me remember new vocabulary.",
+      "The scientists compared two methods of measuring air quality."
+    ],
+    "level": "B2",
+    "category": "toeflAcademic",
+    "priority": 0,
+    "prompt": "Use “method” in a daily and in an academic sentence.",
+    "editorialStatus": "authored_unreviewed",
+    "sourceList": "AWL sublist 1 (US headword normalized)",
+    "frequencyStatus": "AWL broad academic frequency; not verified TOEFL exam frequency"
+  },
+  {
+    "id": "toefl-occur",
+    "word": "occur",
+    "tr": "meydana gelmek",
+    "definition": "To happen or take place at a particular time or place.",
+    "example": "The problem usually occurs when the connection is weak.",
+    "examples": [
+      "The problem usually occurs when the connection is weak.",
+      "The study found that these changes occur during early childhood."
+    ],
+    "level": "B2",
+    "category": "toeflAcademic",
+    "priority": 0,
+    "prompt": "Use “occur” in a daily and in an academic sentence.",
+    "editorialStatus": "authored_unreviewed",
+    "sourceList": "AWL sublist 1 (US headword normalized)",
+    "frequencyStatus": "AWL broad academic frequency; not verified TOEFL exam frequency"
+  },
+  {
+    "id": "toefl-percent",
+    "word": "percent",
+    "tr": "yüzde",
+    "definition": "One part in every hundred of a total amount.",
+    "example": "About twenty percent of the seats were still available.",
+    "examples": [
+      "About twenty percent of the seats were still available.",
+      "The survey found that sixty percent of students preferred online notes."
+    ],
+    "level": "B2",
+    "category": "toeflAcademic",
+    "priority": 0,
+    "prompt": "Use “percent” in a daily and in an academic sentence.",
+    "editorialStatus": "authored_unreviewed",
+    "sourceList": "AWL sublist 1 (US headword normalized)",
+    "frequencyStatus": "AWL broad academic frequency; not verified TOEFL exam frequency"
+  },
+  {
+    "id": "toefl-period",
+    "word": "period",
+    "tr": "dönem, süre",
+    "definition": "An amount of time with a particular beginning and end.",
+    "example": "The library closes for a short period each summer.",
+    "examples": [
+      "The library closes for a short period each summer.",
+      "The researchers observed the plants over a six-week period."
+    ],
+    "level": "B2",
+    "category": "toeflAcademic",
+    "priority": 0,
+    "prompt": "Use “period” in a daily and in an academic sentence.",
+    "editorialStatus": "authored_unreviewed",
+    "sourceList": "AWL sublist 1 (US headword normalized)",
+    "frequencyStatus": "AWL broad academic frequency; not verified TOEFL exam frequency"
+  },
+  {
+    "id": "toefl-policy",
+    "word": "policy",
+    "tr": "politika, ilke",
+    "definition": "A set of rules or decisions used to guide action in an organization.",
+    "example": "Our school has a clear policy on late assignments.",
+    "examples": [
+      "Our school has a clear policy on late assignments.",
+      "The paper examines the effects of national energy policy."
+    ],
+    "level": "B2",
+    "category": "toeflAcademic",
+    "priority": 0,
+    "prompt": "Use “policy” in a daily and in an academic sentence.",
+    "editorialStatus": "authored_unreviewed",
+    "sourceList": "AWL sublist 1 (US headword normalized)",
+    "frequencyStatus": "AWL broad academic frequency; not verified TOEFL exam frequency"
+  },
+  {
+    "id": "toefl-principle",
+    "word": "principle",
+    "tr": "ilke, temel kural",
+    "definition": "A basic rule or belief that guides behavior or explains a system.",
+    "example": "Fairness is an important principle in teamwork.",
+    "examples": [
+      "Fairness is an important principle in teamwork.",
+      "The lesson introduces the basic principles of economics."
+    ],
+    "level": "B2",
+    "category": "toeflAcademic",
+    "priority": 0,
+    "prompt": "Use “principle” in a daily and in an academic sentence.",
+    "editorialStatus": "authored_unreviewed",
+    "sourceList": "AWL sublist 1 (US headword normalized)",
+    "frequencyStatus": "AWL broad academic frequency; not verified TOEFL exam frequency"
+  },
+  {
+    "id": "toefl-proceed",
+    "word": "proceed",
+    "tr": "devam etmek, ilerlemek",
+    "definition": "To continue with an action after a pause or decision.",
+    "example": "We can proceed with the plan after everyone agrees.",
+    "examples": [
+      "We can proceed with the plan after everyone agrees.",
+      "The scientists proceeded to the next stage of the experiment."
+    ],
+    "level": "B2",
+    "category": "toeflAcademic",
+    "priority": 0,
+    "prompt": "Use “proceed” in a daily and in an academic sentence.",
+    "editorialStatus": "authored_unreviewed",
+    "sourceList": "AWL sublist 1 (US headword normalized)",
+    "frequencyStatus": "AWL broad academic frequency; not verified TOEFL exam frequency"
+  },
+  {
+    "id": "toefl-process",
+    "word": "process",
+    "tr": "süreç, işlemek",
+    "definition": "A series of actions that lead to a particular result.",
+    "example": "Learning a language is a gradual process.",
+    "examples": [
+      "Learning a language is a gradual process.",
+      "The article describes the process of recycling plastic bottles."
+    ],
+    "level": "B2",
+    "category": "toeflAcademic",
+    "priority": 0,
+    "prompt": "Use “process” in a daily and in an academic sentence.",
+    "editorialStatus": "authored_unreviewed",
+    "sourceList": "AWL sublist 1 (US headword normalized)",
+    "frequencyStatus": "AWL broad academic frequency; not verified TOEFL exam frequency"
+  },
+  {
+    "id": "toefl-require",
+    "word": "require",
+    "tr": "gerektirmek, zorunlu kılmak",
+    "definition": "To need something or make it necessary for a particular purpose.",
+    "example": "This course requires two hours of study each week.",
+    "examples": [
+      "This course requires two hours of study each week.",
+      "The experiment requires careful control of temperature."
+    ],
+    "level": "B2",
+    "category": "toeflAcademic",
+    "priority": 0,
+    "prompt": "Use “require” in a daily and in an academic sentence.",
+    "editorialStatus": "authored_unreviewed",
+    "sourceList": "AWL sublist 1 (US headword normalized)",
+    "frequencyStatus": "AWL broad academic frequency; not verified TOEFL exam frequency"
+  },
+  {
+    "id": "toefl-research",
+    "word": "research",
+    "tr": "araştırma, araştırmak",
+    "definition": "Careful study intended to discover facts or improve understanding.",
+    "example": "I did some research before buying a new laptop.",
+    "examples": [
+      "I did some research before buying a new laptop.",
+      "Recent research suggests that sleep supports long-term memory."
+    ],
+    "level": "B2",
+    "category": "toeflAcademic",
+    "priority": 0,
+    "prompt": "Use “research” in a daily and in an academic sentence.",
+    "editorialStatus": "authored_unreviewed",
+    "sourceList": "AWL sublist 1 (US headword normalized)",
+    "frequencyStatus": "AWL broad academic frequency; not verified TOEFL exam frequency"
+  },
+  {
+    "id": "toefl-respond",
+    "word": "respond",
+    "tr": "yanıt vermek, tepki göstermek",
+    "definition": "To answer a question or react to a situation.",
+    "example": "Please respond to the invitation by Friday.",
+    "examples": [
+      "Please respond to the invitation by Friday.",
+      "The report explains how plants respond to changes in light."
+    ],
+    "level": "B2",
+    "category": "toeflAcademic",
+    "priority": 0,
+    "prompt": "Use “respond” in a daily and in an academic sentence.",
+    "editorialStatus": "authored_unreviewed",
+    "sourceList": "AWL sublist 1 (US headword normalized)",
+    "frequencyStatus": "AWL broad academic frequency; not verified TOEFL exam frequency"
+  },
+  {
+    "id": "toefl-role",
+    "word": "role",
+    "tr": "rol, görev",
+    "definition": "The function or responsibility a person or thing has in a situation.",
+    "example": "She plays an important role in our community project.",
+    "examples": [
+      "She plays an important role in our community project.",
+      "The lecture explores the role of water in human health."
+    ],
+    "level": "B2",
+    "category": "toeflAcademic",
+    "priority": 0,
+    "prompt": "Use “role” in a daily and in an academic sentence.",
+    "editorialStatus": "authored_unreviewed",
+    "sourceList": "AWL sublist 1 (US headword normalized)",
+    "frequencyStatus": "AWL broad academic frequency; not verified TOEFL exam frequency"
+  },
+  {
+    "id": "toefl-section",
+    "word": "section",
+    "tr": "bölüm, kısım",
+    "definition": "One distinct part of a larger document, place, or organization.",
+    "example": "Read the final section of the article before class.",
+    "examples": [
+      "Read the final section of the article before class.",
+      "The report has a section on student housing costs."
+    ],
+    "level": "B2",
+    "category": "toeflAcademic",
+    "priority": 0,
+    "prompt": "Use “section” in a daily and in an academic sentence.",
+    "editorialStatus": "authored_unreviewed",
+    "sourceList": "AWL sublist 1 (US headword normalized)",
+    "frequencyStatus": "AWL broad academic frequency; not verified TOEFL exam frequency"
+  },
+  {
+    "id": "toefl-sector",
+    "word": "sector",
+    "tr": "sektör, alan",
+    "definition": "A particular part of an economy or a broader area of activity.",
+    "example": "Many graduates work in the health sector.",
+    "examples": [
+      "Many graduates work in the health sector.",
+      "The research compares growth in the public and private sectors."
+    ],
+    "level": "B2",
+    "category": "toeflAcademic",
+    "priority": 0,
+    "prompt": "Use “sector” in a daily and in an academic sentence.",
+    "editorialStatus": "authored_unreviewed",
+    "sourceList": "AWL sublist 1 (US headword normalized)",
+    "frequencyStatus": "AWL broad academic frequency; not verified TOEFL exam frequency"
+  },
+  {
+    "id": "toefl-similar",
+    "word": "similar",
+    "tr": "benzer",
+    "definition": "Having many features in common without being exactly the same.",
+    "example": "These two apartments have similar layouts.",
+    "examples": [
+      "These two apartments have similar layouts.",
+      "The studies produced similar results in different countries."
+    ],
+    "level": "B2",
+    "category": "toeflAcademic",
+    "priority": 0,
+    "prompt": "Use “similar” in a daily and in an academic sentence.",
+    "editorialStatus": "authored_unreviewed",
+    "sourceList": "AWL sublist 1 (US headword normalized)",
+    "frequencyStatus": "AWL broad academic frequency; not verified TOEFL exam frequency"
+  },
+  {
+    "id": "toefl-source",
+    "word": "source",
+    "tr": "kaynak",
+    "definition": "The place, person, or material from which information or something else comes.",
+    "example": "Check the source before sharing that news story.",
+    "examples": [
+      "Check the source before sharing that news story.",
+      "The essay must cite a reliable source for each major claim."
+    ],
+    "level": "B2",
+    "category": "toeflAcademic",
+    "priority": 0,
+    "prompt": "Use “source” in a daily and in an academic sentence.",
+    "editorialStatus": "authored_unreviewed",
+    "sourceList": "AWL sublist 1 (US headword normalized)",
+    "frequencyStatus": "AWL broad academic frequency; not verified TOEFL exam frequency"
+  },
+  {
+    "id": "toefl-specific",
+    "word": "specific",
+    "tr": "belirli, özgül",
+    "definition": "Clearly identified or relating to one particular thing.",
+    "example": "Do you have a specific time in mind for the meeting?",
+    "examples": [
+      "Do you have a specific time in mind for the meeting?",
+      "The results were limited to one specific age group."
+    ],
+    "level": "B2",
+    "category": "toeflAcademic",
+    "priority": 0,
+    "prompt": "Use “specific” in a daily and in an academic sentence.",
+    "editorialStatus": "authored_unreviewed",
+    "sourceList": "AWL sublist 1 (US headword normalized)",
+    "frequencyStatus": "AWL broad academic frequency; not verified TOEFL exam frequency"
+  },
+  {
+    "id": "toefl-structure",
+    "word": "structure",
+    "tr": "yapı, düzen",
+    "definition": "The arrangement of parts within an organized whole.",
+    "example": "The course has a clear structure and weekly goals.",
+    "examples": [
+      "The course has a clear structure and weekly goals.",
+      "The lecture explains the structure of the human brain."
+    ],
+    "level": "B2",
+    "category": "toeflAcademic",
+    "priority": 0,
+    "prompt": "Use “structure” in a daily and in an academic sentence.",
+    "editorialStatus": "authored_unreviewed",
+    "sourceList": "AWL sublist 1 (US headword normalized)",
+    "frequencyStatus": "AWL broad academic frequency; not verified TOEFL exam frequency"
+  },
+  {
+    "id": "toefl-theory",
+    "word": "theory",
+    "tr": "kuram, teori",
+    "definition": "An explanation of how or why something happens, supported by ideas or evidence.",
+    "example": "I understand the theory, but I need more practice.",
+    "examples": [
+      "I understand the theory, but I need more practice.",
+      "The researchers tested their theory with a second experiment."
+    ],
+    "level": "B2",
+    "category": "toeflAcademic",
+    "priority": 0,
+    "prompt": "Use “theory” in a daily and in an academic sentence.",
+    "editorialStatus": "authored_unreviewed",
+    "sourceList": "AWL sublist 1 (US headword normalized)",
+    "frequencyStatus": "AWL broad academic frequency; not verified TOEFL exam frequency"
+  },
+  {
+    "id": "toefl-vary",
+    "word": "vary",
+    "tr": "değişmek, farklılık göstermek",
+    "definition": "To change or differ according to circumstances or conditions.",
+    "example": "Bus schedules vary depending on the day.",
+    "examples": [
+      "Bus schedules vary depending on the day.",
+      "The results vary across different age groups and locations."
+    ],
+    "level": "B2",
+    "category": "toeflAcademic",
+    "priority": 0,
+    "prompt": "Use “vary” in a daily and in an academic sentence.",
+    "editorialStatus": "authored_unreviewed",
+    "sourceList": "AWL sublist 1 (US headword normalized)",
+    "frequencyStatus": "AWL broad academic frequency; not verified TOEFL exam frequency"
+  }
+]

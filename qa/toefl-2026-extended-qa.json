@@ -1,0 +1,91 @@
+{
+  "checkpoint": "2026-10-29 TOEFL extended private development",
+  "released": false,
+  "releaseLock": "LOCKED",
+  "sourceArchive": "AEL_PRIVATE_DEV_BACKUP_20261029_SAFARI_OFFLINE_VERIFIED_QA_DO_NOT_DEPLOY.zip",
+  "officialStructureReference": "https://www.ets.org/toefl/test-takers/ibt/about/content.html?version=after-jan-2026",
+  "ETS2026": [
+    "Reading 3 task types (multistage, up to 50 items / up to 30 min)",
+    "Listening 4 task types (multistage, up to 47 items / up to 29 min)",
+    "Writing 3 task types (up to 12 items / ~23 min)",
+    "Speaking remains untouched by user rule",
+    "ETS 1-6 scores cannot be inferred from AEL homegrown results"
+  ],
+  "reading": {
+    "taskCount": 18,
+    "questions": 50,
+    "byTaskType": {
+      "complete_words": 6,
+      "daily_life": 6,
+      "academic_passage": 6
+    },
+    "byQuestionType": {
+      "complete_words": 16,
+      "daily_life": 16,
+      "academic_passage": 18
+    },
+    "originalNonETS": true,
+    "notAdaptive": true,
+    "notOfficialScaled": true,
+    "resumableLegacy34AndCurrent50": true
+  },
+  "writing": {
+    "taskCount": 20,
+    "simulatedTimedPractice": {
+      "items": 12,
+      "minutes": 23,
+      "mix": {
+        "build_sentence": 8,
+        "write_email": 2,
+        "academic_discussion": 2
+      }
+    },
+    "practiceOnlyNotETSTaskMix": true,
+    "autosavedLocalDrafts": true,
+    "resumable": true,
+    "structuralChecklistNotSemanticGrammarGrade": true,
+    "officialScore": null
+  },
+  "listening": {
+    "scriptOnlyItems": 8,
+    "questions": 14,
+    "naturalHumanRecordingsVerified": 0,
+    "countsTowardListeningProgress": false
+  },
+  "officialResources": {
+    "sample": "https://www.eu.ets.org/toefl/test-takers/ibt/prepare/sample-test.html",
+    "prep": "https://www.ets.org/toefl/test-takers/ibt/prepare.html",
+    "requiresNetwork": true,
+    "notSyncedToAEL": true
+  },
+  "QA": {
+    "nodePass": 76,
+    "pythonPass": 164,
+    "total": 240,
+    "virtualChromiumDesktop": "passed",
+    "virtualChromiumMobile": "passed",
+    "fullOlderChromiumSuite": "timed_out",
+    "realIphoneSafari": "not_tested",
+    "webkitRunner": "not_installed",
+    "realNetworkOffline": "not_verified",
+    "naturalAudio": "not_verified",
+    "humanEditor": "not_approved"
+  },
+  "integrity": {
+    "speakingFunctionIdentical": true,
+    "priorVocabularyPhrasalAndVOAJSONByteIdentical": true,
+    "priorReadingAndWritingTaskIDsPreserved": true,
+    "priorCardDataPreserved": true,
+    "offlineCacheUpdatedWithNewJSModule": true
+  },
+  "remainingCritical": [
+    "Real human audio for TOEFL Listening 4 task types, with rights and sound quality checks",
+    "2026 ETS-level psychometric calibration and genuinely adaptive multistage test",
+    "Independent native English editorial and item difficulty QA",
+    "Valid semantically grounded Writing scoring (human/external approved scoring only)",
+    "Physical iPhone Safari + real network-offline tests",
+    "Speaking module TOEFL alignment out of scope by explicit user rule",
+    "31 remaining VOA in-app publisher transcripts and audio playback verification"
+  ],
+  "editorialQueue": "qa/toefl-2026-extended-editorial-queue.csv"
+}

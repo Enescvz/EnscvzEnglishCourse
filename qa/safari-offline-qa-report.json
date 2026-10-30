@@ -1,0 +1,57 @@
+{
+  "buildDate": "2026-10-29",
+  "scope": "Safari offline-first core text content; no Speaking changes",
+  "source": "AEL_PRIVATE_DEV_BACKUP_20261029_VOA21_TOEFL_DIAGNOSTIC_QA_DO_NOT_DEPLOY.zip",
+  "changes": [
+    "Core precache now includes full candidate catalog and new offline module",
+    "Settings panel downloads/verifies core cache with machine-checked file count and explicit missing/error state",
+    "Repair action refills missing required core files without clearing learner localStorage",
+    "Required offline cache installs independently from optional unapproved synthetic audio",
+    "Offline navigation uses cached index.html as fallback",
+    "Cache activation only deletes prior AEL caches; preserves unrelated origin caches",
+    "Audio range responses 206/416 supported when local synthetic files were separately cached",
+    "External VOA human-voice MP3 remains online-only"
+  ],
+  "automated": {
+    "javascript": 71,
+    "python": 164,
+    "total": 235,
+    "passed": true
+  },
+  "simulatedServiceWorker": {
+    "requiredCacheAllPresent": true,
+    "missingFileReported": true,
+    "repair": true,
+    "repairFailureNotClaimedReady": true,
+    "offlineNavigationFallback": true,
+    "mediaRange": true,
+    "doesNotClearOtherCaches": true
+  },
+  "virtualChromium": {
+    "desktopSettingsUi": "PASS",
+    "mobileSettingsUi": "PASS",
+    "origin": "virtual_and_mock_storage",
+    "physicalSafariEquivalent": false
+  },
+  "realLocalHttpChromium": {
+    "status": "BLOCKED_BY_ADMINISTRATOR",
+    "error": "net::ERR_BLOCKED_BY_ADMINISTRATOR at 127.0.0.1:18487",
+    "passed": false
+  },
+  "physicalIphoneSafari": {
+    "tested": false,
+    "result": "NOT_TESTED"
+  },
+  "offlineDataPersistenceAfterDeviceRestart": {
+    "tested": false,
+    "result": "NOT_TESTED"
+  },
+  "humanVOAOfflineAudio": {
+    "supported": false,
+    "streamingRequiresInternet": true,
+    "physicalPlaybackVerified": false
+  },
+  "storageEvictionRisk": "Safari may evict storage under pressure or inactivity; users should export JSON backups",
+  "releaseGate": "LOCKED",
+  "publishable": false
+}

@@ -1,0 +1,58 @@
+{
+  "audit": "PRIVATE PERSONAL USE PREFLIGHT / NOT RELEASE APPROVAL",
+  "date": "2026-10-29",
+  "structuralChecks": {
+    "400_toefl_word_ids_unique": true,
+    "75_toefl_phrasal_ids_unique": true,
+    "all_toefl_word_ids_resolve": true,
+    "all_toefl_phrasal_ids_resolve": true,
+    "reading_50_answer_keys_valid": true,
+    "reading_3_task_types": true,
+    "writing_28_original_tasks": true,
+    "writing_task_bank_supports_10_1_1": true,
+    "50_voa_lessons": true,
+    "204_voa_questions": true,
+    "voa_all_question_keys_valid": true,
+    "offline_core_files_exist": true,
+    "release_lock_engaged": true,
+    "human_mp3_not_misrepresented": true
+  },
+  "passed": 14,
+  "failed": [],
+  "actualCounts": {
+    "toeflCoreWordIds": 400,
+    "toeflCorePhrasalIds": 75,
+    "readingTasks": 18,
+    "readingQuestions": 50,
+    "sourceReadingAnswerIndexCount": {
+      "0": 10,
+      "1": 27,
+      "2": 11,
+      "3": 2
+    },
+    "newSessionReadingAnswerPosition": "balanced by v2 presentation, legacy sessions remain original",
+    "writingTaskBank": 28,
+    "voaInAppTranscripts": 30,
+    "voaPublisherLinked": 20,
+    "voaQuestions": 204,
+    "offlineCoreFiles": 34,
+    "verifiedBundledHumanMP3": 0,
+    "syntheticMP3": 42
+  },
+  "testedOutsideThisScript": [
+    "npm test",
+    "Python unittest",
+    "example audit",
+    "audio quality gate",
+    "virtual Chromium desktop/mobile"
+  ],
+  "mustNotBeClaimedPassed": [
+    "physical iPhone Safari",
+    "real HTTP browser offline WebKit",
+    "external audio playback and transcript alignment",
+    "independent native English editorial review",
+    "ETS calibrated scoring",
+    "official adaptive TOEFL"
+  ],
+  "useDecision": "Windows local HTTP personal pilot conditionally suitable; iPhone Safari offline not signed off; release locked"
+}

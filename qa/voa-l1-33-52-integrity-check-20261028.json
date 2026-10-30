@@ -1,0 +1,41 @@
+{
+  "status": "PASS_SOURCE_INTEGRITY_ONLY",
+  "date": "2026-10-28",
+  "sourceSnapshot": "AEL_PRIVATE_DEV_BACKUP_20261028_VOA_L2_19_30_48_EVIDENCE_QA_DO_NOT_DEPLOY.zip",
+  "sourceSHA256": "f7d59a8b06224789734f3be2577c4fd2057ccd66bc63556babcc15ff72b89dd3",
+  "lessonIdentityStable": true,
+  "questionTextAndChoicesAndCorrectIndexStable": true,
+  "lessonCount": 50,
+  "questionCount": 204,
+  "toefl400_75DataStable": true,
+  "vocabularyAndPhrasalIDsStable": true,
+  "speakingFunctionsWithinAppUnchangedExceptSourceEvidenceRenderer": true,
+  "appJsOnlyLinkedEvidenceDisplayChanged": true,
+  "changedExistingFiles": [
+    "CONTINUE_IN_NEW_CHAT.md",
+    "README.md",
+    "data/voa-source-catalog.json",
+    "data/voa-source-quizzes.json",
+    "development-status.json",
+    "js/app.js",
+    "qa/non-speaking-quality-report.json",
+    "qa/voa-question-review-queue.csv",
+    "qa/voa-source-coverage.json",
+    "sw.js",
+    "tests/e2e_voa_linked_quizzes.py",
+    "tests/test_reviewed_voa_19_30.py",
+    "tests/test_voa_qa_queue.py",
+    "tools/audit_voa_completion_queue.py",
+    "tools/release_gate.py"
+  ],
+  "releaseAllowed": false,
+  "sourceEvidenceCount": 204,
+  "inAppFullTranscripts": 18,
+  "sourceLinkedFullTranscriptPending": 32,
+  "notVerified": [
+    "audio playback iPhone",
+    "MP3 / transcript alignment",
+    "offline Chromium local HTTP",
+    "independent US editor and TOEFL frequency"
+  ]
+}

@@ -1,0 +1,714 @@
+[
+  {
+    "id": "tr26-words-01",
+    "type": "complete_words",
+    "title": "University Garden",
+    "level": "B1–B2",
+    "body": "The campus garden is a shared outdoor space. Students volunteer to plant vegetables, record rainfall, and observe the insects that visit flowering plants. Researchers also use the garden to study how the local environment changes throughout the year.",
+    "questions": [
+      {
+        "question": "Complete the missing word in context: 'Students vo_unteer to plant vegetables.'",
+        "options": [
+          "volunteer",
+          "volume",
+          "visitor",
+          "volcano"
+        ],
+        "answer": 0,
+        "explanation": "Volunteer means to offer help willingly; students freely help maintain the garden."
+      },
+      {
+        "question": "Complete the word: 'Researchers ob_erve how the environment changes.'",
+        "options": [
+          "obtain",
+          "observe",
+          "object",
+          "obey"
+        ],
+        "answer": 1,
+        "explanation": "Observe means to watch carefully and record information."
+      }
+    ]
+  },
+  {
+    "id": "tr26-words-02",
+    "type": "complete_words",
+    "title": "Light and Plants",
+    "level": "B2",
+    "body": "A student compared two plants of the same type. One received sunlight through a window; the other grew under a lamp. Both received equal amounts of water. The student recorded changes weekly, but noted that the experiment was too small to support a general conclusion.",
+    "questions": [
+      {
+        "question": "Complete the word: 'Both plants rec_ived equal amounts of water.'",
+        "options": [
+          "recovered",
+          "reached",
+          "received",
+          "recycled"
+        ],
+        "answer": 2,
+        "explanation": "Received means that water was given to both plants."
+      },
+      {
+        "question": "Complete the word: 'The experiment was too small for a general concl_sion.'",
+        "options": [
+          "condition",
+          "confusion",
+          "connection",
+          "conclusion"
+        ],
+        "answer": 3,
+        "explanation": "Conclusion is a judgment based on the evidence; a small sample does not justify a broad claim."
+      }
+    ]
+  },
+  {
+    "id": "tr26-daily-01",
+    "type": "daily_life",
+    "title": "Library Hours Update",
+    "level": "B1–B2",
+    "body": "NOTICE — The West Library will close at 6 p.m. on Thursday for a scheduled electrical inspection. Books may still be returned through the outdoor drop box. The East Library will remain open until 10 p.m. Students with reservations for West Library study rooms will receive an email with alternative spaces.",
+    "questions": [
+      {
+        "question": "Where can students return a book after 6 p.m.?",
+        "options": [
+          "At the West Library front desk",
+          "Through the outdoor drop box",
+          "In an East Library classroom",
+          "Only on Friday"
+        ],
+        "answer": 1,
+        "explanation": "The notice explicitly says the outdoor drop box will remain available."
+      },
+      {
+        "question": "What should a student with a West Library room reservation expect?",
+        "options": [
+          "A fine",
+          "A phone call cancelling enrollment",
+          "An email about another space",
+          "An automatic refund of tuition"
+        ],
+        "answer": 2,
+        "explanation": "Students with bookings will receive an email with alternative spaces."
+      }
+    ]
+  },
+  {
+    "id": "tr26-daily-02",
+    "type": "daily_life",
+    "title": "Campus Research Meeting",
+    "level": "B1–B2",
+    "body": "MESSAGE FROM DR. LEE — Because the laboratory is being cleaned on Monday morning, our weekly research meeting will take place online at 9:30 a.m. Please send your one-page progress summary by Sunday evening. If you cannot attend the live meeting, send two questions for the team to discuss and review the recording afterward.",
+    "questions": [
+      {
+        "question": "Why is the meeting online?",
+        "options": [
+          "The laboratory is being cleaned",
+          "Dr. Lee is abroad",
+          "The internet is down",
+          "Students requested a holiday"
+        ],
+        "answer": 0,
+        "explanation": "The message attributes the format change to scheduled laboratory cleaning."
+      },
+      {
+        "question": "What must all participants send by Sunday evening?",
+        "options": [
+          "Two presentation slides",
+          "A laboratory key",
+          "A one-page progress summary",
+          "An exam registration form"
+        ],
+        "answer": 2,
+        "explanation": "The progress summary is required before the meeting, even if attending live."
+      }
+    ]
+  },
+  {
+    "id": "tr26-academic-01",
+    "type": "academic_passage",
+    "title": "Urban Heat Islands",
+    "level": "B2–C1",
+    "body": "Urban neighborhoods can become warmer than nearby rural areas because asphalt and buildings absorb energy from sunlight and release heat slowly. This phenomenon is known as the urban heat island effect. Trees can reduce local temperatures by providing shade and releasing water vapor through their leaves. However, tree planting alone cannot solve every heat problem. The effect varies with building height, wind, available water, and the arrangement of green spaces. To evaluate a project, researchers compare temperature measurements from multiple locations and days rather than relying on a single afternoon reading. This approach helps separate a consistent cooling effect from ordinary changes in weather.",
+    "questions": [
+      {
+        "question": "What is the central idea of the passage?",
+        "options": [
+          "Cities should remove all paved streets",
+          "Urban heat has several causes and requires careful evaluation",
+          "Weather forecasts cannot predict city temperatures",
+          "Trees increase heat by absorbing water"
+        ],
+        "answer": 1,
+        "explanation": "The passage explains the phenomenon, one mitigation strategy, and the need for repeated measurements."
+      },
+      {
+        "question": "Why are measurements taken across multiple days?",
+        "options": [
+          "To make the trees grow faster",
+          "To eliminate all wind",
+          "To avoid confusing temporary weather with lasting effects",
+          "To measure only the warmest possible temperature"
+        ],
+        "answer": 2,
+        "explanation": "Repeated measurements help distinguish a reliable cooling trend from day-to-day weather variability."
+      },
+      {
+        "question": "What can be inferred about planting trees?",
+        "options": [
+          "It is useful but its results depend on local conditions",
+          "It guarantees the same cooling in every city",
+          "It has no measurable effect on temperature",
+          "It works only in rural areas"
+        ],
+        "answer": 0,
+        "explanation": "The writer notes shade and transpiration benefits but cautions that local conditions affect outcomes."
+      }
+    ]
+  },
+  {
+    "id": "tr26-academic-02",
+    "type": "academic_passage",
+    "title": "How Memory Changes with Retrieval",
+    "level": "B2–C1",
+    "body": "Students often reread notes because the activity feels familiar and efficient. Yet successfully recalling an idea without looking at the notes may provide a stronger opportunity for later remembering. Retrieval practice requires learners to reconstruct information, making gaps in their knowledge easier to identify. The effectiveness of this approach depends on the difficulty of the material, the spacing between attempts, and whether feedback is available. If students repeatedly practice an incorrect answer without correction, their confidence may grow while accuracy does not. For this reason, educators often pair low-stakes quizzes with prompt explanations and follow-up review. No single study method is ideal for every learner or subject, so an effective routine includes opportunities to adjust based on actual performance.",
+    "questions": [
+      {
+        "question": "Why can retrieval practice be useful?",
+        "options": [
+          "It eliminates the need to understand ideas",
+          "It reveals what learners cannot yet recall",
+          "It prevents learners from making any mistakes",
+          "It works only when notes are visible"
+        ],
+        "answer": 1,
+        "explanation": "The passage states that retrieving without notes makes knowledge gaps easier to identify."
+      },
+      {
+        "question": "Which factor could make repeated quizzes less helpful?",
+        "options": [
+          "Receiving clear explanations",
+          "Spacing reviews over time",
+          "Practicing incorrect answers without feedback",
+          "Adjusting a study plan based on results"
+        ],
+        "answer": 2,
+        "explanation": "Repeated uncorrected errors can increase confidence without improving accuracy."
+      },
+      {
+        "question": "What does the author suggest about study methods?",
+        "options": [
+          "Always reread for exactly an hour",
+          "Use one fixed method for every subject",
+          "Avoid feedback while practicing",
+          "Adapt the approach based on performance"
+        ],
+        "answer": 3,
+        "explanation": "The concluding sentence recommends adjusting routines based on observable performance."
+      }
+    ]
+  },
+  {
+    "id": "tr26-words-03",
+    "type": "complete_words",
+    "title": "Climate Research Vocabulary",
+    "level": "B2",
+    "body": "A community research team collected temperature data from streets with different amounts of tree cover. The researchers expected shaded streets to be cooler. Their observations supported that prediction, although temperatures also depended on wind and building density. Instead of drawing a conclusion from one afternoon, they repeated the measurements over several weeks.",
+    "questions": [
+      {
+        "question": "Complete: The results sup_orted the original prediction.",
+        "options": [
+          "supported",
+          "supposed",
+          "surrounded",
+          "submitted"
+        ],
+        "answer": 0,
+        "explanation": "Supported means the observed evidence agreed with the prediction."
+      },
+      {
+        "question": "Complete: The study repeated the meas_rements over several weeks.",
+        "options": [
+          "managements",
+          "measurements",
+          "movements",
+          "messages"
+        ],
+        "answer": 1,
+        "explanation": "Measurements are recorded quantities, here the temperatures."
+      },
+      {
+        "question": "Complete: The team studied the effect of building den_ity.",
+        "options": [
+          "diversity",
+          "density",
+          "destiny",
+          "duration"
+        ],
+        "answer": 1,
+        "explanation": "Density refers to how closely buildings are concentrated."
+      }
+    ]
+  },
+  {
+    "id": "tr26-words-04",
+    "type": "complete_words",
+    "title": "Learning and Evidence",
+    "level": "B2",
+    "body": "Students often think rereading familiar material is the most efficient way to study. However, researchers have compared rereading with retrieval practice, which asks learners to recall information without looking at their notes. A learner may initially find retrieval difficult but later remember more. Results vary across subjects, so no one strategy should be treated as universally effective.",
+    "questions": [
+      {
+        "question": "Complete: Researchers com_ared two study methods.",
+        "options": [
+          "completed",
+          "compared",
+          "compiled",
+          "composed"
+        ],
+        "answer": 1,
+        "explanation": "Compared means examined similarities and differences."
+      },
+      {
+        "question": "Complete: The new technique requires rec_lling information.",
+        "options": [
+          "recycling",
+          "recalling",
+          "receiving",
+          "recording"
+        ],
+        "answer": 1,
+        "explanation": "Recalling is retrieving a memory without viewing the source."
+      },
+      {
+        "question": "Complete: No method is un_versally effective.",
+        "options": [
+          "unusually",
+          "universally",
+          "uniformly",
+          "uncertainly"
+        ],
+        "answer": 1,
+        "explanation": "Universally means in all cases, which the passage explicitly rejects."
+      }
+    ]
+  },
+  {
+    "id": "tr26-daily-03",
+    "type": "daily_life",
+    "title": "Student Services Email",
+    "level": "B1–B2",
+    "body": "SUBJECT: Update to Student ID Services. Starting next Monday, new student ID cards will be issued at the Student Center instead of the library. The office will be open from 8:30 a.m. to 4:00 p.m., Monday through Friday. Students must bring a photo ID and their enrollment confirmation. The first replacement is free this semester, but additional replacements cost $10. If you ordered a replacement before Friday, you can collect it from the library until Wednesday.",
+    "questions": [
+      {
+        "question": "Where should a student request a new ID card next Monday?",
+        "options": [
+          "At the library",
+          "At the Student Center",
+          "At the bookstore",
+          "At the registrar parking office"
+        ],
+        "answer": 1,
+        "explanation": "From next Monday the Student Center issues new cards."
+      },
+      {
+        "question": "What should a student bring?",
+        "options": [
+          "Only a phone number",
+          "A photo ID and enrollment confirmation",
+          "A course textbook",
+          "A library fine receipt"
+        ],
+        "answer": 1,
+        "explanation": "The notice lists both a photo ID and enrollment confirmation."
+      },
+      {
+        "question": "What happens to a replacement ordered before Friday?",
+        "options": [
+          "It cannot be collected",
+          "It must be mailed",
+          "It can be collected at the library until Wednesday",
+          "It costs $20"
+        ],
+        "answer": 2,
+        "explanation": "A temporary library pickup exception applies through Wednesday."
+      }
+    ]
+  },
+  {
+    "id": "tr26-daily-04",
+    "type": "daily_life",
+    "title": "Community Volunteer Schedule",
+    "level": "B1–B2",
+    "body": "The community garden needs volunteers on Saturday morning to prepare planting beds. Check in at the north gate by 8:45 a.m. The orientation begins at 9:00 a.m., and teams will work until noon. Gloves and tools are provided, but volunteers should bring a water bottle. The organizers will cancel only if there is heavy rain. They will send a text message by 7:30 a.m. if the event is canceled.",
+    "questions": [
+      {
+        "question": "When should volunteers arrive for check-in?",
+        "options": [
+          "By 7:30 a.m.",
+          "By 8:45 a.m.",
+          "At 9:30 a.m.",
+          "At noon"
+        ],
+        "answer": 1,
+        "explanation": "Check-in is by 8:45, fifteen minutes before orientation."
+      },
+      {
+        "question": "What should participants bring?",
+        "options": [
+          "Gardening tools",
+          "A water bottle",
+          "A pair of gloves",
+          "A lunch box"
+        ],
+        "answer": 1,
+        "explanation": "Tools and gloves are supplied; volunteers provide water."
+      },
+      {
+        "question": "How will participants learn about a cancellation?",
+        "options": [
+          "An email after noon",
+          "A text by 7:30 a.m.",
+          "A notice at the gate at 9:00",
+          "A phone call from the library"
+        ],
+        "answer": 1,
+        "explanation": "The organizers promise a text message by 7:30 a.m. if canceled."
+      }
+    ]
+  },
+  {
+    "id": "tr26-academic-03",
+    "type": "academic_passage",
+    "title": "Wetlands and Flood Management",
+    "level": "B2–C1",
+    "body": "Wetlands can reduce flood risks by storing water when rainfall is unusually heavy. In a healthy wetland, soil, vegetation, and shallow pools slow the movement of water toward rivers. This does not mean wetlands prevent every flood. Their effectiveness depends on how much water the landscape can hold, the timing of a storm, and changes in nearby development. When towns replace wetlands with paved surfaces, rainwater may reach drainage systems more quickly. Some planners therefore combine wetland restoration with engineered barriers, rather than relying on either approach alone. To evaluate restoration projects, researchers compare flood levels across multiple storms and nearby areas with similar rainfall. Their findings may also reveal ecological benefits, such as habitat for insects and birds, but those benefits should be measured separately from flood protection.",
+    "questions": [
+      {
+        "question": "What is the passage mainly about?",
+        "options": [
+          "Wetlands always eliminate floods",
+          "Wetlands can reduce flood risks, but effectiveness depends on conditions",
+          "Engineered barriers are never useful",
+          "Bird populations are the only way to measure flooding"
+        ],
+        "answer": 1,
+        "explanation": "The author describes storage benefits and limitations and recommends combined approaches."
+      },
+      {
+        "question": "Why might paved surfaces increase flood pressure?",
+        "options": [
+          "They absorb more water than soils",
+          "They accelerate movement of rainwater toward drains",
+          "They produce heavy rainfall",
+          "They restore wetland plants"
+        ],
+        "answer": 1,
+        "explanation": "Water can reach drainage systems more quickly where land is paved."
+      },
+      {
+        "question": "Why do researchers compare several storms?",
+        "options": [
+          "To guarantee future weather",
+          "To estimate effects beyond a single event",
+          "To avoid recording rainfall",
+          "To remove engineered barriers"
+        ],
+        "answer": 1,
+        "explanation": "Comparing storms reduces the chance of overinterpreting a single event."
+      },
+      {
+        "question": "What can be inferred about ecological benefits?",
+        "options": [
+          "They must be measured independently of flood outcomes",
+          "They cannot occur in wetlands",
+          "They prove flood protection is complete",
+          "They are identical to storm measurements"
+        ],
+        "answer": 0,
+        "explanation": "The passage recommends separate measures for ecological and flood benefits."
+      }
+    ]
+  },
+  {
+    "id": "tr26-academic-04",
+    "type": "academic_passage",
+    "title": "Scientific Models and Prediction",
+    "level": "B2–C1",
+    "body": "A scientific model is a simplified representation of a complex system. Climate researchers, for example, use models to explore how temperature might change under different emissions scenarios. A model does not attempt to reproduce every feature of the real world. Instead, it focuses on relationships that are relevant to the question under study. Researchers test models by comparing predictions with observations, then revise assumptions when the comparison reveals consistent differences. Uncertainty remains because measurements are incomplete and because future human behavior cannot be known precisely. Communicating a range of possible outcomes is therefore often more responsible than announcing one exact number. Models are most useful when decision-makers understand both the conditions in which they perform well and the limitations of their assumptions. Different models can even reach different estimates while agreeing on a broad direction of change.",
+    "questions": [
+      {
+        "question": "Why do researchers simplify scientific systems?",
+        "options": [
+          "To eliminate observation",
+          "To focus on relationships relevant to the question",
+          "To hide uncertainty",
+          "To avoid checking predictions"
+        ],
+        "answer": 1,
+        "explanation": "Models are simplified so they can represent the relevant mechanisms."
+      },
+      {
+        "question": "How are models tested?",
+        "options": [
+          "By comparing predictions with observations",
+          "By replacing all measurements with opinions",
+          "By choosing a single perfect future",
+          "By preventing revision"
+        ],
+        "answer": 0,
+        "explanation": "Predictions are compared with observations; assumptions may then be revised."
+      },
+      {
+        "question": "Why should a range of outcomes sometimes be reported?",
+        "options": [
+          "Models always agree on one number",
+          "Future behavior and measurements create uncertainty",
+          "Scientific models contain no assumptions",
+          "All predictions are equally likely"
+        ],
+        "answer": 1,
+        "explanation": "The text notes incomplete measurement and unknowable future behavior."
+      },
+      {
+        "question": "What is implied when different models agree on a direction?",
+        "options": [
+          "They must have identical numerical predictions",
+          "They cannot be compared",
+          "Some broad conclusions may be shared despite different estimates",
+          "Both models must be discarded"
+        ],
+        "answer": 2,
+        "explanation": "Models can disagree on estimates while pointing toward a common trend."
+      }
+    ]
+  },
+  {
+    "id": "tr26-words-05",
+    "type": "complete_words",
+    "title": "Water Conservation Survey",
+    "level": "B2",
+    "body": "During a campus survey, students measured daily water use in shared kitchens. They compared results from four dormitories and identified several habits that could reduce consumption. The team recommended installing low-flow taps, but it emphasized that the estimates were based on a relatively small sample.",
+    "questions": [
+      {
+        "question": "Complete the word: 'The students me_sured daily water use.'",
+        "options": [
+          "measured",
+          "mentioned",
+          "managed",
+          "memorized"
+        ],
+        "answer": 0,
+        "explanation": "Measured means determined a quantity; the students collected amounts of water used."
+      },
+      {
+        "question": "Complete the word: 'They compared res_lts from four dormitories.'",
+        "options": [
+          "reserves",
+          "results",
+          "resorts",
+          "requests"
+        ],
+        "answer": 1,
+        "explanation": "Results are the findings of a survey or study, here the measurements from four dormitories."
+      },
+      {
+        "question": "Complete the word: 'The estimates were based on a small sa_ple.'",
+        "options": [
+          "signal",
+          "sample",
+          "schedule",
+          "subject"
+        ],
+        "answer": 1,
+        "explanation": "A sample is the group or set of observations used in a study; only four dormitories were included."
+      }
+    ]
+  },
+  {
+    "id": "tr26-words-06",
+    "type": "complete_words",
+    "title": "Campus Weather Station",
+    "level": "B2",
+    "body": "An undergraduate engineering club installed a small weather station behind the science building. The station records temperature, wind speed, and rainfall at regular intervals. Students use the collected data to identify seasonal patterns, but they check the instruments for errors before drawing conclusions.",
+    "questions": [
+      {
+        "question": "Complete the word: 'The station re_ords temperature and rainfall.'",
+        "options": [
+          "reports",
+          "records",
+          "reduces",
+          "reflects"
+        ],
+        "answer": 1,
+        "explanation": "Records means captures measurements for future reference; the station logs weather data."
+      },
+      {
+        "question": "Complete the word: 'Students identify seasonal pat_erns.'",
+        "options": [
+          "patterns",
+          "partners",
+          "passages",
+          "particles"
+        ],
+        "answer": 0,
+        "explanation": "Patterns are recurring arrangements or trends in the weather measurements."
+      },
+      {
+        "question": "Complete the word: 'They check the instr_ments for errors.'",
+        "options": [
+          "instructions",
+          "instruments",
+          "interests",
+          "investments"
+        ],
+        "answer": 1,
+        "explanation": "Instruments are measuring devices; the weather station uses them to measure conditions."
+      }
+    ]
+  },
+  {
+    "id": "tr26-daily-05",
+    "type": "daily_life",
+    "title": "Shared Lab Booking Notice",
+    "level": "B1–B2",
+    "body": "LAB NOTICE: From Monday to Wednesday, the computer lab will be reserved for orientation sessions from 9:00 a.m. to noon. Independent study is available after 12:30 p.m. Students who need to print before noon may use the printers on the second floor of the Student Center. Existing afternoon reservations are unaffected.",
+    "questions": [
+      {
+        "question": "When can students begin independent study in the lab on Tuesday?",
+        "options": [
+          "9:00 a.m.",
+          "Noon",
+          "12:30 p.m.",
+          "Wednesday morning"
+        ],
+        "answer": 2,
+        "explanation": "The notice says independent study is available after 12:30 p.m., including Tuesday."
+      },
+      {
+        "question": "Where can students print before noon?",
+        "options": [
+          "In the reserved lab",
+          "At the Student Center",
+          "In the orientation room",
+          "At the front gate"
+        ],
+        "answer": 1,
+        "explanation": "The Student Center has second-floor printers available before noon."
+      },
+      {
+        "question": "Which reservations are not changed?",
+        "options": [
+          "All morning lab reservations",
+          "Wednesday orientation sessions",
+          "Existing afternoon reservations",
+          "All reservations for the Student Center"
+        ],
+        "answer": 2,
+        "explanation": "The notice explicitly states that existing afternoon reservations are unaffected."
+      }
+    ]
+  },
+  {
+    "id": "tr26-daily-06",
+    "type": "daily_life",
+    "title": "Field Trip Transportation",
+    "level": "B2",
+    "body": "EMAIL — The environmental science field trip leaves at 7:45 a.m. Friday from the north campus gate. Please arrive 15 minutes early to check in. The bus will return around 4:30 p.m., depending on traffic. If you can no longer attend, contact the instructor by Thursday at 3:00 p.m. so the seat can be offered to another student.",
+    "questions": [
+      {
+        "question": "What time should students arrive to check in?",
+        "options": [
+          "7:15 a.m.",
+          "7:30 a.m.",
+          "7:45 a.m.",
+          "8:00 a.m."
+        ],
+        "answer": 1,
+        "explanation": "Students must arrive fifteen minutes before the 7:45 a.m. departure, which is 7:30 a.m."
+      },
+      {
+        "question": "Why is the return time approximate?",
+        "options": [
+          "Weather conditions may delay the departure",
+          "The instructor has not booked the bus",
+          "Traffic may affect the return trip",
+          "Students may choose their own return time"
+        ],
+        "answer": 2,
+        "explanation": "The message says the bus returns around 4:30 p.m., depending on traffic."
+      },
+      {
+        "question": "What should a student do if unable to attend?",
+        "options": [
+          "Contact the instructor before Thursday at 3:00 p.m.",
+          "Tell the driver on Friday morning",
+          "Cancel only after the bus returns",
+          "Find a replacement without contacting anyone"
+        ],
+        "answer": 0,
+        "explanation": "The email asks students to notify the instructor by Thursday at 3:00 p.m. so the seat can be reassigned."
+      }
+    ]
+  },
+  {
+    "id": "tr26-academic-05",
+    "type": "academic_passage",
+    "title": "Why Urban Trees Matter",
+    "level": "B2",
+    "body": "Urban trees can lower surface temperatures by shading roads and buildings. Their leaves also release water vapor, which can cool nearby air. However, planting trees does not have the same effect everywhere. The amount of cooling depends on species, soil conditions, and access to water. A tree planted in a small paved area may struggle to grow, while the same species can thrive in a larger space with healthy soil. City planners therefore need to consider long-term maintenance rather than simply counting the number of newly planted trees.",
+    "questions": [
+      {
+        "question": "What is the main idea of the passage?",
+        "options": [
+          "Any tree will cool any city equally",
+          "Urban trees can reduce heat, but their impact depends on local conditions",
+          "Paved spaces are always better for tree growth",
+          "Tree planting should replace all road maintenance"
+        ],
+        "answer": 1,
+        "explanation": "The passage explains benefits of shade and evaporation, then emphasizes differing local conditions and maintenance."
+      },
+      {
+        "question": "Why might a tree in a paved area struggle?",
+        "options": [
+          "Because city trees cannot release water vapor",
+          "Because the tree receives too much shade",
+          "Because limited soil space may restrict healthy growth",
+          "Because all urban soil is naturally too wet"
+        ],
+        "answer": 2,
+        "explanation": "The passage contrasts a small paved area with a larger area of healthy soil, implying constrained growing conditions."
+      }
+    ]
+  },
+  {
+    "id": "tr26-academic-06",
+    "type": "academic_passage",
+    "title": "The Value of Replication",
+    "level": "B2–C1",
+    "body": "A single scientific study may report a striking result, but researchers often want to know whether the finding can be repeated. In replication, a different team carries out a comparable procedure to see whether a similar pattern emerges. Successful replication increases confidence, although it does not prove that an explanation is universally correct. A failed replication also requires careful interpretation: differences in participants, equipment, or circumstances may affect outcomes. For this reason, open methods and detailed reports help other teams evaluate what a result actually shows.",
+    "questions": [
+      {
+        "question": "According to the passage, what is one purpose of replication?",
+        "options": [
+          "To guarantee that a theory is permanently correct",
+          "To find out whether a similar result appears in a comparable study",
+          "To avoid documenting research procedures",
+          "To replace every previous research finding"
+        ],
+        "answer": 1,
+        "explanation": "Replication checks whether a comparable method produces a similar pattern, increasing confidence without guaranteeing truth."
+      },
+      {
+        "question": "Why should an unsuccessful replication be interpreted carefully?",
+        "options": [
+          "Researchers may use different participants or equipment",
+          "Scientists never repeat experiments accurately",
+          "All results are random and uninformative",
+          "Open methods prevent researchers from comparing outcomes"
+        ],
+        "answer": 0,
+        "explanation": "Differences in participants, equipment, or conditions can explain different outcomes, according to the passage."
+      }
+    ]
+  }
+]

@@ -1,0 +1,54 @@
+{
+  "asOf": "2026-10-28",
+  "scope": "TOEFL + Daily vocabulary expansion only, private QA",
+  "baseline": {
+    "nodePassed": 50,
+    "pythonPassed": 125,
+    "totalPassed": 175
+  },
+  "postChange": {
+    "nodePassed": 50,
+    "pythonPassed": 126,
+    "totalPassed": 176
+  },
+  "core": {
+    "wordLessonIDs": 400,
+    "phrasalLessonIDs": 75,
+    "newAcademicDrafts": 50,
+    "priorWordIDsUnchangedPrefix": 200,
+    "priorPhrasalIDsUnchangedPrefix": 50,
+    "additionalReusedGeneralIDs": 200,
+    "additionalReusedPhrasalIDs": 25
+  },
+  "unchangedLegacyFiles": [
+    "data/vocabulary.json",
+    "data/phrasals.json",
+    "data/fluency-focus.json",
+    "data/rapid-vocabulary.json",
+    "data/authentic-listening.json",
+    "data/toefl-academic.json",
+    "js/engine.js",
+    "js/memory.js"
+  ],
+  "allUnchangedLegacyFileChecksPassed": true,
+  "uiChanges": "TOEFL status label dynamic counts only",
+  "virtualChromium": {
+    "desktopAssertions": "passed",
+    "mobileViewportAssertions": "passed",
+    "testRunnerExit": "not independently captured",
+    "realBrowserOrigin": "mocked",
+    "storagePersistence": "mocked"
+  },
+  "gate": "LOCKED (nonzero by design)",
+  "ETSFrequencyRankVerified": false,
+  "independentUSLanguageEditorialReview": false,
+  "completeContentLicenseClearance": false,
+  "iPhoneSafariRealDeviceQA": false,
+  "offlineQA": false,
+  "realHumanVoicedAudioVerified": false,
+  "contentReviewCaveat": "Two distinct context examples validated structurally, not independently at sense/collocation level",
+  "speakingFilesModified": false,
+  "googleDriveUsed": false,
+  "githubUsed": false,
+  "releaseZipCreated": false
+}

@@ -1,0 +1,10 @@
+{
+  "scope": "virtual Chromium only",
+  "desktop_25_30": "PASS",
+  "mobile_25_30": "PASS",
+  "desktop_23_24": "PASS",
+  "mobile_23_24": "PASS",
+  "physicalSafari": "NOT_RUN",
+  "realAudioPlayback": "NOT_VERIFIED",
+  "realHttpOffline": "NOT_VERIFIED"
+}

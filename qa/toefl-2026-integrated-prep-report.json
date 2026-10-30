@@ -1,0 +1,56 @@
+{
+  "revision": "2026-10-29 original 2026 TOEFL integrated practice",
+  "developmentOnly": true,
+  "releaseApproved": false,
+  "reference": "https://www.ets.org/toefl/test-takers/ibt/about/content.html?version=after-jan-2026",
+  "originalReadingTasks": 12,
+  "originalReadingQuestions": 34,
+  "originalWritingTasks": 18,
+  "originalListeningTextOnlyScenarios": 8,
+  "originalListeningTextQuestions": 14,
+  "listeningScenarioAudioStatus": "NO_VERIFIED_AUDIO; not a listening test, does not count as listening progress",
+  "listeningScenarioSource": "original authored text, not VOA and not ETS",
+  "miniExam": {
+    "name": "original 12-minute 9-question Reading mini",
+    "taskTypes": 3,
+    "questionCount": 9,
+    "durationMinutes": 12,
+    "officialTest": false,
+    "adaptiveETS": false,
+    "scoreScale": null,
+    "persistentAttempts": true,
+    "answersHiddenUntilSubmission": true,
+    "autoSubmissionAtTimeLimit": true
+  },
+  "writingFeedback": {
+    "supported": "word count, reference answer exact order for Build a Sentence, heuristic structural suggestions only",
+    "grammarOrSemanticScoring": false,
+    "officialRating": false,
+    "editorReviewed": false
+  },
+  "personalizedStudyPlan": {
+    "source": "actual completed original Reading mini attempts only",
+    "unmeasuredSkillEstimates": false,
+    "officialProficiencyEstimate": false
+  },
+  "immutableData": "speaking source, 1000/500 original context cards, 400/75 shared IDs, old VOA lessons and question IDs preserved",
+  "freshness": "2026-10-29",
+  "verifiedPhysicalIphoneSafari": false,
+  "offlineOriginVerified": false,
+  "onlineHumanAudioPlaybackVerified": false,
+  "expectedAutomatedTests": {
+    "javascript": 62,
+    "python": 158,
+    "total": 220,
+    "actualValidation": "passed"
+  },
+  "browserChromiumTargeted": "qa/toefl-prep-browser-smoke.json",
+  "remaining": [
+    "31 VOA complete in-app transcripts still pending",
+    "Real licensed human audio for new listening task styles",
+    "Full-length ETS calibrated adaptive tests and actual 1-6 score validation are not available",
+    "Speaking was not modified or simulated",
+    "Physical iPhone Safari and actual offline end-to-end QA",
+    "Independent American English editorial and exam relevance signoff"
+  ]
+}

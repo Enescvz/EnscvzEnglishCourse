@@ -1,0 +1,23 @@
+{
+  "baselineArchive": "AEL_PRIVATE_DEV_BACKUP_20261029_TOEFL2026_INTEGRATED_PREP_QA_DO_NOT_DEPLOY.zip",
+  "sourceSnapshotsUnchanged": [
+    "data/vocabulary.json",
+    "data/phrasals.json",
+    "data/toefl-academic.json",
+    "data/toefl-core.json",
+    "data/fluency-focus.json",
+    "js/memory.js",
+    "js/engine.js",
+    "data/audio-provenance.json"
+  ],
+  "speakingFunctionByteEquivalent": true,
+  "speakingSHA256": "91cad685dc583255e5907b5452c72c1f6c4f7758ff75144bf829eee43a773666",
+  "voaLessonIdsPreserved": 50,
+  "questionTextsChoicesAndAnswersPreserved": 204,
+  "readingAddedAsNewProgressNamespace": "toeflActiveReading",
+  "oldCardIDsPreserved": true,
+  "speakingProgressDataSchemaUnchanged": true,
+  "offlineServiceWorkerAssetsNotRewritten": false,
+  "uploadOrPublishPerformed": false,
+  "serviceWorkerCacheVersionBumpedToAvoidStaleOfflineAssets": true
+}

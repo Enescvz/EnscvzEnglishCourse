@@ -1,0 +1,35 @@
+{
+  "reportType": "VOA publisher content rights + transcript integration; private development only",
+  "checkedOn": "2026-10-29",
+  "base": "AEL_PRIVATE_DEV_BACKUP_20261029_ENGINEERING_VOA22_QA_CLEAN_DO_NOT_DEPLOY.zip",
+  "legalSource": "https://learningenglish.voanews.com/p/6861.html",
+  "thirdPartyRightsLimit": "https://learningenglish.voanews.com/p/6021.html",
+  "integratedNow": [
+    "voa-linked-2-23",
+    "voa-linked-2-24"
+  ],
+  "publisherOriginalDialogueTranscripts": 24,
+  "remainingLinkedToPublisher": 26,
+  "sourceEvidencedQuestions": 204,
+  "speakerTurnLinkedQuestionCount": 100,
+  "publisherPageEvidenceQuestionCount": 104,
+  "lesson23ThirdPartySongLyricsExcluded": true,
+  "lesson23WholeAudioVerbatimTranscript": false,
+  "sourceAudioPlaybackVerified": false,
+  "sourceAudioTimeAlignmentVerified": false,
+  "localLicensedHumanMp3Count": 0,
+  "realIPhoneSafariVerified": false,
+  "offlineMp3Verified": false,
+  "speakingModified": false,
+  "releaseLocked": true,
+  "tests": {
+    "javascript": 87,
+    "python": 174,
+    "total": 261,
+    "targetedChromiumDesktop": "pass_virtual_origin",
+    "targetedChromiumMobile": "pass_virtual_origin",
+    "realSafari": "not_tested",
+    "releaseCheck": "LOCKED_EXPECTED"
+  },
+  "nextSteps": "Continue remaining 26 publisher Conversation scripts; verify each quote and third-party rights segment, add licensed MP3 bytes only when retrievable and checked."
+}

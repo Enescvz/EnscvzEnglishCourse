@@ -1,0 +1,16 @@
+# Third-party corpora must be downloaded intentionally and license reviewed.
+sources/
+__pycache__/
+*.pyc
+node_modules/
+# Candidate staging is not production content. Keep source and QA reports separately.
+qa/candidate-vocabulary.json
+qa/candidate-phrasals.json
+
+# Browser screenshots are local development artifacts, not release evidence.
+preview-*.png
+
+# Auto-collected, unreviewed curriculum candidates must never ship as lessons.
+qa/fast-vocabulary-candidates.json
+qa/fast-phrasal-candidates.json
+qa/fast-import-report.json

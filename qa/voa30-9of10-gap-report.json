@@ -1,0 +1,89 @@
+{
+  "checkpoint": "2026-10-29 VOA30 private engineering regression",
+  "scope": "NON_SPEAKING_PRIVATE_DO_NOT_DEPLOY",
+  "tests": {
+    "javascript": {
+      "passed": 89,
+      "failed": 0,
+      "command": "npm test"
+    },
+    "python": {
+      "passed": 178,
+      "failed": 0,
+      "command": "python -m unittest discover -s tests -p test_*.py"
+    },
+    "virtualChromium": {
+      "lesson25_30_desktop": "PASS",
+      "lesson25_30_mobile": "PASS",
+      "lesson23_24_desktop": "PASS",
+      "lesson23_24_mobile": "PASS",
+      "realDevice": false
+    },
+    "testCount": 267
+  },
+  "sourceRights": "VOA self-produced transcripts/audio public domain with source credit: https://learningenglish.voanews.com/p/6861.html; third-party excluded",
+  "voa": {
+    "totalLessons": 50,
+    "inAppTranscripts": 30,
+    "publisherOnlyTranscripts": 20,
+    "sourceProofQuestions": 204,
+    "inAppSpeakerTurns": 121,
+    "inAppStageDirections": 3,
+    "publisherExcerptEvidenceQuestions": 80,
+    "locallyBundledHumanMP3": 0,
+    "remoteHumanMP3PlaybackVerifiedOnIPhone": false,
+    "mp3BytesDownloadedAndVerified": false,
+    "audioTranscriptTimingVerified": false,
+    "rightsExcludedThirdPartyLyrics": true
+  },
+  "toefl": {
+    "wordSelection": 400,
+    "phrasalSelection": 75,
+    "originalReadingQuestions": 50,
+    "writingTasks": 20,
+    "calibratedOfficialETSScore": false
+  },
+  "integrity": {
+    "baseline": "AEL_PRIVATE_DEV_BACKUP_20261029_VOA24_PUBLIC_DOMAIN_QA_DO_NOT_DEPLOY_2.zip",
+    "scope": "private source integrity and code-path regression, NOT real device/audio QA",
+    "lessonIdsUnchanged": true,
+    "originalVOAQuestionsOptionsAnswersUnchanged": true,
+    "wordAndPhrasalCardsByteIdentical": true,
+    "toeflCoreByteIdentical": true,
+    "speakingFunctionsCheckedUnchanged": [
+      "function speaking",
+      "function pronunciation"
+    ],
+    "inAppVOATranscripts": 30,
+    "externalOnlyVOALessons": 20,
+    "sourceEvidenceQuestions": 204,
+    "humanAudioBundled": 0,
+    "humanAudioActuallyPlayedOnIphone": false,
+    "realOfflineWebkitTest": false,
+    "humanEditorSignoff": false,
+    "etsScoringCalibrated": false,
+    "releaseApproved": false
+  },
+  "release": {
+    "readyForRelease": false,
+    "gate": "LOCKED",
+    "speakingUntouched": true,
+    "noGitHub": true,
+    "noGoogleDrive": true,
+    "noPublicZip": true
+  },
+  "criticalOpenBlockers": [
+    "20 Level 1 full VOA publisher transcripts missing in app",
+    "No verified locally bundled natural human voice recordings",
+    "Actual human MP3 audible playback and audio-text timing not verified",
+    "Physical iPhone Safari and real HTTP offline E2E not verified",
+    "Independent US English editorial signoff not obtained",
+    "ETS adaptive/score calibration unavailable",
+    "Longitudinal 7/30-day memory effectiveness unmeasured"
+  ],
+  "nineOfTenVerdict": "NOT APPROVED. More validated real-device/audio/editorial evidence needed; do not label as 9/10.",
+  "notes": [
+    "Virtual Chromium and automated tests are not iOS WebKit physical tests.",
+    "Source text proof is not proof that a student heard or played MP3."
+  ]
+}

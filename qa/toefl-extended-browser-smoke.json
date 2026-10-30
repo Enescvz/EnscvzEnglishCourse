@@ -1,0 +1,9 @@
+{
+  "method": "Virtual Chromium routed assets; not real origin or physical Safari",
+  "desktop": "passed",
+  "mobile_viewport": "passed",
+  "real_iphone_safari": "not_tested",
+  "official_ETS_scoring": "not_available",
+  "human_listening_audio": "not_verified",
+  "releaseApproved": false
+}

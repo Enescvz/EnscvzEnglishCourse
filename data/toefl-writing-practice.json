@@ -1,0 +1,442 @@
+[
+  {
+    "id": "tw26-sentence-01",
+    "kind": "build_sentence",
+    "title": "Campus Library",
+    "prompt": "Put the words in a natural sentence. Use all the words exactly once.",
+    "tokens": [
+      "the library",
+      "because",
+      "will close",
+      "renovations",
+      "early",
+      "of"
+    ],
+    "answer": "The library will close early because of renovations.",
+    "skill": "word order and reason"
+  },
+  {
+    "id": "tw26-sentence-02",
+    "kind": "build_sentence",
+    "title": "Study Group",
+    "prompt": "Put the words in a natural sentence. Use all the words exactly once.",
+    "tokens": [
+      "the professor",
+      "our group",
+      "suggested",
+      "meet",
+      "that",
+      "before Friday"
+    ],
+    "answer": "The professor suggested that our group meet before Friday.",
+    "skill": "that-clause and suggestion"
+  },
+  {
+    "id": "tw26-sentence-03",
+    "kind": "build_sentence",
+    "title": "Climate Seminar",
+    "prompt": "Put the words in a natural sentence. Use all the words exactly once.",
+    "tokens": [
+      "although",
+      "was difficult",
+      "the experiment",
+      "the results",
+      "valuable",
+      "were"
+    ],
+    "answer": "Although the experiment was difficult, the results were valuable.",
+    "skill": "concession and clause order"
+  },
+  {
+    "id": "tw26-email-01",
+    "kind": "write_email",
+    "title": "Missed Office Hours",
+    "prompt": "You could not attend your professor's office hours because your train was delayed. Email the professor, briefly explain, and ask for another appointment.",
+    "audience": "Professor Martin",
+    "points": [
+      "Explain the problem without excessive detail",
+      "Make a specific and polite request",
+      "Close professionally"
+    ],
+    "suggestedWords": [
+      70,
+      130
+    ]
+  },
+  {
+    "id": "tw26-email-02",
+    "kind": "write_email",
+    "title": "Campus Event",
+    "prompt": "Your student club reserved a room, but the room is unavailable. Email the events office to explain the situation and request an alternative room.",
+    "audience": "Campus events office",
+    "points": [
+      "Identify the reservation and problem",
+      "State the date and your group's needs",
+      "Request a practical next step"
+    ],
+    "suggestedWords": [
+      70,
+      130
+    ]
+  },
+  {
+    "id": "tw26-email-03",
+    "kind": "write_email",
+    "title": "Research Partner",
+    "prompt": "Email a classmate about a joint research project. Propose a meeting time, explain what you have completed, and ask for a status update.",
+    "audience": "Classmate",
+    "points": [
+      "Provide context and current progress",
+      "Suggest a specific time",
+      "Ask a clear follow-up question"
+    ],
+    "suggestedWords": [
+      70,
+      130
+    ]
+  },
+  {
+    "id": "tw26-discussion-01",
+    "kind": "academic_discussion",
+    "title": "Recorded Lectures",
+    "prompt": "Professor: Should colleges record every lecture and give students access to the recordings? Explain your position with an example and respond to a possible concern.",
+    "context": "Student A supports recordings because they help students review. Student B worries that attendance will fall.",
+    "points": [
+      "State a clear position",
+      "Support it with a specific example",
+      "Address at least one other viewpoint"
+    ],
+    "suggestedWords": [
+      100,
+      180
+    ]
+  },
+  {
+    "id": "tw26-discussion-02",
+    "kind": "academic_discussion",
+    "title": "City Green Spaces",
+    "prompt": "Professor: A city has extra funding. Should it build more parks or invest in public transportation? Take a position, justify it, and connect your view to another student's idea.",
+    "context": "Student A emphasizes health benefits of parks. Student B emphasizes reliable bus service.",
+    "points": [
+      "State a clear position",
+      "Give a concrete reason or example",
+      "Respond to a competing priority"
+    ],
+    "suggestedWords": [
+      100,
+      180
+    ]
+  },
+  {
+    "id": "tw26-discussion-03",
+    "kind": "academic_discussion",
+    "title": "Teamwork in University",
+    "prompt": "Professor: Do group projects help students learn more effectively than individual assignments? Explain your reasoning and acknowledge a drawback.",
+    "context": "Student A values collaboration. Student B prefers individual accountability.",
+    "points": [
+      "State a clear position",
+      "Include a specific example",
+      "Consider a limitation or alternative"
+    ],
+    "suggestedWords": [
+      100,
+      180
+    ]
+  },
+  {
+    "id": "tw26-sentence-04",
+    "kind": "build_sentence",
+    "title": "Museum Research",
+    "prompt": "Arrange the words into a grammatical sentence. Use every phrase exactly once.",
+    "tokens": [
+      "the researchers",
+      "after",
+      "reviewed",
+      "the evidence",
+      "the meeting"
+    ],
+    "answer": "The researchers reviewed the evidence after the meeting.",
+    "skill": "past tense and time clause"
+  },
+  {
+    "id": "tw26-sentence-05",
+    "kind": "build_sentence",
+    "title": "Campus Transportation",
+    "prompt": "Arrange the words into a grammatical sentence. Use every phrase exactly once.",
+    "tokens": [
+      "because",
+      "the bus",
+      "was delayed",
+      "the students",
+      "arrived late"
+    ],
+    "answer": "The students arrived late because the bus was delayed.",
+    "skill": "cause and effect"
+  },
+  {
+    "id": "tw26-sentence-06",
+    "kind": "build_sentence",
+    "title": "Field Study",
+    "prompt": "Arrange the words into a grammatical sentence. Use every phrase exactly once.",
+    "tokens": [
+      "if",
+      "the weather improves",
+      "we",
+      "will conduct",
+      "the field study"
+    ],
+    "answer": "If the weather improves, we will conduct the field study.",
+    "skill": "first conditional"
+  },
+  {
+    "id": "tw26-email-04",
+    "kind": "write_email",
+    "title": "Course Registration Problem",
+    "prompt": "You cannot enroll in a required class because the online system says the class is full. Email an academic adviser. Explain the problem, mention why the course matters, and request possible options.",
+    "audience": "Academic adviser",
+    "points": [
+      "Explain which registration issue occurred",
+      "Describe its impact on your study plan",
+      "Politely request specific assistance or alternatives"
+    ],
+    "suggestedWords": [
+      70,
+      130
+    ]
+  },
+  {
+    "id": "tw26-email-05",
+    "kind": "write_email",
+    "title": "Volunteer Shift Change",
+    "prompt": "You signed up for a volunteer shift, but a required seminar has been moved to the same time. Email the volunteer coordinator to explain the conflict and suggest an alternative.",
+    "audience": "Volunteer coordinator",
+    "points": [
+      "State which shift is affected",
+      "Explain the scheduling conflict concisely",
+      "Propose a realistic alternative shift"
+    ],
+    "suggestedWords": [
+      70,
+      130
+    ]
+  },
+  {
+    "id": "tw26-email-06",
+    "kind": "write_email",
+    "title": "Missing Lab Equipment",
+    "prompt": "A piece of equipment reserved by your research team has not arrived. Email the equipment office with the expected delivery date and request an update or temporary substitute.",
+    "audience": "Equipment office",
+    "points": [
+      "Identify the missing equipment and expected date",
+      "Explain how the delay affects the research schedule",
+      "Request a status update or substitute"
+    ],
+    "suggestedWords": [
+      70,
+      130
+    ]
+  },
+  {
+    "id": "tw26-discussion-04",
+    "kind": "academic_discussion",
+    "title": "Online or In-Person Tutorials",
+    "prompt": "Professor: Should introductory courses prioritize online tutorials or in-person small-group sessions? Explain your opinion and a trade-off.",
+    "context": "Student A values flexible access. Student B says group discussion helps learners correct misunderstandings.",
+    "points": [
+      "State a defensible position",
+      "Support it with a concrete illustration",
+      "Address one reasonable counterargument"
+    ],
+    "suggestedWords": [
+      100,
+      180
+    ]
+  },
+  {
+    "id": "tw26-discussion-05",
+    "kind": "academic_discussion",
+    "title": "Sustainable Transport",
+    "prompt": "Professor: Should cities prioritize expanding bicycle lanes or improving bus networks? Offer an argument and explain which context might change your decision.",
+    "context": "Student A supports cycling for short trips. Student B favors buses for commuters who live farther away.",
+    "points": [
+      "Make a clear claim",
+      "Use a specific example or comparison",
+      "Acknowledge local needs or an opposing view"
+    ],
+    "suggestedWords": [
+      100,
+      180
+    ]
+  },
+  {
+    "id": "tw26-discussion-06",
+    "kind": "academic_discussion",
+    "title": "Open Educational Resources",
+    "prompt": "Professor: Should universities replace commercial textbooks with freely accessible digital materials when possible? Discuss benefits and limitations.",
+    "context": "Student A highlights affordability. Student B is concerned about quality control and access without reliable internet.",
+    "points": [
+      "Explain your position",
+      "Offer an example or evidence-based reason",
+      "Acknowledge cost, access, or quality trade-offs"
+    ],
+    "suggestedWords": [
+      100,
+      180
+    ]
+  },
+  {
+    "id": "tw26-sentence-07",
+    "kind": "build_sentence",
+    "title": "Project Deadline",
+    "prompt": "Put the phrases in a natural sentence. Use all phrases exactly once.",
+    "tokens": [
+      "the deadline",
+      "the instructor",
+      "extended",
+      "because of",
+      "a campus closure"
+    ],
+    "answer": "The instructor extended the deadline because of a campus closure.",
+    "skill": "reason and academic request"
+  },
+  {
+    "id": "tw26-sentence-08",
+    "kind": "build_sentence",
+    "title": "Research Summary",
+    "prompt": "Put the phrases in a natural sentence. Use all phrases exactly once.",
+    "tokens": [
+      "the survey",
+      "suggests",
+      "that",
+      "students",
+      "prefer",
+      "shorter workshops"
+    ],
+    "answer": "The survey suggests that students prefer shorter workshops.",
+    "skill": "reporting evidence"
+  },
+  {
+    "id": "tw26-sentence-09",
+    "kind": "build_sentence",
+    "title": "Laboratory Schedule",
+    "prompt": "Arrange every word or phrase once to make a natural English sentence.",
+    "tokens": [
+      "unless",
+      "the equipment",
+      "is available",
+      "the team",
+      "will postpone",
+      "the experiment"
+    ],
+    "answer": "The team will postpone the experiment unless the equipment is available.",
+    "skill": "conditional clause"
+  },
+  {
+    "id": "tw26-sentence-10",
+    "kind": "build_sentence",
+    "title": "Course Registration",
+    "prompt": "Arrange every word or phrase once to make a natural English sentence.",
+    "tokens": [
+      "students",
+      "who complete",
+      "the prerequisite",
+      "may enroll",
+      "in the advanced course"
+    ],
+    "answer": "Students who complete the prerequisite may enroll in the advanced course.",
+    "skill": "relative clause"
+  },
+  {
+    "id": "tw26-sentence-11",
+    "kind": "build_sentence",
+    "title": "Field Research",
+    "prompt": "Arrange every word or phrase once to make a natural English sentence.",
+    "tokens": [
+      "after",
+      "the samples",
+      "were collected",
+      "the researchers",
+      "recorded",
+      "their observations"
+    ],
+    "answer": "After the samples were collected, the researchers recorded their observations.",
+    "skill": "time clause and passive"
+  },
+  {
+    "id": "tw26-sentence-12",
+    "kind": "build_sentence",
+    "title": "Assignment Feedback",
+    "prompt": "Arrange every word or phrase once to make a natural English sentence.",
+    "tokens": [
+      "the instructor",
+      "asked",
+      "whether",
+      "we had reviewed",
+      "the feedback"
+    ],
+    "answer": "The instructor asked whether we had reviewed the feedback.",
+    "skill": "reported question"
+  },
+  {
+    "id": "tw26-sentence-13",
+    "kind": "build_sentence",
+    "title": "Community Project",
+    "prompt": "Arrange every word or phrase once to make a natural English sentence.",
+    "tokens": [
+      "not only",
+      "did the volunteers",
+      "clean the park",
+      "but they also",
+      "planted trees"
+    ],
+    "answer": "Not only did the volunteers clean the park, but they also planted trees.",
+    "skill": "inversion and coordination"
+  },
+  {
+    "id": "tw26-sentence-14",
+    "kind": "build_sentence",
+    "title": "Data Collection",
+    "prompt": "Arrange every word or phrase once to make a natural English sentence.",
+    "tokens": [
+      "the survey",
+      "was designed",
+      "to compare",
+      "students’ experiences",
+      "across departments"
+    ],
+    "answer": "The survey was designed to compare students’ experiences across departments.",
+    "skill": "passive purpose clause"
+  },
+  {
+    "id": "tw26-sentence-15",
+    "kind": "build_sentence",
+    "title": "Research Presentation",
+    "prompt": "Arrange every word or phrase once to make a natural English sentence.",
+    "tokens": [
+      "despite",
+      "limited time",
+      "the group",
+      "presented",
+      "its findings",
+      "clearly"
+    ],
+    "answer": "Despite limited time, the group presented its findings clearly.",
+    "skill": "concession with despite"
+  },
+  {
+    "id": "tw26-sentence-16",
+    "kind": "build_sentence",
+    "title": "Environmental Policy",
+    "prompt": "Arrange every word or phrase once to make a natural English sentence.",
+    "tokens": [
+      "if",
+      "public transport",
+      "became more reliable",
+      "fewer students",
+      "might drive",
+      "to campus"
+    ],
+    "answer": "If public transport became more reliable, fewer students might drive to campus.",
+    "skill": "second conditional"
+  }
+]

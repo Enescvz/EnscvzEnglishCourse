@@ -1,0 +1,48 @@
+{
+  "checkpoint": "2026-10-29 TOEFL 475 frequency source cross-check + targeted copy revision",
+  "sourceBackup": "AEL_PRIVATE_DEV_BACKUP_20261029_TOEFL2026_EXTENDED_50R_12W_QA_DO_NOT_DEPLOY.zip",
+  "scope": {
+    "vocabulary": 400,
+    "phrasalVerbs": 75,
+    "total": 475
+  },
+  "reference": {
+    "AWL570ExactHeadwordMatches": 168,
+    "AWL1to3HeadwordMatches": 83,
+    "AWLNoDirectHeadwordMatchOrOtherWordFamily": 232,
+    "PHaVETop150Matches": 38,
+    "PHaVENotTop150": 37,
+    "officialTOEFLWordFrequencyConfirmed": false
+  },
+  "editorial": {
+    "structuralCoverage": 475,
+    "flagsRemainingAutomated": 0,
+    "targetedReviewedCorrections": 12,
+    "externalHumanEditorApproved": 0,
+    "allIndividualSenseAndCollocationApproved": false
+  },
+  "qualityNotes": [
+    "AWL word-family membership not exhausted for derivatives",
+    "PHaVE expression frequency does not prove teaching sense frequency",
+    "Missing match does not imply not useful",
+    "No official ETS frequency ranking or TOEFL score claims",
+    "No replacement of learner IDs, no progress reset"
+  ],
+  "tests": {
+    "javascript": 76,
+    "python": 168,
+    "total": 244,
+    "status": "passed"
+  },
+  "releaseGate": "LOCKED",
+  "speakingChanged": false,
+  "googleDriveUsed": false,
+  "githubUsed": false,
+  "releasePackageProduced": false,
+  "remainingBlockers": [
+    "Independent qualified US English editor signoff across all 475 senses/translations/examples",
+    "Complete per-item US spoken/academic frequency and TOEFL relevance if needed",
+    "Licensing clearance for eventual publishing",
+    "Existing physical iPhone/Safari/audio/offline release gates"
+  ]
+}

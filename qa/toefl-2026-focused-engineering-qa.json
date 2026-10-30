@@ -1,0 +1,89 @@
+{
+  "date": "2026-10-29",
+  "scope": "TOEFL Reading/Writing only; Speaking & Listening excluded",
+  "startingBackup": "VOA30_9OF10_ENGINEERING_QA_DO_NOT_DEPLOY",
+  "writingTasks": 28,
+  "writingTaskBreakdown": {
+    "build_sentence": 16,
+    "write_email": 6,
+    "academic_discussion": 6
+  },
+  "newWritingPracticeMix": {
+    "build_sentence": 10,
+    "write_email": 1,
+    "academic_discussion": 1
+  },
+  "legacySessionMixSupported": {
+    "build_sentence": 8,
+    "write_email": 2,
+    "academic_discussion": 2
+  },
+  "typedWordCompletionItems": 16,
+  "readingDiagnosticQuestions": 50,
+  "jsTestsPassed": 94,
+  "pythonTestsPassed": 180,
+  "virtualChromium": {
+    "mode": "virtual-routed Chromium",
+    "desktop": "passed",
+    "mobile": "passed",
+    "officialETSScore": false,
+    "physicalSafari": "not_tested",
+    "real_origin_resume": "not_tested",
+    "releaseApproved": false
+  },
+  "previousTeflVirtualChromium": {
+    "method": "Virtual Chromium routed assets; not real origin or physical Safari",
+    "desktop": "passed",
+    "mobile_viewport": "passed",
+    "real_iphone_safari": "not_tested",
+    "official_ETS_scoring": "not_available",
+    "human_listening_audio": "not_verified",
+    "releaseApproved": false
+  },
+  "officialScoreGenerated": false,
+  "ETSCalibrationApproved": false,
+  "independentHumanEditorialSignoff": false,
+  "physicalIPhoneSafariVerified": false,
+  "userProgressOrCardsDeleted": false,
+  "nonTOEFLDataAssetsUnchanged": true,
+  "speakingUnchanged": true,
+  "listeningUnchanged": true,
+  "releaseGate": "LOCKED",
+  "originalModifiedFiles": [
+    "sw.js",
+    "data/toefl-writing-practice.json",
+    "tests/test_voa19_toefl_2026.py",
+    "tests/toefl-writing.test.mjs",
+    "tests/toefl-writing-exam.test.mjs",
+    "js/toefl-prep.js",
+    "js/toefl-writing-exam.js",
+    "js/app.js"
+  ],
+  "addedFiles": [
+    "qa/toefl-2026-alignment-browser.json",
+    "docs/20261029_TOEFL_ONLY_2026_FORMAT_PRIVATE.md",
+    "tests/test_toefl_2026_alignment.py",
+    "tests/toefl-2026-alignment.test.mjs",
+    "tests/toefl_2026_alignment_browser.py",
+    "qa/toefl-2026-focused-engineering-qa.json"
+  ],
+  "releaseReady": false,
+  "validationAfterCleanup": {
+    "jsPass": 94,
+    "pythonPass": 180,
+    "browserVirtualPass": true,
+    "productionDeployment": false,
+    "originalAudioModified": false,
+    "independentETSCalibration": false
+  },
+  "modifiedExistingFiles": [
+    "data/toefl-writing-practice.json",
+    "js/app.js",
+    "js/toefl-prep.js",
+    "js/toefl-writing-exam.js",
+    "sw.js",
+    "tests/test_voa19_toefl_2026.py",
+    "tests/toefl-writing-exam.test.mjs",
+    "tests/toefl-writing.test.mjs"
+  ]
+}

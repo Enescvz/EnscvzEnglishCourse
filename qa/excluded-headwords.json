@@ -1,0 +1,57 @@
+[
+  {
+    "raw": "amongst",
+    "level": "B2",
+    "reason": "uk_specific"
+  },
+  {
+    "raw": "aubergine",
+    "level": "B2",
+    "reason": "uk_specific"
+  },
+  {
+    "raw": "caravan",
+    "level": "B2",
+    "reason": "uk_specific"
+  },
+  {
+    "raw": "cybercafe/cybercafé",
+    "level": "B2",
+    "reason": "ambiguous_variant"
+  },
+  {
+    "raw": "glacis",
+    "level": "B2",
+    "reason": "uk_specific"
+  },
+  {
+    "raw": "gook",
+    "level": "B2",
+    "reason": "requires_sensitivity_review"
+  },
+  {
+    "raw": "nought",
+    "level": "B2",
+    "reason": "uk_specific"
+  },
+  {
+    "raw": "wornout/worn out/worn-out",
+    "level": "B2",
+    "reason": "ambiguous_variant"
+  },
+  {
+    "raw": "lavatory",
+    "level": "C1",
+    "reason": "uk_specific"
+  },
+  {
+    "raw": "gypsy",
+    "level": "C1",
+    "reason": "requires_sensitivity_review"
+  },
+  {
+    "raw": "whilst",
+    "level": "C1",
+    "reason": "uk_specific"
+  }
+]

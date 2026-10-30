@@ -1,0 +1,9 @@
+{
+  "method": "virtual asset routed Chromium only",
+  "releaseEvidence": false,
+  "desktop": "passed",
+  "mobile_viewport": "passed",
+  "physical_iPhone_Safari": "not_tested",
+  "audio_playback": "not_tested",
+  "offline_origin": "not_tested"
+}

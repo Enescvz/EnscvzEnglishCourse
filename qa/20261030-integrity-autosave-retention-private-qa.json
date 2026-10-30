@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-30",
+  "build": "PRIVATE_DEVELOPMENT_DO_NOT_DEPLOY",
+  "releaseReady": false,
+  "baselineFiles": 424,
+  "speakingUnchanged": true,
+  "existingContentFilesByteIdentical": {
+    "data/vocabulary.json": true,
+    "data/phrasals.json": true,
+    "data/daily-expressions.json": true,
+    "data/sentence-skills.json": true,
+    "data/fluency-studio.json": true,
+    "data/authentic-listening.json": true,
+    "data/voa-source-quizzes.json": true,
+    "data/toefl-writing-practice.json": true,
+    "data/grammar.json": true,
+    "js/memory.js": true,
+    "js/engine.js": true,
+    "js/sentence-skills.js": true,
+    "js/toefl-writing-exam.js": true,
+    "js/toefl-prep.js": true,
+    "js/progress-safety.js": true,
+    "tools/release_gate.py": true
+  },
+  "modifiedFiles": [
+    "js/app.js",
+    "js/fluency-ui.js",
+    "js/retention-audit.js",
+    "qa/fluency-desktop-virtual.png",
+    "qa/fluency-mobile-virtual.png",
+    "sw.js",
+    "tests/retention-and-human-review.test.mjs"
+  ],
+  "addedFiles": [
+    "js/progress-integrity.js",
+    "tests/e2e_hardening_virtual.py",
+    "tests/progress-integrity.test.mjs"
+  ],
+  "unitTests": {
+    "javascript": 134,
+    "python": 200,
+    "total": 334,
+    "failures": 0
+  },
+  "browserQA": {
+    "chromiumVirtualDesktop": "PASS",
+    "chromiumVirtualMobile390px": "PASS",
+    "physicalIPhoneSafari": "NOT_TESTED",
+    "genuineExternalAudioPlayback": "NOT_VERIFIED"
+  },
+  "knownBlockers": [
+    "20 VOA lessons still publisher-linked without full in-app transcript",
+    "0 locally approved human-voice audio tracks; online source links not independently verified",
+    "Independent American English content editor approval still missing",
+    "Physical iPhone Safari airplane mode, persistence, media playback QA still not performed",
+    "7/30-day measured human retention data not collected",
+    "Writing feedback not a semantic/grammar assessor and not ETS or CEFR score",
+    "Dictation lines have no exact audio clips/timecodes",
+    "Service worker and real offline shell should be validated on physical devices"
+  ],
+  "fixes": [
+    "Read-only recovery mode for malformed or unknown-version saved progress",
+    "Raw corrupt progress download and deliberate import/reset recovery",
+    "Rollback in-memory state when generic local storage write fails",
+    "Guard direct fluency/sentence writes against overwriting corrupt data",
+    "Writing draft autosave on input, blur, pagehide and navigation with visible status",
+    "Prevent leaving unsaved fluency draft after simulated quota failure",
+    "Separate effortful retention (hard) from observed successful independent recall",
+    "Versioned service-worker cache includes new progress integrity module",
+    "Timed Writing start/pause no longer show persisted status after failure",
+    "Storage-success messages only appear after successful storage writes on key paths"
+  ],
+  "disclaimer": "Simulated Chromium does not prove Safari offline, audio licensing, human voice playback, editorial correctness or learning efficacy."
+}

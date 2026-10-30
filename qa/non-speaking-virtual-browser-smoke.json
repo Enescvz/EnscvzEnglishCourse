@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-28",
+  "scope": "virtual Chromium desktop/mobile, no physical iPhone or remote MP3 verification",
+  "desktopAssertions": "not_verified_this_sprint",
+  "mobileAssertions": "not_verified_this_sprint",
+  "runnerExit": "TIMEOUT_NO_ASSERTION_SUMMARY",
+  "remainingPublisherLinked": 32,
+  "fullPublisherTranscripts": 18,
+  "publisherEvidenceQuestions": 76,
+  "physicalIPhoneTested": false,
+  "realAudioPlaybackVerified": false,
+  "releaseApproved": false
+}

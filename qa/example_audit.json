@@ -1,0 +1,946 @@
+{
+  "manualSemanticVerification": "not_performed",
+  "automaticStructuralChecksOnly": true,
+  "counts": {
+    "vocabulary": 1284,
+    "phrasals": 500,
+    "general": 1000,
+    "specialist": 284,
+    "entriesWithAtLeastOneExample": 1784,
+    "entriesWithAtLeastTwoExamples": 1552,
+    "totalDistinctContextSentences": 3336
+  },
+  "issueBreakdown": {
+    "needs_second_distinct_example": 232
+  },
+  "issues": [
+    {
+      "id": "f-cash-accounting",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-accrued-expense",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-accrued-revenue",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-accrued-interest",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-adjusting-entry",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-amortization",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-asset-impairment",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-allowance-for-doubtful-accounts",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-accounts-aging",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-accounting-period",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-accounting-policy",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-audit-trail",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-auditor-s-opinion",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-book-value",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-capital-expenditure",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-cash-equivalents",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-closing-entry",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-contra-asset",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-cost-allocation",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-credit-memo",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-current-liability",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-debit-balance",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-deferred-expense",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-deferred-revenue",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-depletion",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-direct-cost",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-double-entry-bookkeeping",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-earnings-before-interest-and-taxes",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-expense-recognition",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-fair-value",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-fiscal-year",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-fixed-asset",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-goodwill",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-gross-profit",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-historical-cost",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-indirect-cost",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-intangible-asset",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-inventory-turnover",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-journal-entry",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-liability",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-long-term-liability",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-management-accounting",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-matching-principle",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-materiality",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-net-loss",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-noncurrent-asset",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-operating-expense",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-operating-income",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-outstanding-invoice",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-payroll-expense",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-provision",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-purchase-order",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-sales-return",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-shareholders-equity",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-straight-line-depreciation",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-subsidiary-ledger",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-tangible-asset",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-tax-liability",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-unearned-revenue",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-variable-cost",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-variance-analysis",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-write-down",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-withholding-tax",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-contribution-margin",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-cost-center",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-profit-center",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-budget-variance",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-operating-budget",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-capital-budgeting",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-absorption-costing",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-activity-based-costing",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-standard-costing",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-period-cost",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-product-cost",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-opportunity-cost",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-contingent-liability",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-subsequent-event",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-segregation-of-duties",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-material-misstatement",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-asset-turnover",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-quick-ratio",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-receivables-turnover",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-days-sales-outstanding",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-inventory-write-down",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-impairment-loss",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-right-of-use-asset",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-finance-lease",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-operating-lease",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-consolidated-statements",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-noncontrolling-interest",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-intercompany-transaction",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-foreign-exchange-gain",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-foreign-exchange-loss",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-stock-based-compensation",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-financial-instrument",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-hedge-accounting",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-cash-generating-unit",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-segment-reporting",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-related-party-transaction",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-financial-disclosure",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-closing-balance",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-opening-balance",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-cost-basis",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-debt-to-equity-ratio",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-interest-coverage-ratio",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-capital-structure",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-equity-financing",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-debt-financing",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-bond-yield",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-coupon-rate",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-face-value",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-maturity-date",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-yield-to-maturity",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-credit-rating",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-creditworthiness",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-default-risk",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-counterparty-risk",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-market-risk",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-operational-risk",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-systemic-risk",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-risk-appetite",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-risk-tolerance",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-risk-adjusted-return",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-standard-deviation",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-correlation-coefficient",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-portfolio-diversification",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-benchmark-index",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-index-fund",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-exchange-traded-fund",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-mutual-fund",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-net-asset-value",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-market-capitalization",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-price-to-earnings-ratio",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-price-to-book-ratio",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-earnings-per-share",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-dividend-payout-ratio",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-dividend-yield",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-discounted-cash-flow",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-internal-rate-of-return",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-weighted-average-cost-of-capital",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-cost-of-equity",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-cost-of-debt",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-terminal-value",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-discount-rate",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-perpetuity",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-annuity",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-compounding",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-simple-interest",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-short-selling",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-long-position",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-short-position",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-stop-loss-order",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-bid-ask-spread",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-order-book",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-liquidity-provider",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-market-maker",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-arbitrage",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-derivative",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-futures-contract",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-forward-contract",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-option-premium",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-strike-price",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-intrinsic-value",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-time-value-of-an-option",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-implied-volatility",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-beta-coefficient",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-alpha",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-sharpe-ratio",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-maximum-drawdown",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-capital-gain",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-realized-gain",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-unrealized-gain",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-inflation-rate",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-real-interest-rate",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-nominal-interest-rate",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-inverted-yield-curve",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-fiscal-policy",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-quantitative-easing",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-central-bank-reserves",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-foreign-exchange-rate",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-currency-depreciation",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-currency-appreciation",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-balance-of-payments",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-current-account-deficit",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-sovereign-debt",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-investment-grade-bond",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-high-yield-bond",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-junk-bond",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-securitization",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-asset-backed-security",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-mortgage-backed-security",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-secondary-offering",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-underwriting",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-venture-capital",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-private-equity",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-seed-funding",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-capital-raise",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-valuation-multiple",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-enterprise-value",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-mergers-and-acquisitions",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-goodwill-impairment",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-liquidation",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-bankruptcy",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-restructuring",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-covenant",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-debt-service",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-refinancing",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-loan-to-value-ratio",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-amortization-schedule",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-balloon-payment",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-prepayment-penalty",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-escrow-account",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-fiduciary-duty",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-compliance-risk",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-financial-statement-analysis",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-sensitivity-analysis",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-scenario-analysis",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-stress-testing",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-forecast-accuracy",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-cash-burn-rate",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-customer-acquisition-cost",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-lifetime-value",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-unit-economics",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-revenue-growth",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-profit-margin",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-return-on-equity",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-return-on-assets",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-capital-adequacy",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-nonperforming-loan",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-loan-loss-provision",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-deposit-insurance",
+      "reason": "needs_second_distinct_example"
+    },
+    {
+      "id": "f-reserve-requirement",
+      "reason": "needs_second_distinct_example"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "date": "2026-10-30",
+  "artifact": "PRIVATE RELEASE CANDIDATE - DO NOT DEPLOY",
+  "baseZip": "AEL_PRIVATE_DEV_20261030_INTEGRITY_AUTOSAVE_RETENTION_QA_DO_NOT_DEPLOY.zip",
+  "changeSummary": [
+    "initial data loading 19 JSON -> 5 JSON",
+    "on-demand lesson loading and retry",
+    "service-worker initial shell pre-cache; offline text pack explicit repair",
+    "daily Writing and TOEFL drafts autosave/route safety",
+    "deferred TOEFL active sessions restored after data arrives"
+  ],
+  "tests": {
+    "nodePass": 138,
+    "pythonPass": 200,
+    "virtualFluencyDesktop": "passed",
+    "virtualFluencyMobile": "passed",
+    "virtualAllViewsMobile": "passed",
+    "virtualStorageFailurePreservesText": "passed",
+    "physicalIphoneSafari": "not tested"
+  },
+  "performance": {
+    "baseline_initial_bytes": 3439844,
+    "baseline_source": "AEL_Performans_Raporu_2026-10-30.md",
+    "baseline_desktop_ms": 1458.5,
+    "baseline_mobile_throttled_ms": 5268.0,
+    "candidate_initial_bytes": 1976831,
+    "candidate_desktop_ms": 1520.5,
+    "candidate_mobile_throttled_ms": 5436.0,
+    "candidate_boot_requests": 25,
+    "candidate_reduced_bytes": 1463013,
+    "initial_byte_reduction_pct": 42.5,
+    "method": "Chromium virtual-origin / localStorage simulation, not real network or Lighthouse; startup time not improved convincingly"
+  },
+  "integrity": {
+    "speakingCodeUnchanged": true,
+    "validatedCoreDataFilesUnchanged": [
+      "data/vocabulary.json",
+      "data/phrasals.json",
+      "data/daily-expressions.json",
+      "data/sentence-skills.json",
+      "data/fluency-studio.json",
+      "data/authentic-listening.json",
+      "data/voa-source-quizzes.json",
+      "js/engine.js",
+      "js/memory.js",
+      "js/progress-integrity.js",
+      "js/fluency-ui.js"
+    ],
+    "humanAudioBundled": 0,
+    "legacySyntheticAudioBundled": 0
+  },
+  "voice": {
+    "voaTranscriptsIntegrated": 30,
+    "voaPublisherOnly": 20,
+    "verifiedBundledVoice": 0,
+    "allVoicePlaybackPhysicalIphone": "not tested"
+  },
+  "release": {
+    "readyForRelease": false,
+    "blockedCriteria": 14,
+    "blocked": [
+      "1,000 focused general lessons editorially approved",
+      "500 focused phrasal lessons editorially approved",
+      "200 finance/accounting entries individually approved",
+      "Focus targets US-English and CEFR meaning validated",
+      "Minimum 50 original podcast lessons (legacy requirement)",
+      "At least 40 verified human-voice lessons with in-app transcript and quiz",
+      "Publisher-only listening lessons individually audio/transcript verified",
+      "Human voice playback and source transcript alignment independently verified",
+      "Minimum 60 listening drills",
+      "TOEFL core independently reviewed for US-English and exam relevance",
+      "At least 10 licensed, attributed, bundled human recordings",
+      "Every listening recording licensed, timing-reviewed and approved for natural speech",
+      "Manual US-English editorial verification recorded",
+      "Browser E2E evidence desktop + iPhone WebKit"
+    ]
+  }
+}

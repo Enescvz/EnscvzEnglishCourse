@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-29",
+  "stage": "private_development_DO_NOT_DEPLOY",
+  "baseArchive": "AEL_PRIVATE_DEV_BACKUP_20261029_DAILY_EXPRESSIONS_300_QA_DO_NOT_DEPLOY_2.zip",
+  "cards": {
+    "total": 500,
+    "preservedExisting": 300,
+    "new": 200,
+    "levels": {
+      "B1": 150,
+      "B2": 210,
+      "C1": 140
+    },
+    "newByCategory": {
+      "connectors": 80,
+      "collocations": 70,
+      "conversation_starters": 50
+    },
+    "examples": 1000,
+    "dialogues": 500,
+    "newToeflDailyLabels": 166,
+    "legacyToeflDailyLabels": 42
+  },
+  "integrity": {
+    "previous300CardObjectsIdentical": true,
+    "protectedFileHashesUnchanged": true,
+    "protectedFileCount": 69,
+    "changedPreviousFiles": [
+      "CONTINUE_IN_NEW_CHAT.md",
+      "README.md",
+      "data/daily-expressions.json",
+      "development-status.json",
+      "js/app.js",
+      "js/memory.js",
+      "sw.js",
+      "tests/daily-expressions.test.mjs",
+      "tests/e2e_expressions_300.py",
+      "tests/test_daily_expressions_300_20261029.py",
+      "tests/ui-smoke.test.mjs",
+      "tools/release_gate.py"
+    ],
+    "newFilesCount": 44
+  },
+  "tests": {
+    "javascript": 106,
+    "python": 190,
+    "allPassed": true,
+    "desktopVirtualChromium": "PASS",
+    "mobileVirtualChromium": "PASS"
+  },
+  "qualifications": {
+    "independentHumanEditor": "NOT_DONE",
+    "nativeHumanAudioRecordings": "NOT_PROVIDED",
+    "physicalIphoneSafariOffline": "NOT_TESTED",
+    "USCorpusFrequencyVerified": "NOT_VERIFIED",
+    "officialTOEFLWordFrequency": "NOT_CLAIMED",
+    "CEFRLevelsExternallyCertified": "NO"
+  },
+  "releaseStatus": "LOCKED",
+  "dataSha256": "d3dc1d01edb99909d4311e022d8e18ec9fcef805b5357717c7e5b4d4eab6a1c1"
+}

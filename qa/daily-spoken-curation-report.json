@@ -1,0 +1,654 @@
+{
+  "method": "sourced-headword, original draft examples, qualitative conversational editorial prioritization",
+  "newReplacements": 31,
+  "previouslyApplied": 60,
+  "reviewedReplacements": 91,
+  "generalActive": 1000,
+  "generalB2": 500,
+  "generalC1": 500,
+  "archiveEntries": 91,
+  "corpusFrequencyVerified": 0,
+  "cefrSenseVerified": 0,
+  "humanEditoriallyApproved": 0,
+  "releaseAllowed": false,
+  "learnerHistory": "Existing IDs kept in archive and localStorage remains untouched; no automatic mastery transfer to replacement IDs.",
+  "replacements": [
+    {
+      "old": "humbug",
+      "new": "doubt",
+      "level": "B2",
+      "reason": "Uncertainty and decision-making",
+      "status": "already_applied"
+    },
+    {
+      "old": "southward",
+      "new": "struggle",
+      "level": "B2",
+      "reason": "Explaining everyday difficulties",
+      "status": "already_applied"
+    },
+    {
+      "old": "homeward",
+      "new": "relief",
+      "level": "B2",
+      "reason": "Emotional reactions and empathy",
+      "status": "already_applied"
+    },
+    {
+      "old": "temperate",
+      "new": "regard",
+      "level": "B2",
+      "reason": "Expressing evaluations and opinions",
+      "status": "already_applied"
+    },
+    {
+      "old": "thereafter",
+      "new": "supply",
+      "level": "B2",
+      "reason": "Everyday needs and arrangements",
+      "status": "already_applied"
+    },
+    {
+      "old": "mathematical",
+      "new": "separate",
+      "level": "B2",
+      "reason": "Organizing information and practical life",
+      "status": "already_applied"
+    },
+    {
+      "old": "miniature",
+      "new": "access",
+      "level": "B2",
+      "reason": "Devices, services and common requests",
+      "status": "already_applied"
+    },
+    {
+      "old": "sparrow",
+      "new": "feature",
+      "level": "B2",
+      "reason": "Describing products and places",
+      "status": "already_applied"
+    },
+    {
+      "old": "telescope",
+      "new": "previously",
+      "level": "B2",
+      "reason": "Explaining background and past situations",
+      "status": "already_applied"
+    },
+    {
+      "old": "triangle",
+      "new": "campaign",
+      "level": "B2",
+      "reason": "Shopping, media and community life",
+      "status": "already_applied"
+    },
+    {
+      "old": "herb",
+      "new": "risk",
+      "level": "B2",
+      "reason": "Practical decisions and safety",
+      "status": "already_applied"
+    },
+    {
+      "old": "thinker",
+      "new": "consent",
+      "level": "B2",
+      "reason": "Permission, privacy and relationships",
+      "status": "already_applied"
+    },
+    {
+      "old": "trophy",
+      "new": "desire",
+      "level": "B2",
+      "reason": "Motivation and feelings",
+      "status": "already_applied"
+    },
+    {
+      "old": "tug",
+      "new": "advance",
+      "level": "B2",
+      "reason": "Describing improvement and change",
+      "status": "already_applied"
+    },
+    {
+      "old": "tub",
+      "new": "concern",
+      "level": "B2",
+      "reason": "Expressing worries and priorities",
+      "status": "already_applied"
+    },
+    {
+      "old": "tunnel",
+      "new": "issue",
+      "level": "B2",
+      "reason": "Problem-solving and discussion",
+      "status": "already_applied"
+    },
+    {
+      "old": "stool",
+      "new": "fear",
+      "level": "B2",
+      "reason": "Emotions and reassurance",
+      "status": "already_applied"
+    },
+    {
+      "old": "stepmother",
+      "new": "shock",
+      "level": "B2",
+      "reason": "Reacting to unexpected events",
+      "status": "already_applied"
+    },
+    {
+      "old": "landlady",
+      "new": "trust",
+      "level": "B2",
+      "reason": "Relationships and confidence",
+      "status": "already_applied"
+    },
+    {
+      "old": "laborer",
+      "new": "unacceptable",
+      "level": "B2",
+      "reason": "Setting boundaries and complaints",
+      "status": "already_applied"
+    },
+    {
+      "old": "mansion",
+      "new": "pointless",
+      "level": "B2",
+      "reason": "Explaining choices and disagreements",
+      "status": "already_applied"
+    },
+    {
+      "old": "missile",
+      "new": "affordable",
+      "level": "B2",
+      "reason": "Shopping and budget decisions",
+      "status": "already_applied"
+    },
+    {
+      "old": "melody",
+      "new": "regardless",
+      "level": "B2",
+      "reason": "Expressing conditions and determination",
+      "status": "already_applied"
+    },
+    {
+      "old": "legend",
+      "new": "compensate",
+      "level": "B2",
+      "reason": "Apologies, problems and solutions",
+      "status": "already_applied"
+    },
+    {
+      "old": "strand",
+      "new": "distract",
+      "level": "B2",
+      "reason": "Attention and learning",
+      "status": "already_applied"
+    },
+    {
+      "old": "shortness",
+      "new": "fierce",
+      "level": "B2",
+      "reason": "Describing conflict and intensity",
+      "status": "already_applied"
+    },
+    {
+      "old": "softness",
+      "new": "convinced",
+      "level": "B2",
+      "reason": "Persuasion and expressing uncertainty",
+      "status": "already_applied"
+    },
+    {
+      "old": "untreated",
+      "new": "expectation",
+      "level": "B2",
+      "reason": "Plans, relationships and expectations",
+      "status": "already_applied"
+    },
+    {
+      "old": "hospitable",
+      "new": "understanding",
+      "level": "B2",
+      "reason": "Empathy and resolving misunderstandings",
+      "status": "already_applied"
+    },
+    {
+      "old": "naughty",
+      "new": "reaction",
+      "level": "B2",
+      "reason": "Reactions and social conversation",
+      "status": "already_applied"
+    },
+    {
+      "old": "unmusically",
+      "new": "superficial",
+      "level": "C1",
+      "reason": "Evaluating explanations and relationships",
+      "status": "already_applied"
+    },
+    {
+      "old": "unmusical",
+      "new": "immense",
+      "level": "C1",
+      "reason": "Describing intensity and importance",
+      "status": "already_applied"
+    },
+    {
+      "old": "repertory",
+      "new": "accustomed",
+      "level": "C1",
+      "reason": "Adjusting to change and routines",
+      "status": "already_applied"
+    },
+    {
+      "old": "concerto",
+      "new": "traumatic",
+      "level": "C1",
+      "reason": "Serious experiences and emotional impact",
+      "status": "already_applied"
+    },
+    {
+      "old": "fanatically",
+      "new": "withdrawn",
+      "level": "C1",
+      "reason": "Understanding moods and relationships",
+      "status": "already_applied"
+    },
+    {
+      "old": "acoustically",
+      "new": "recall",
+      "level": "C1",
+      "reason": "Remembering and clarifying details",
+      "status": "already_applied"
+    },
+    {
+      "old": "irately",
+      "new": "sentiment",
+      "level": "C1",
+      "reason": "Expressing and understanding opinions",
+      "status": "already_applied"
+    },
+    {
+      "old": "docilely",
+      "new": "irony",
+      "level": "C1",
+      "reason": "Humor and interpretation",
+      "status": "already_applied"
+    },
+    {
+      "old": "fiendishly",
+      "new": "naive",
+      "level": "C1",
+      "reason": "Judgment and self-reflection",
+      "status": "already_applied"
+    },
+    {
+      "old": "temperamentally",
+      "new": "isolated",
+      "level": "C1",
+      "reason": "Social life and personal experiences",
+      "status": "already_applied"
+    },
+    {
+      "old": "raunchily",
+      "new": "comply",
+      "level": "C1",
+      "reason": "Rules, requests and responsibilities",
+      "status": "already_applied"
+    },
+    {
+      "old": "verandah",
+      "new": "vicious",
+      "level": "C1",
+      "reason": "Conflict and social behavior",
+      "status": "already_applied"
+    },
+    {
+      "old": "bureaucratically",
+      "new": "inheritance",
+      "level": "C1",
+      "reason": "Family and finances",
+      "status": "already_applied"
+    },
+    {
+      "old": "demographically",
+      "new": "sarcastic",
+      "level": "C1",
+      "reason": "Understanding tone and humor",
+      "status": "already_applied"
+    },
+    {
+      "old": "magnetically",
+      "new": "mechanism",
+      "level": "C1",
+      "reason": "Explaining processes and how things work",
+      "status": "already_applied"
+    },
+    {
+      "old": "wizened",
+      "new": "staggering",
+      "level": "C1",
+      "reason": "Talking about surprising amounts",
+      "status": "already_applied"
+    },
+    {
+      "old": "seedling",
+      "new": "conform",
+      "level": "C1",
+      "reason": "Social pressure and expectations",
+      "status": "already_applied"
+    },
+    {
+      "old": "folktale",
+      "new": "voluntary",
+      "level": "C1",
+      "reason": "Options, volunteering and obligations",
+      "status": "already_applied"
+    },
+    {
+      "old": "hypocritically",
+      "new": "implicate",
+      "level": "C1",
+      "reason": "Responsibility and careful accusations",
+      "status": "already_applied"
+    },
+    {
+      "old": "commercially",
+      "new": "stoke",
+      "level": "C1",
+      "reason": "Talking about causes and emotions",
+      "status": "already_applied"
+    },
+    {
+      "old": "insubordinately",
+      "new": "harvest",
+      "level": "C1",
+      "reason": "Food, seasons and experiences",
+      "status": "already_applied"
+    },
+    {
+      "old": "primitively",
+      "new": "outset",
+      "level": "C1",
+      "reason": "Plans and agreements",
+      "status": "already_applied"
+    },
+    {
+      "old": "contextually",
+      "new": "hence",
+      "level": "C1",
+      "reason": "Recognizing cause and effect; register review",
+      "status": "already_applied"
+    },
+    {
+      "old": "elongate",
+      "new": "instinctively",
+      "level": "C1",
+      "reason": "Describing spontaneous reactions",
+      "status": "already_applied"
+    },
+    {
+      "old": "somersault",
+      "new": "timid",
+      "level": "C1",
+      "reason": "Personality and confidence",
+      "status": "already_applied"
+    },
+    {
+      "old": "dramatist",
+      "new": "wry",
+      "level": "C1",
+      "reason": "Humor and subtle tone",
+      "status": "already_applied"
+    },
+    {
+      "old": "benignly",
+      "new": "sarcasm",
+      "level": "C1",
+      "reason": "Understanding conversational tone",
+      "status": "already_applied"
+    },
+    {
+      "old": "explosively",
+      "new": "preach",
+      "level": "C1",
+      "reason": "Disagreement, advice and conversational idioms",
+      "status": "already_applied"
+    },
+    {
+      "old": "synthetically",
+      "new": "tact",
+      "level": "C1",
+      "reason": "Diplomacy and social skills",
+      "status": "already_applied"
+    },
+    {
+      "old": "monotonously",
+      "new": "flatter",
+      "level": "C1",
+      "reason": "Compliments, sincerity and social cues",
+      "status": "already_applied"
+    },
+    {
+      "old": "known",
+      "new": "value",
+      "level": "B2",
+      "reason": "Expressing priorities and practical judgments",
+      "status": "replaced"
+    },
+    {
+      "old": "later",
+      "new": "progress",
+      "level": "B2",
+      "reason": "Describing improvement and plans",
+      "status": "replaced"
+    },
+    {
+      "old": "means",
+      "new": "influence",
+      "level": "B2",
+      "reason": "Explaining decisions and social pressure",
+      "status": "replaced"
+    },
+    {
+      "old": "lower",
+      "new": "major",
+      "level": "B2",
+      "reason": "Explaining significant events",
+      "status": "replaced"
+    },
+    {
+      "old": "master",
+      "new": "particular",
+      "level": "B2",
+      "reason": "Specifying preferences and asking questions",
+      "status": "replaced"
+    },
+    {
+      "old": "legislature",
+      "new": "compassionate",
+      "level": "B2",
+      "reason": "Empathy in everyday relationships",
+      "status": "replaced"
+    },
+    {
+      "old": "throat",
+      "new": "appeal",
+      "level": "B2",
+      "reason": "Preferences and requests",
+      "status": "replaced"
+    },
+    {
+      "old": "tail",
+      "new": "determined",
+      "level": "B2",
+      "reason": "Goals and personal motivation",
+      "status": "replaced"
+    },
+    {
+      "old": "jaw",
+      "new": "sense",
+      "level": "B2",
+      "reason": "Interpreting conversation and clarification",
+      "status": "replaced"
+    },
+    {
+      "old": "learning",
+      "new": "treat",
+      "level": "B2",
+      "reason": "Relationships and polite behavior",
+      "status": "replaced"
+    },
+    {
+      "old": "legislative",
+      "new": "predictable",
+      "level": "B2",
+      "reason": "Evaluating experiences and plans",
+      "status": "replaced"
+    },
+    {
+      "old": "nobility",
+      "new": "beneficial",
+      "level": "B2",
+      "reason": "Describing helpful actions",
+      "status": "replaced"
+    },
+    {
+      "old": "lest",
+      "new": "recommendation",
+      "level": "B2",
+      "reason": "Asking for and giving suggestions",
+      "status": "replaced"
+    },
+    {
+      "old": "typhoid",
+      "new": "approach",
+      "level": "B2",
+      "reason": "Explaining methods and problem-solving",
+      "status": "replaced"
+    },
+    {
+      "old": "hemp",
+      "new": "growing",
+      "level": "B2",
+      "reason": "Describing changes and trends",
+      "status": "replaced"
+    },
+    {
+      "old": "irresistibly",
+      "new": "divided",
+      "level": "B2",
+      "reason": "Decisions and disagreements",
+      "status": "replaced"
+    },
+    {
+      "old": "mutton",
+      "new": "fixed",
+      "level": "B2",
+      "reason": "Practical arrangements and repairs",
+      "status": "replaced"
+    },
+    {
+      "old": "loan",
+      "new": "following",
+      "level": "B2",
+      "reason": "Narrating and following up",
+      "status": "replaced"
+    },
+    {
+      "old": "monastery",
+      "new": "domestic",
+      "level": "B2",
+      "reason": "Household and travel situations",
+      "status": "replaced"
+    },
+    {
+      "old": "thickly",
+      "new": "regret",
+      "level": "B2",
+      "reason": "Talking about past choices",
+      "status": "replaced"
+    },
+    {
+      "old": "thirdly",
+      "new": "purposeful",
+      "level": "B2",
+      "reason": "Goals and habits",
+      "status": "replaced"
+    },
+    {
+      "old": "hook",
+      "new": "rejection",
+      "level": "B2",
+      "reason": "Handling setbacks and feelings",
+      "status": "replaced"
+    },
+    {
+      "old": "transfusion",
+      "new": "challenge",
+      "level": "B2",
+      "reason": "Explaining obstacles",
+      "status": "replaced"
+    },
+    {
+      "old": "unto",
+      "new": "reminder",
+      "level": "B2",
+      "reason": "Scheduling and daily tasks",
+      "status": "replaced"
+    },
+    {
+      "old": "malady",
+      "new": "thrilled",
+      "level": "B2",
+      "reason": "Sharing good news and emotions",
+      "status": "replaced"
+    },
+    {
+      "old": "radiator",
+      "new": "indefinite",
+      "level": "C1",
+      "reason": "Uncertain plans and timing",
+      "status": "replaced"
+    },
+    {
+      "old": "carpenter",
+      "new": "flourish",
+      "level": "C1",
+      "reason": "Personal growth and success",
+      "status": "replaced"
+    },
+    {
+      "old": "pendulous",
+      "new": "retention",
+      "level": "C1",
+      "reason": "Learning and maintaining relationships",
+      "status": "replaced"
+    },
+    {
+      "old": "fissure",
+      "new": "brief",
+      "level": "C1",
+      "reason": "Summarizing and time management",
+      "status": "replaced"
+    },
+    {
+      "old": "somberly",
+      "new": "sentimental",
+      "level": "C1",
+      "reason": "Memories and emotional conversations",
+      "status": "replaced"
+    },
+    {
+      "old": "remorselessly",
+      "new": "bulk",
+      "level": "C1",
+      "reason": "Everyday planning and quantities",
+      "status": "replaced"
+    }
+  ]
+}

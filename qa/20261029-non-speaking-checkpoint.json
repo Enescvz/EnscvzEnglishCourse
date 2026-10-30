@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-29",
+  "scope": "non_speaking_private_dev",
+  "publication": "LOCKED",
+  "automated": {
+    "javascript": 55,
+    "python": 158,
+    "total": 213,
+    "status": "PASS"
+  },
+  "voa": {
+    "publisherSources": 50,
+    "fullInAppTranscripts": 19,
+    "externalOnlyTranscripts": 31,
+    "questionsTotal": 204,
+    "sourceTextEvidenceCount": 204,
+    "inAppSpokenTurnEvidence": 79,
+    "inAppStageDirectionEvidence": 1,
+    "publisherLinkedShortExcerptEvidence": 124,
+    "remoteMp3DevicePlaybackVerified": 0,
+    "localHumanVoiceMp3": 0
+  },
+  "toefl2026": {
+    "originalReadingTasks": 6,
+    "originalReadingQuestions": 14,
+    "originalWritingTasks": 9,
+    "officialETSItems": 0,
+    "officialTOEFLScoreProduced": false,
+    "coreWords": 400,
+    "corePhrasals": 75,
+    "independentEditorSignoff": false
+  },
+  "browser": {
+    "targetedVirtualDesktop": "PASS",
+    "targetedVirtualMobileViewport": "PASS",
+    "fullCleanE2E": "NOT_CERTIFIED",
+    "physicalIphoneSafari": "NOT_TESTED",
+    "offlineRealHTTP": "BLOCKED",
+    "offlineBlocker": "localhost ERR_BLOCKED_BY_ADMINISTRATOR",
+    "remoteAudioPlayback": "NOT_TESTED"
+  },
+  "integrity": {
+    "speakingChanged": false,
+    "originalQuizIdentityPreserved": true,
+    "learningIdMappingPreserved": true
+  },
+  "reportLinks": [
+    "qa/toefl-2026-browser-smoke.json",
+    "qa/real-offline-chromium-report.json",
+    "qa/voa-source-coverage.json",
+    "docs/VOA19_TOEFL2026_READING_WRITING_QA_20261029.md"
+  ],
+  "releaseApproved": false
+}

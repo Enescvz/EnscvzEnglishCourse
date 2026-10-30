@@ -1,0 +1,386 @@
+[
+  {
+    "id": "connected-1",
+    "title": "Word boundaries",
+    "level": "B2",
+    "category": "Connected speech",
+    "text": "I came across an interesting article.",
+    "tip": "Focus on how “came across an” runs together in connected speech.",
+    "audio": "assets/audio/drill-connected-1.mp3",
+    "timings": [
+      {
+        "start": 0.0,
+        "end": 2.28
+      }
+    ]
+  },
+  {
+    "id": "connected-2",
+    "title": "Weak forms",
+    "level": "B2",
+    "category": "Connected speech",
+    "text": "We need to deal with the problem today.",
+    "tip": "In fast speech, “to” may be reduced to a weak /tə/ sound.",
+    "audio": "assets/audio/drill-connected-2.mp3",
+    "timings": [
+      {
+        "start": 0.0,
+        "end": 2.37
+      }
+    ]
+  },
+  {
+    "id": "connected-3",
+    "title": "Fluent linking",
+    "level": "B2",
+    "category": "Connected speech",
+    "text": "I finally got around to fixing the door.",
+    "tip": "Notice how vowel and consonant transitions blend across word boundaries.",
+    "audio": "assets/audio/drill-connected-3.mp3",
+    "timings": [
+      {
+        "start": 0.0,
+        "end": 2.5
+      }
+    ]
+  },
+  {
+    "id": "connected-4",
+    "title": "Contractions",
+    "level": "B2",
+    "category": "Connected speech",
+    "text": "That’s the point. If the task feels manageable, I’m much more likely to follow through on it.",
+    "tip": "Listen for contracted “that is” and “I am”.",
+    "audio": "assets/audio/drill-connected-4.mp3",
+    "timings": [
+      {
+        "start": 0.0,
+        "end": 5.33
+      }
+    ]
+  },
+  {
+    "id": "connected-5",
+    "title": "Stress shifts",
+    "level": "C1",
+    "category": "Natural speech",
+    "text": "The results bear out our initial theory.",
+    "tip": "Notice the emphasis on content words: results, bear out, theory.",
+    "audio": "assets/audio/drill-connected-5.mp3",
+    "timings": [
+      {
+        "start": 0.0,
+        "end": 2.41
+      }
+    ]
+  },
+  {
+    "id": "connected-6",
+    "title": "Reduced vowels",
+    "level": "C1",
+    "category": "Natural speech",
+    "text": "The signal was intriguing, but an ordinary technical source had not been ruled out.",
+    "tip": "Unstressed syllables commonly use reduced vowels in American English.",
+    "audio": "assets/audio/drill-connected-6.mp3",
+    "timings": [
+      {
+        "start": 0.0,
+        "end": 4.73
+      }
+    ]
+  },
+  {
+    "id": "numbers-1",
+    "title": "Numbers and amounts",
+    "level": "B2",
+    "category": "Sound recognition",
+    "text": "The renovation cost twenty seven thousand four hundred dollars.",
+    "tip": "Write the amount in words to practice number recognition.",
+    "audio": "assets/audio/drill-numbers-1.mp3",
+    "timings": [
+      {
+        "start": 0.0,
+        "end": 3.9
+      }
+    ]
+  },
+  {
+    "id": "numbers-2",
+    "title": "Time and dates",
+    "level": "B2",
+    "category": "Sound recognition",
+    "text": "The meeting begins at a quarter past eight on November fifth.",
+    "tip": "Listen for the time expression and the ordinal date.",
+    "audio": "assets/audio/drill-numbers-2.mp3",
+    "timings": [
+      {
+        "start": 0.0,
+        "end": 3.48
+      }
+    ]
+  },
+  {
+    "id": "inference-1",
+    "title": "Uncertain claims",
+    "level": "C1",
+    "category": "Inference",
+    "text": "The evidence was incomplete, so I’m reluctant to draw a conclusion.",
+    "tip": "Reluctant signals hesitation rather than certainty.",
+    "audio": "assets/audio/drill-inference-1.mp3",
+    "timings": [
+      {
+        "start": 0.0,
+        "end": 3.96
+      }
+    ]
+  },
+  {
+    "id": "inference-2",
+    "title": "Implied contrast",
+    "level": "C1",
+    "category": "Inference",
+    "text": "The plan looked promising; however, the funding was insufficient.",
+    "tip": "However signals contrast between expectations and outcome.",
+    "audio": "assets/audio/drill-inference-2.mp3",
+    "timings": [
+      {
+        "start": 0.0,
+        "end": 4.12
+      }
+    ]
+  },
+  {
+    "id": "speed-1",
+    "title": "Fast spoken sequence",
+    "level": "B2",
+    "category": "Sentence decoding",
+    "text": "We’re going to narrow down the options before lunch.",
+    "tip": "Notice “we’re” and “going to” in natural speech.",
+    "audio": "assets/audio/drill-speed-1.mp3",
+    "timings": [
+      {
+        "start": 0.0,
+        "end": 2.83
+      }
+    ]
+  },
+  {
+    "id": "speed-2",
+    "title": "A subtle correction",
+    "level": "C1",
+    "category": "Sentence decoding",
+    "text": "I didn’t say it was impossible; I said it was unlikely.",
+    "tip": "Stress changes the intended meaning of the correction.",
+    "audio": "assets/audio/drill-speed-2.mp3",
+    "timings": [
+      {
+        "start": 0.0,
+        "end": 3.58
+      }
+    ]
+  },
+  {
+    "id": "inference-contrast-3",
+    "title": "The exception matters",
+    "level": "C1",
+    "category": "Inference",
+    "text": "The report was thorough, yet it overlooked one crucial assumption.",
+    "tip": "The contrast word yet shifts the conclusion; note which part of the review was incomplete.",
+    "audioType": "synthetic",
+    "editorialStatus": "authored_unreviewed",
+    "audio": "assets/audio/drill-inference-contrast-3.mp3",
+    "timings": [
+      {
+        "start": 0.0,
+        "end": 4.01
+      }
+    ]
+  },
+  {
+    "id": "inference-uncertainty-4",
+    "title": "An estimate is not a promise",
+    "level": "B2",
+    "category": "Inference",
+    "text": "The package should arrive by Thursday, although the delivery date is not guaranteed.",
+    "tip": "Should and not guaranteed express uncertainty rather than a firm promise.",
+    "audioType": "synthetic",
+    "editorialStatus": "authored_unreviewed",
+    "audio": "assets/audio/drill-inference-uncertainty-4.mp3",
+    "timings": [
+      {
+        "start": 0.0,
+        "end": 4.69
+      }
+    ]
+  },
+  {
+    "id": "numbers-price-3",
+    "title": "Price and cents",
+    "level": "B2",
+    "category": "Numbers & details",
+    "text": "The replacement part costs one hundred forty three dollars and sixty five cents.",
+    "tip": "Listen for the difference between dollar amounts and cents.",
+    "audioType": "synthetic",
+    "editorialStatus": "authored_unreviewed",
+    "audio": "assets/audio/drill-numbers-price-3.mp3",
+    "timings": [
+      {
+        "start": 0.0,
+        "end": 5.32
+      }
+    ]
+  },
+  {
+    "id": "numbers-flight-4",
+    "title": "A gate change",
+    "level": "B2",
+    "category": "Numbers & details",
+    "text": "Flight two hundred eighteen now departs from gate thirty four at nine twenty five.",
+    "tip": "Record the flight number, the gate number, and the time separately.",
+    "audioType": "synthetic",
+    "editorialStatus": "authored_unreviewed",
+    "audio": "assets/audio/drill-numbers-flight-4.mp3",
+    "timings": [
+      {
+        "start": 0.0,
+        "end": 5.04
+      }
+    ]
+  },
+  {
+    "id": "connected-elision-7",
+    "title": "Missing consonants",
+    "level": "B2",
+    "category": "Connected speech",
+    "text": "We asked the staff to check the last train before we left.",
+    "tip": "Notice how word boundaries can be harder to hear when neighboring consonants meet.",
+    "audioType": "synthetic",
+    "editorialStatus": "authored_unreviewed",
+    "audio": "assets/audio/drill-connected-elision-7.mp3",
+    "timings": [
+      {
+        "start": 0.0,
+        "end": 3.48
+      }
+    ]
+  },
+  {
+    "id": "connected-linking-8",
+    "title": "Linking across words",
+    "level": "B2",
+    "category": "Connected speech",
+    "text": "She came across an old article about the abandoned train station.",
+    "tip": "Listen for across an: a consonant links to the following unstressed vowel.",
+    "audioType": "synthetic",
+    "editorialStatus": "authored_unreviewed",
+    "audio": "assets/audio/drill-connected-linking-8.mp3",
+    "timings": [
+      {
+        "start": 0.0,
+        "end": 3.89
+      }
+    ]
+  },
+  {
+    "id": "connected-pronouns-9",
+    "title": "Weak forms in a request",
+    "level": "B2",
+    "category": "Connected speech",
+    "text": "Could you send her a copy of the final report before lunch?",
+    "tip": "Unstressed pronouns and function words may be reduced in casual American speech.",
+    "audioType": "synthetic",
+    "editorialStatus": "authored_unreviewed",
+    "audio": "assets/audio/drill-connected-pronouns-9.mp3",
+    "timings": [
+      {
+        "start": 0.0,
+        "end": 3.39
+      }
+    ]
+  },
+  {
+    "id": "connected-contractions-10",
+    "title": "Negative contraction",
+    "level": "B2",
+    "category": "Connected speech",
+    "text": "I wouldn't rule out a second explanation until we review the evidence.",
+    "tip": "A negative contraction changes the meaning; do not confuse would with would not.",
+    "audioType": "synthetic",
+    "editorialStatus": "authored_unreviewed",
+    "audio": "assets/audio/drill-connected-contractions-10.mp3",
+    "timings": [
+      {
+        "start": 0.0,
+        "end": 4.16
+      }
+    ]
+  },
+  {
+    "id": "speed-alternative-3",
+    "title": "Two valid options",
+    "level": "C1",
+    "category": "Details & inference",
+    "text": "We can either postpone the launch or reduce the scope, but we cannot do both.",
+    "tip": "Pay attention to either, or, and cannot do both.",
+    "audioType": "synthetic",
+    "editorialStatus": "authored_unreviewed",
+    "audio": "assets/audio/drill-speed-alternative-3.mp3",
+    "timings": [
+      {
+        "start": 0.0,
+        "end": 4.79
+      }
+    ]
+  },
+  {
+    "id": "speed-sequence-4",
+    "title": "Order of events",
+    "level": "B2",
+    "category": "Sentence decoding",
+    "text": "After the meeting, she went back to the office and followed up on the complaint.",
+    "tip": "The sequence markers after and and identify the order of events.",
+    "audioType": "synthetic",
+    "editorialStatus": "authored_unreviewed",
+    "audio": "assets/audio/drill-speed-sequence-4.mp3",
+    "timings": [
+      {
+        "start": 0.0,
+        "end": 4.67
+      }
+    ]
+  },
+  {
+    "id": "detail-comparison-5",
+    "title": "Compare two numbers",
+    "level": "C1",
+    "category": "Numbers & details",
+    "text": "The first estimate was eighteen percent, whereas the final figure was thirteen percent.",
+    "tip": "Write both percentages in the order spoken; whereas marks a contrast.",
+    "audioType": "synthetic",
+    "editorialStatus": "authored_unreviewed",
+    "audio": "assets/audio/drill-detail-comparison-5.mp3",
+    "timings": [
+      {
+        "start": 0.0,
+        "end": 5.1
+      }
+    ]
+  },
+  {
+    "id": "detail-condition-6",
+    "title": "A conditional plan",
+    "level": "C1",
+    "category": "Inference",
+    "text": "Unless the weather improves by Friday, the outdoor event will be called off.",
+    "tip": "Unless introduces a condition; identify what must change to avoid cancellation.",
+    "audioType": "synthetic",
+    "editorialStatus": "authored_unreviewed",
+    "audio": "assets/audio/drill-detail-condition-6.mp3",
+    "timings": [
+      {
+        "start": 0.0,
+        "end": 4.48
+      }
+    ]
+  }
+]

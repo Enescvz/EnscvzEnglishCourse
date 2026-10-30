@@ -1,0 +1,15 @@
+﻿Criterion,State,Owner,Required real evidence
+"1,000 focused general lessons editorially approved",BLOCKED,Independent editor / copyright review,Document actual manual results; do not toggle gates without evidence
+500 focused phrasal lessons editorially approved,BLOCKED,Independent editor / copyright review,Document actual manual results; do not toggle gates without evidence
+200 finance/accounting entries individually approved,BLOCKED,Physical device / rights / human voice QA,Document actual manual results; do not toggle gates without evidence
+Focus targets US-English and CEFR meaning validated,BLOCKED,Independent editor / copyright review,Document actual manual results; do not toggle gates without evidence
+Minimum 50 original podcast lessons (legacy requirement),BLOCKED,Physical device / rights / human voice QA,Document actual manual results; do not toggle gates without evidence
+At least 40 verified human-voice lessons with in-app transcript and quiz,BLOCKED,Physical device / rights / human voice QA,Document actual manual results; do not toggle gates without evidence
+Publisher-only listening lessons individually audio/transcript verified,BLOCKED,Physical device / rights / human voice QA,Document actual manual results; do not toggle gates without evidence
+Human voice playback and source transcript alignment independently verified,BLOCKED,Physical device / rights / human voice QA,Document actual manual results; do not toggle gates without evidence
+Minimum 60 listening drills,BLOCKED,Physical device / rights / human voice QA,Document actual manual results; do not toggle gates without evidence
+TOEFL core independently reviewed for US-English and exam relevance,BLOCKED,Independent editor / copyright review,Document actual manual results; do not toggle gates without evidence
+"At least 10 licensed, attributed, bundled human recordings",BLOCKED,Physical device / rights / human voice QA,Document actual manual results; do not toggle gates without evidence
+"Every listening recording licensed, timing-reviewed and approved for natural speech",BLOCKED,Physical device / rights / human voice QA,Document actual manual results; do not toggle gates without evidence
+Manual US-English editorial verification recorded,BLOCKED,Independent editor / copyright review,Document actual manual results; do not toggle gates without evidence
+Browser E2E evidence desktop + iPhone WebKit,BLOCKED,Physical iPhone Safari + test owner,Document actual manual results; do not toggle gates without evidence

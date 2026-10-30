@@ -1,0 +1,8 @@
+{
+  "testType": "chromium_virtual_origin_with_mock_storage",
+  "releaseEvidence": false,
+  "desktop": "passed",
+  "mobile_simulated_viewport": "passed",
+  "webkit_iphone": "not_tested",
+  "real_local_storage_persistence": "not_tested"
+}

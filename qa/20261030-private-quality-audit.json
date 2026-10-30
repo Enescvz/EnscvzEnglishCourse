@@ -1,0 +1,84 @@
+{
+  "date": "2026-10-30",
+  "scope": "PRIVATE ENGINEERING QA. NOT A RELEASE",
+  "baseZIP": "AEL_PRIVATE_DEV_BACKUP_20261029_NO_ROBOTIC_PODCASTS_QA_DO_NOT_DEPLOY.zip",
+  "baseSHA256": "2b1e6f6b713eb7f0fea63bfb708d7a869aa0a630cfc8b35e9129c16b730d91d6",
+  "tests": {
+    "javascript": 113,
+    "python": 194,
+    "total": 307,
+    "allPassed": true,
+    "virtualDesktopChromium": "passed",
+    "virtualMobileChromium": "passed",
+    "realHTTPChromium": "blocked_by_administrator",
+    "webkitIphone": "not_available",
+    "physicalIphone": "not_tested"
+  },
+  "voa": {
+    "transcriptsInApp": 30,
+    "publisherOnly": 20,
+    "sourceURLsForTenLocated": true,
+    "sourceDownloaderAndValidatorWritten": true,
+    "newCompleteTranscriptsImported": 0,
+    "targetPendingTranscripts": 10,
+    "targetReached": false,
+    "totalLessons": 50,
+    "quizQuestions": 204,
+    "bundledHumanAudio": 0,
+    "audioPlaybackVerifiedOnPhone": false
+  },
+  "editorial": {
+    "priorityQueue": 975,
+    "fullCurriculumQueue": 2334,
+    "automaticPriorityFieldIssues": 0,
+    "humanApproved": 0,
+    "approved": false
+  },
+  "offline": {
+    "selfTestWorkflowAdded": true,
+    "serviceWorkerCacheKeyUpdated": true,
+    "independentIPhoneOfflineValidated": false
+  },
+  "toefl": {
+    "dualHumanReviewComparisonAdded": true,
+    "etsCalibratedScore": false,
+    "officialScoreIsAlwaysNull": true
+  },
+  "learningRetention": {
+    "observationalSevenAndThirtyDayReportAdded": true,
+    "realParticipantsObservedThisTurn": 0,
+    "controlledEffectivenessStudyDone": false
+  },
+  "protectedDataFilesUnchanged": 20,
+  "speakingUnchanged": true,
+  "sourceFilesChanged": [
+    {
+      "path": "development-status.json",
+      "status": "edited"
+    },
+    {
+      "path": "js/app.js",
+      "status": "edited"
+    },
+    {
+      "path": "js/offline.js",
+      "status": "edited"
+    },
+    {
+      "path": "sw.js",
+      "status": "edited"
+    },
+    {
+      "path": "tests/e2e_playwright.py",
+      "status": "edited"
+    }
+  ],
+  "releaseGate": "LOCKED",
+  "unresolved": [
+    "10 publisher transcripts still need complete source import to meet requested 40/50",
+    "External independent editorial review",
+    "Physical iPhone Safari airplane-mode and playback verification",
+    "Real 7-/30-day learner follow-up data",
+    "ETS psychometric calibration / independently validated Writing rating"
+  ]
+}

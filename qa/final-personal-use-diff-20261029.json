@@ -1,0 +1,25 @@
+{
+  "originalFileCount": 400,
+  "currentFileCount": 405,
+  "changed": [
+    "CONTINUE_IN_NEW_CHAT.md",
+    "README.md",
+    "js/app.js",
+    "js/toefl-prep.js",
+    "sw.js"
+  ],
+  "added": [
+    "docs/20261029_PERSONAL_USE_FINAL_QA_PRIVATE.md",
+    "qa/final-personal-use-preflight-20261029.json",
+    "tests/final-personal-use.test.mjs",
+    "tests/final_use_browser_smoke.py",
+    "tools/preuse_quality_audit.py"
+  ],
+  "removed": [],
+  "allOriginalDataFilesUnchanged": true,
+  "speakingFilesUnchanged": true,
+  "listeningDataFilesUnchanged": true,
+  "listeningSyntheticAudioUnchanged": true,
+  "editorialSignoff": false,
+  "releaseReady": false
+}

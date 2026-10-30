@@ -1,0 +1,815 @@
+{
+  "reviewedOn": "2026-10-28",
+  "sourceSeries": "VOA Let's Learn English Level 1 33–52",
+  "countLessons": 20,
+  "countQuestions": 80,
+  "evidenceType": "publisher page short excerpt + rendered line locator",
+  "notFullTranscript": true,
+  "notVerifiedAudioOrTiming": true,
+  "thirdPartyExcluded": [
+    "Lesson 45 Woody Guthrie This Land Is Your Land lyrics"
+  ],
+  "independentEditorialSignoff": false,
+  "reviews": [
+    {
+      "lessonId": "voa-linked-1-33",
+      "questionIndex": 0,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lesson-33-learning-americas-sport/3555047.html",
+      "speaker": "Anna",
+      "literalExcerpt": "I can teach children about baseball here!",
+      "publisherWebLine": 196,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-33",
+      "questionIndex": 1,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lesson-33-learning-americas-sport/3555047.html",
+      "speaker": "MINDY",
+      "literalExcerpt": "I will try one more time, Anna.",
+      "publisherWebLine": 192,
+      "reviewedOn": "2026-10-28",
+      "note": "MINDY uses time travel to send Anna to the baseball field; relevant surrounding text lines 188–197."
+    },
+    {
+      "lessonId": "voa-linked-1-33",
+      "questionIndex": 2,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lesson-33-learning-americas-sport/3555047.html",
+      "speaker": "Anna",
+      "literalExcerpt": "you really only need a bat, a ball and a glove.",
+      "publisherWebLine": 201,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-33",
+      "questionIndex": 3,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lesson-33-learning-americas-sport/3555047.html",
+      "speaker": "Anna",
+      "literalExcerpt": "There are nine innings in a game.",
+      "publisherWebLine": 214,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-34",
+      "questionIndex": 0,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-34-what-will-i-do/3566043.html",
+      "speaker": "Anna",
+      "literalExcerpt": "I don’t have a costume. Can you help me?",
+      "publisherWebLine": 198,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-34",
+      "questionIndex": 1,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-34-what-will-i-do/3566043.html",
+      "speaker": "Genie",
+      "literalExcerpt": "Dress as a genie!",
+      "publisherWebLine": 200,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-34",
+      "questionIndex": 2,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-34-what-will-i-do/3566043.html",
+      "speaker": "Rebecca",
+      "literalExcerpt": "I study journalism.",
+      "publisherWebLine": 227,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-34",
+      "questionIndex": 3,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-34-what-will-i-do/3566043.html",
+      "speaker": "Anna",
+      "literalExcerpt": "I’m a rock star!",
+      "publisherWebLine": 272,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-35",
+      "questionIndex": 0,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-35-lets-make-dinner/3571922.html",
+      "speaker": "Anna",
+      "literalExcerpt": "I am doing the shopping.",
+      "publisherWebLine": 180,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-35",
+      "questionIndex": 1,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-35-lets-make-dinner/3571922.html",
+      "speaker": "Marsha",
+      "literalExcerpt": "this is the shopping list for breakfast.",
+      "publisherWebLine": 208,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-35",
+      "questionIndex": 2,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-35-lets-make-dinner/3571922.html",
+      "speaker": "Marsha",
+      "literalExcerpt": "on the refrigerator - for dinner!",
+      "publisherWebLine": 208,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-35",
+      "questionIndex": 3,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-35-lets-make-dinner/3571922.html",
+      "speaker": "Marsha",
+      "literalExcerpt": "They arrive in 30 minutes!",
+      "publisherWebLine": 219,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-36",
+      "questionIndex": 0,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-36-i-can-fix-this/3568962.html",
+      "speaker": "Anna",
+      "literalExcerpt": "I put the flour inside the refrigerator.",
+      "publisherWebLine": 186,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-36",
+      "questionIndex": 1,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-36-i-can-fix-this/3568962.html",
+      "speaker": "Anna",
+      "literalExcerpt": "The eggs are inside the cabinet under the sink.",
+      "publisherWebLine": 193,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-36",
+      "questionIndex": 2,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-36-i-can-fix-this/3568962.html",
+      "speaker": "Anna",
+      "literalExcerpt": "peanut-butter-banana pancakes!",
+      "publisherWebLine": 204,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-36",
+      "questionIndex": 3,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-36-i-can-fix-this/3568962.html",
+      "speaker": "Marsha",
+      "literalExcerpt": "Hey, this tastes good!",
+      "publisherWebLine": 210,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-37",
+      "questionIndex": 0,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-37-lets-agree-to-disagree/3574029.html",
+      "speaker": "Anna",
+      "literalExcerpt": "Someone lost a bag.",
+      "publisherWebLine": 179,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-37",
+      "questionIndex": 1,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-37-lets-agree-to-disagree/3574029.html",
+      "speaker": "Phil",
+      "literalExcerpt": "I'm from a small town in the country.",
+      "publisherWebLine": 192,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-37",
+      "questionIndex": 2,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-37-lets-agree-to-disagree/3574029.html",
+      "speaker": "Anna",
+      "literalExcerpt": "The city is exciting! It has more culture than the country.",
+      "publisherWebLine": 201,
+      "reviewedOn": "2026-10-28",
+      "note": "The same publisher line also explicitly lists museums, restaurants, theater, music and more jobs."
+    },
+    {
+      "lessonId": "voa-linked-1-37",
+      "questionIndex": 3,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-37-lets-agree-to-disagree/3574029.html",
+      "speaker": "Anna",
+      "literalExcerpt": "Let's say \"hello!\" to people",
+      "publisherWebLine": 215,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-38",
+      "questionIndex": 0,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-38-shes-my-best-friend/3591967.html",
+      "speaker": "Anna",
+      "literalExcerpt": "My best friend from my hometown is coming here",
+      "publisherWebLine": 180,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-38",
+      "questionIndex": 1,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-38-shes-my-best-friend/3591967.html",
+      "speaker": "Anna",
+      "literalExcerpt": "So, we split the rent.",
+      "publisherWebLine": 197,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-38",
+      "questionIndex": 2,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-38-shes-my-best-friend/3591967.html",
+      "speaker": "Anna",
+      "literalExcerpt": "Time Traveling Treehouse.",
+      "publisherWebLine": 212,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-38",
+      "questionIndex": 3,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-38-shes-my-best-friend/3591967.html",
+      "speaker": "Penelope",
+      "literalExcerpt": "We played in that old treehouse",
+      "publisherWebLine": 213,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-39",
+      "questionIndex": 0,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-39-its-unbelieveable/3598920.html",
+      "speaker": "Anna",
+      "literalExcerpt": "I am tired of my untidy hair.",
+      "publisherWebLine": 180,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-39",
+      "questionIndex": 1,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-39-its-unbelieveable/3598920.html",
+      "speaker": "Pete",
+      "literalExcerpt": "I have the perfect product for you -- Hair Be Good!",
+      "publisherWebLine": 190,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-39",
+      "questionIndex": 2,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-39-its-unbelieveable/3598920.html",
+      "speaker": "Pete",
+      "literalExcerpt": "One can costs only $10!",
+      "publisherWebLine": 191,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-39",
+      "questionIndex": 3,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-39-its-unbelieveable/3598920.html",
+      "speaker": "Anna",
+      "literalExcerpt": "Hair Be Good did this to my hair.",
+      "publisherWebLine": 225,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-40",
+      "questionIndex": 0,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-40-the-woods-are-alive/3630341.html",
+      "speaker": "Anna",
+      "literalExcerpt": "Today I will audition for a show",
+      "publisherWebLine": 180,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-40",
+      "questionIndex": 1,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-40-the-woods-are-alive/3630341.html",
+      "speaker": "Director",
+      "literalExcerpt": "you are speaking too softly.",
+      "publisherWebLine": 195,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-40",
+      "questionIndex": 2,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-40-the-woods-are-alive/3630341.html",
+      "speaker": "Director",
+      "literalExcerpt": "you said that line really late.",
+      "publisherWebLine": 209,
+      "reviewedOn": "2026-10-28",
+      "note": "The director first calls the line late, then the next attempt early (publisher lines 209–221)."
+    },
+    {
+      "lessonId": "voa-linked-1-40",
+      "questionIndex": 3,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-40-the-woods-are-alive/3630341.html",
+      "speaker": "Anna",
+      "literalExcerpt": "I'm a tree.",
+      "publisherWebLine": 232,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-41",
+      "questionIndex": 0,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-41-teamwork/3635015.html",
+      "speaker": "Anna",
+      "literalExcerpt": "Today my boss will tell me what she thinks of my work.",
+      "publisherWebLine": 180,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-41",
+      "questionIndex": 1,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-41-teamwork/3635015.html",
+      "speaker": "Anna",
+      "literalExcerpt": "I think the chart is upside down.",
+      "publisherWebLine": 191,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-41",
+      "questionIndex": 2,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-41-teamwork/3635015.html",
+      "speaker": "Ms. Weaver",
+      "literalExcerpt": "I want to see these numbers go up",
+      "publisherWebLine": 203,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-41",
+      "questionIndex": 3,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-41-teamwork/3635015.html",
+      "speaker": "Anna",
+      "literalExcerpt": "Look at all those cats!",
+      "publisherWebLine": 219,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-42",
+      "questionIndex": 0,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-42-i-was-minding-my-own-business/3647264.html",
+      "speaker": "Anna",
+      "literalExcerpt": "I left work to get some lunch.",
+      "publisherWebLine": 196,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-42",
+      "questionIndex": 1,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-42-i-was-minding-my-own-business/3647264.html",
+      "speaker": "Anna",
+      "literalExcerpt": "Two robbers were grabbing her bag",
+      "publisherWebLine": 199,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-42",
+      "questionIndex": 2,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-42-i-was-minding-my-own-business/3647264.html",
+      "speaker": "Anna",
+      "literalExcerpt": "They didn’t pay.",
+      "publisherWebLine": 235,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-42",
+      "questionIndex": 3,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-42-i-was-minding-my-own-business/3647264.html",
+      "speaker": "Anna",
+      "literalExcerpt": "someone stepped on my arm!",
+      "publisherWebLine": 228,
+      "reviewedOn": "2026-10-28",
+      "note": "TRICK/TWIST: Anna says a bystander stepped on her arm, but the end shows a vending-machine incident. The existing question asks what she *says*, not the actual injury cause."
+    },
+    {
+      "lessonId": "voa-linked-1-43",
+      "questionIndex": 0,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-43-time-for-plan-b/3666458.html",
+      "speaker": "Anna",
+      "literalExcerpt": "I lost my wallet!",
+      "publisherWebLine": 180,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-43",
+      "questionIndex": 1,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-43-time-for-plan-b/3666458.html",
+      "speaker": "Marsha",
+      "literalExcerpt": "I have to give a big presentation in one hour.",
+      "publisherWebLine": 191,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-43",
+      "questionIndex": 2,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-43-time-for-plan-b/3666458.html",
+      "speaker": "Jonathan",
+      "literalExcerpt": "I'm at the airport with my mother.",
+      "publisherWebLine": 208,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-43",
+      "questionIndex": 3,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-43-time-for-plan-b/3666458.html",
+      "speaker": "Ashley",
+      "literalExcerpt": "I’m babysitting.",
+      "publisherWebLine": 229,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-44",
+      "questionIndex": 0,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-44-making-healthy-choices/3688552.html",
+      "speaker": "Anna",
+      "literalExcerpt": "healthy food. So, I fight with myself.",
+      "publisherWebLine": 188,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-44",
+      "questionIndex": 1,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-44-making-healthy-choices/3688552.html",
+      "speaker": "Ashley",
+      "literalExcerpt": "go to the Giant supermarket.",
+      "publisherWebLine": 190,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-44",
+      "questionIndex": 2,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-44-making-healthy-choices/3688552.html",
+      "speaker": "Junky",
+      "literalExcerpt": "Mmm, ice cream!",
+      "publisherWebLine": 220,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-44",
+      "questionIndex": 3,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-44-making-healthy-choices/3688552.html",
+      "speaker": "Healthy",
+      "literalExcerpt": "Mmm, frozen peas!",
+      "publisherWebLine": 222,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-45",
+      "questionIndex": 0,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lesson-45-this-land-is-your-land/3710209.html",
+      "speaker": "Anna",
+      "literalExcerpt": "My roommate Marsha and I will be on vacation at the same time.",
+      "publisherWebLine": 180,
+      "reviewedOn": "2026-10-28",
+      "note": "Only VOA’s own original dialogue is reviewed; the separately credited Woody Guthrie song lyrics (lines 205–208) must be excluded from app imports."
+    },
+    {
+      "lessonId": "voa-linked-1-45",
+      "questionIndex": 1,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lesson-45-this-land-is-your-land/3710209.html",
+      "speaker": "Anna",
+      "literalExcerpt": "the Statue of Liberty!",
+      "publisherWebLine": 190,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-45",
+      "questionIndex": 2,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lesson-45-this-land-is-your-land/3710209.html",
+      "speaker": "Marsha",
+      "literalExcerpt": "don’t forget the Grand Canyon!",
+      "publisherWebLine": 195,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-45",
+      "questionIndex": 3,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lesson-45-this-land-is-your-land/3710209.html",
+      "speaker": "Anna",
+      "literalExcerpt": "The largest rocking chair in the world!",
+      "publisherWebLine": 237,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-46",
+      "questionIndex": 0,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-46-may-i-borrow-that/3723588.html",
+      "speaker": "Marsha",
+      "literalExcerpt": "Today is my birthday.",
+      "publisherWebLine": 190,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-46",
+      "questionIndex": 1,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-46-may-i-borrow-that/3723588.html",
+      "speaker": "Anna",
+      "literalExcerpt": "I don’t get my paycheck until next week.",
+      "publisherWebLine": 196,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-46",
+      "questionIndex": 2,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-46-may-i-borrow-that/3723588.html",
+      "speaker": "Anna",
+      "literalExcerpt": "may I borrow your stapler?",
+      "publisherWebLine": 198,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-46",
+      "questionIndex": 3,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-46-may-i-borrow-that/3723588.html",
+      "speaker": "Anna",
+      "literalExcerpt": "this is your own office supply hat!",
+      "publisherWebLine": 229,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-47",
+      "questionIndex": 0,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-47-how-can-i-help/3737352.html",
+      "speaker": "Pete",
+      "literalExcerpt": "I am fixing my car.",
+      "publisherWebLine": 183,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-47",
+      "questionIndex": 1,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-47-how-can-i-help/3737352.html",
+      "speaker": "Pete",
+      "literalExcerpt": "So I took out the extra ones.",
+      "publisherWebLine": 196,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-47",
+      "questionIndex": 2,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-47-how-can-i-help/3737352.html",
+      "speaker": "Pete",
+      "literalExcerpt": "Four hundred and fifty.",
+      "publisherWebLine": 207,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-47",
+      "questionIndex": 3,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-47-how-can-i-help/3737352.html",
+      "speaker": "Anna",
+      "literalExcerpt": "I learned from a master.",
+      "publisherWebLine": 222,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-48",
+      "questionIndex": 0,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-48-have-you-ever/3753664.html",
+      "speaker": "Jean",
+      "literalExcerpt": "I’ve just flown in from Boston.",
+      "publisherWebLine": 184,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-48",
+      "questionIndex": 1,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-48-have-you-ever/3753664.html",
+      "speaker": "Jean",
+      "literalExcerpt": "I want to see an unusual museum.",
+      "publisherWebLine": 195,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-48",
+      "questionIndex": 2,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-48-have-you-ever/3753664.html",
+      "speaker": "Anna",
+      "literalExcerpt": "I like the Sculpture Garden.",
+      "publisherWebLine": 197,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-48",
+      "questionIndex": 3,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-48-have-you-ever/3753664.html",
+      "speaker": "Anna",
+      "literalExcerpt": "I've never been to D.C.’s zoo.",
+      "publisherWebLine": 217,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-49",
+      "questionIndex": 0,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-49-operation-spy/3763537.html",
+      "speaker": "Anna",
+      "literalExcerpt": "The International Spy Museum has created an amazing collection",
+      "publisherWebLine": 180,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-49",
+      "questionIndex": 1,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-49-operation-spy/3763537.html",
+      "speaker": "Anna",
+      "literalExcerpt": "This is Agent Flamingo, reporting for duty.",
+      "publisherWebLine": 184,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-49",
+      "questionIndex": 2,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-49-operation-spy/3763537.html",
+      "speaker": "Anna",
+      "literalExcerpt": "It’s dark and small. I’m afraid of dark, small places.",
+      "publisherWebLine": 198,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-49",
+      "questionIndex": 3,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-49-operation-spy/3763537.html",
+      "speaker": "Ms. Weaver",
+      "literalExcerpt": "have you ever cracked a code?",
+      "publisherWebLine": 211,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-50",
+      "questionIndex": 0,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-50-back-to-school/3771173.html",
+      "speaker": "Anna",
+      "literalExcerpt": "welcome to Georgetown University in Washington, D.C.!",
+      "publisherWebLine": 180,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-50",
+      "questionIndex": 1,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-50-back-to-school/3771173.html",
+      "speaker": "Taylor",
+      "literalExcerpt": "waiting for about 10 minutes.",
+      "publisherWebLine": 193,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-50",
+      "questionIndex": 2,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-50-back-to-school/3771173.html",
+      "speaker": "Anna",
+      "literalExcerpt": "going back to school makes me a little nervous.",
+      "publisherWebLine": 208,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-50",
+      "questionIndex": 3,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-50-back-to-school/3771173.html",
+      "speaker": "Anna",
+      "literalExcerpt": "I think she said “giraffe.”",
+      "publisherWebLine": 221,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-51",
+      "questionIndex": 0,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-51-a-good-habit/3773577.html",
+      "speaker": "Ashley",
+      "literalExcerpt": "I will run in my first marathon.",
+      "publisherWebLine": 191,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-51",
+      "questionIndex": 1,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-51-a-good-habit/3773577.html",
+      "speaker": "Anna",
+      "literalExcerpt": "I’ve been training for an hour",
+      "publisherWebLine": 204,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-51",
+      "questionIndex": 2,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-51-a-good-habit/3773577.html",
+      "speaker": "Woman",
+      "literalExcerpt": "this race is for children.",
+      "publisherWebLine": 233,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-51",
+      "questionIndex": 3,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-51-a-good-habit/3773577.html",
+      "speaker": "Woman",
+      "literalExcerpt": "raise money for sick children.",
+      "publisherWebLine": 240,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-52",
+      "questionIndex": 0,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-52-taking-chances/3805454.html",
+      "speaker": "Kelly",
+      "literalExcerpt": "she acted in my play, “The Woods Are Alive!”",
+      "publisherWebLine": 185,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-52",
+      "questionIndex": 1,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-52-taking-chances/3805454.html",
+      "speaker": "Anna",
+      "literalExcerpt": "I will be acting in three movies.",
+      "publisherWebLine": 198,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    },
+    {
+      "lessonId": "voa-linked-1-52",
+      "questionIndex": 2,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-52-taking-chances/3805454.html",
+      "speaker": "Anna",
+      "literalExcerpt": "The second is a romantic comedy. And the third is an action movie.",
+      "publisherWebLine": 202,
+      "reviewedOn": "2026-10-28",
+      "note": "The full same publisher line names the complete three-genre list: science fiction, romantic comedy and action. A historical documentary is absent."
+    },
+    {
+      "lessonId": "voa-linked-1-52",
+      "questionIndex": 3,
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-52-taking-chances/3805454.html",
+      "speaker": "Anna",
+      "literalExcerpt": "I’ll make the movies and then come back. Washington, D.C. is my home.",
+      "publisherWebLine": 209,
+      "reviewedOn": "2026-10-28",
+      "note": "VOA Conversation page original transcript"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "scope": "Source/text evidence only; not listening playback or editorial signoff",
+  "totalVOASourceLessons": 50,
+  "inAppTranscriptLessons": 30,
+  "publisherPageOnlyLessons": 20,
+  "totalOriginalQuestions": 204,
+  "speakerAndTurnEvidenceChecked": 124,
+  "publisherLinkedExcerptEvidenceChecked": 80,
+  "spokenTurnEvidenceChecked": 121,
+  "stageDirectionTurnEvidenceChecked": 3,
+  "sourceEvidenceTotal": 204,
+  "pendingQuestionSourceEvidence": 0,
+  "unverifiedRemotePlaybackCount": 50,
+  "localHumanAudioMP3Count": 0,
+  "physicalIPhoneSafariPassed": false,
+  "offlineE2EPassed": false,
+  "sourceLicense": "https://learningenglish.voanews.com/p/6861.html",
+  "remainingLessons": [
+    {
+      "id": "voa-linked-1-33",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lesson-33-learning-americas-sport/3555047.html",
+      "pendingQuestions": 0,
+      "needsFullTranscript": true
+    },
+    {
+      "id": "voa-linked-1-34",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-34-what-will-i-do/3566043.html",
+      "pendingQuestions": 0,
+      "needsFullTranscript": true
+    },
+    {
+      "id": "voa-linked-1-35",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-35-lets-make-dinner/3571922.html",
+      "pendingQuestions": 0,
+      "needsFullTranscript": true
+    },
+    {
+      "id": "voa-linked-1-36",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-36-i-can-fix-this/3568962.html",
+      "pendingQuestions": 0,
+      "needsFullTranscript": true
+    },
+    {
+      "id": "voa-linked-1-37",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-37-lets-agree-to-disagree/3574029.html",
+      "pendingQuestions": 0,
+      "needsFullTranscript": true
+    },
+    {
+      "id": "voa-linked-1-38",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-38-shes-my-best-friend/3591967.html",
+      "pendingQuestions": 0,
+      "needsFullTranscript": true
+    },
+    {
+      "id": "voa-linked-1-39",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-39-its-unbelieveable/3598920.html",
+      "pendingQuestions": 0,
+      "needsFullTranscript": true
+    },
+    {
+      "id": "voa-linked-1-40",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-40-the-woods-are-alive/3630341.html",
+      "pendingQuestions": 0,
+      "needsFullTranscript": true
+    },
+    {
+      "id": "voa-linked-1-41",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-41-teamwork/3635015.html",
+      "pendingQuestions": 0,
+      "needsFullTranscript": true
+    },
+    {
+      "id": "voa-linked-1-42",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-42-i-was-minding-my-own-business/3647264.html",
+      "pendingQuestions": 0,
+      "needsFullTranscript": true
+    },
+    {
+      "id": "voa-linked-1-43",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-43-time-for-plan-b/3666458.html",
+      "pendingQuestions": 0,
+      "needsFullTranscript": true
+    },
+    {
+      "id": "voa-linked-1-44",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-44-making-healthy-choices/3688552.html",
+      "pendingQuestions": 0,
+      "needsFullTranscript": true
+    },
+    {
+      "id": "voa-linked-1-45",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lesson-45-this-land-is-your-land/3710209.html",
+      "pendingQuestions": 0,
+      "needsFullTranscript": true
+    },
+    {
+      "id": "voa-linked-1-46",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-46-may-i-borrow-that/3723588.html",
+      "pendingQuestions": 0,
+      "needsFullTranscript": true
+    },
+    {
+      "id": "voa-linked-1-47",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-47-how-can-i-help/3737352.html",
+      "pendingQuestions": 0,
+      "needsFullTranscript": true
+    },
+    {
+      "id": "voa-linked-1-48",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-48-have-you-ever/3753664.html",
+      "pendingQuestions": 0,
+      "needsFullTranscript": true
+    },
+    {
+      "id": "voa-linked-1-49",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-49-operation-spy/3763537.html",
+      "pendingQuestions": 0,
+      "needsFullTranscript": true
+    },
+    {
+      "id": "voa-linked-1-50",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-50-back-to-school/3771173.html",
+      "pendingQuestions": 0,
+      "needsFullTranscript": true
+    },
+    {
+      "id": "voa-linked-1-51",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-51-a-good-habit/3773577.html",
+      "pendingQuestions": 0,
+      "needsFullTranscript": true
+    },
+    {
+      "id": "voa-linked-1-52",
+      "sourceUrl": "https://learningenglish.voanews.com/a/lets-learn-english-lesson-52-taking-chances/3805454.html",
+      "pendingQuestions": 0,
+      "needsFullTranscript": true
+    }
+  ],
+  "releaseApproved": false,
+  "readyForRelease": false,
+  "nextStep": "Source excerpt inspection queue is empty; remaining full transcripts still publisher-only, and audio/third-party permissions require separate checks."
+}

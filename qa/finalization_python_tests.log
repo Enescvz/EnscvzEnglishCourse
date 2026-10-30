@@ -1,0 +1,83 @@
+........................................................................................................................................................................................................
+----------------------------------------------------------------------
+Ran 200 tests in 2.634s
+
+OK
+{
+  "source": "CMU Pronouncing Dictionary via cmudict package",
+  "generalHeadwords": 3647,
+  "generalWithLexicalPronunciationCandidate": 3466,
+  "generalMissingLexicalPronunciation": 181,
+  "phrasalHeadwords": 1204,
+  "phrasalsWithEachComponentCandidate": 1201,
+  "sourcePronunciationReviewComplete": false,
+  "bundledHumanAudioCreated": 0,
+  "newApprovedTeachingCards": 0,
+  "remainingWordExamples": [
+    "anchorperson",
+    "antipollution",
+    "antistatic",
+    "armful",
+    "bad-tempered",
+    "bathhouse",
+    "burgle",
+    "carbon dioxide",
+    "carbon footprint",
+    "carbon monoxide",
+    "climate change",
+    "crossly",
+    "cyberaddict",
+    "cybercrime",
+    "cyberpet",
+    "cyberschool",
+    "de facto",
+    "debit card",
+    "determiner",
+    "environmentally friendly",
+    "exactness",
+    "examinee",
+    "exclamation mark",
+    "fed up",
+    "fire brigade"
+  ],
+  "sourceChecksum": "06f3bf139f1a39b53f1340ce0b4fd058ac7c1ef8e7a5b2a276e43ace57da9069",
+  "releaseReady": false
+}
+{
+  "targetVocabulary": 3500,
+  "targetUniquePhrasalVerbs": 600,
+  "generalSelected": 3500,
+  "phrasalSelected": 600,
+  "generalExistingAuthored": 1000,
+  "phrasalExistingAuthored": 500,
+  "generalSourceOnly": 2500,
+  "phrasalSourceOnly": 100,
+  "generalLevelCandidates": {
+    "B2": 2393,
+    "C1": 1107
+  },
+  "requestedC1Count": 1500,
+  "sourceLimitedC1Candidates": 1107,
+  "missingC1CandidateLevelsToReachMix": 393,
+  "newEditoriallyApprovedCards": 0,
+  "publicationAllowed": false,
+  "phrasalCEFRMissing": 100,
+  "orderingWarning": "Heuristic production review order; not measured spoken-US frequency.",
+  "semanticWarning": "The source-only entries are NOT lessons and cannot be used in flashcard or exam mode.",
+  "licensingWarning": "External phrasal headword source is CC BY-NC 4.0; no source glosses copied."
+}
+{
+  "sourceHeadwords": 1204,
+  "distinctSourceHeadwords": 1204,
+  "currentPhrasalLearningCards": 500,
+  "sourceOverlapsLearningCards": 424,
+  "newHeadwordCandidates": 780,
+  "candidatesWithB2C1VerifiedLevel": 0,
+  "newVerifiedTeachingCards": 0,
+  "releaseReady": false,
+  "sourceUrl": "https://github.com/tema4p/english-vocabulary/blob/main/content/phrasal-verbs/English_Phrasal_Verbs_in_Action_EN.txt",
+  "license": "CC BY-NC 4.0 (noncommercial use only)",
+  "sourceFormat": "prefix-delta, headwords only, no English/Turkish definitions",
+  "sourceSha256": "ff0ca79b8fb295f59c00fd6c7a086ac7484063e5d2d6c191fd9de3bac83bef5a",
+  "warning": "All source CEFR levels and senses unverified; this cannot satisfy the 500 independently approved focus phrasals release gate."
+}

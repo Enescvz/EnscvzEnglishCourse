@@ -1,0 +1,11 @@
+{
+  "testType": "real_local_http_chromium_offline_smoke",
+  "attempted": true,
+  "result": "BLOCKED_BY_ENVIRONMENT",
+  "error": "Page.goto: net::ERR_BLOCKED_BY_ADMINISTRATOR at local HTTP origin",
+  "localHttpAvailable": false,
+  "offlineVerified": false,
+  "realIphoneSafariTested": false,
+  "externalVOAMp3PlaybackVerified": false,
+  "note": "No offline success claimed. Test script retained for replay under normal localhost permissions."
+}

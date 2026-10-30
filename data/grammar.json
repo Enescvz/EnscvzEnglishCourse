@@ -1,0 +1,322 @@
+[
+  {
+    "id": "present-perfect-vs-past-simple",
+    "title": "Present perfect vs past simple",
+    "level": "B2",
+    "example": "I have lived here for six years. / I moved here in 2020.",
+    "explanation": "Use the present perfect for a situation continuing to now; use the past simple with a finished past time reference.",
+    "question": "I ___ in Boston since 2021.",
+    "answer": "have lived",
+    "options": [
+      "have lived",
+      "had lived",
+      "lived",
+      "am living"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "past-perfect",
+    "title": "Past perfect",
+    "level": "B2",
+    "example": "When I arrived, the meeting had already started.",
+    "explanation": "Use had + past participle for a past event preceding another past event.",
+    "question": "By the time we arrived, the show ___ .",
+    "answer": "had started",
+    "options": [
+      "starts",
+      "had started",
+      "will start",
+      "has started"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "mixed-conditionals",
+    "title": "Mixed conditionals",
+    "level": "C1",
+    "example": "If I had prepared earlier, I would feel calmer now.",
+    "explanation": "Past unreal condition + present hypothetical result.",
+    "question": "If she had saved the document, she ___ worried now.",
+    "answer": "would not be",
+    "options": [
+      "will not be",
+      "would not have been",
+      "would not be",
+      "is not"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "inversion-for-emphasis",
+    "title": "Inversion for emphasis",
+    "level": "C1",
+    "example": "Rarely have I seen such a thoughtful response.",
+    "explanation": "After a negative or restrictive fronted adverbial, invert auxiliary and subject in formal English.",
+    "question": "Never ___ a more convincing explanation.",
+    "answer": "have I heard",
+    "options": [
+      "I have heard",
+      "I heard",
+      "had I hears",
+      "have I heard"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "hedging-and-uncertainty",
+    "title": "Hedging and uncertainty",
+    "level": "C1",
+    "example": "The result appears to suggest a possible connection.",
+    "explanation": "Hedging language reduces unwarranted certainty in formal discussion.",
+    "question": "Choose the cautious form: These findings ___ a link.",
+    "answer": "may suggest",
+    "options": [
+      "may suggest",
+      "guarantee",
+      "prove beyond doubt",
+      "certainly demonstrate"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "reduced-relative-clauses",
+    "title": "Reduced relative clauses",
+    "level": "B2",
+    "example": "The documents submitted yesterday need review.",
+    "explanation": "A passive relative clause can sometimes be shortened to a past participle phrase.",
+    "question": "The report ___ last night contains corrections.",
+    "answer": "published",
+    "options": [
+      "that publishing",
+      "published",
+      "publishes",
+      "was publishing"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "cleft-sentences",
+    "title": "Cleft sentences",
+    "level": "C1",
+    "example": "What I need is a few more minutes.",
+    "explanation": "Cleft structures foreground an important part of the message.",
+    "question": "___ surprised me was her response.",
+    "answer": "What",
+    "options": [
+      "Which",
+      "That",
+      "What",
+      "When"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "modal-deductions",
+    "title": "Modal deductions",
+    "level": "B2",
+    "example": "She must have forgotten the meeting.",
+    "explanation": "Use modal + have + past participle for deductions about the past.",
+    "question": "He ___ missed the train; he arrived much later than planned.",
+    "answer": "might have",
+    "options": [
+      "might has",
+      "might to",
+      "might",
+      "might have"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "passive-reporting",
+    "title": "Passive reporting",
+    "level": "C1",
+    "example": "The painting is believed to date from the 1800s.",
+    "explanation": "Passive reporting allows cautious attribution without naming a speaker.",
+    "question": "The document ___ to be authentic.",
+    "answer": "is believed",
+    "options": [
+      "is believed",
+      "believe",
+      "is believing",
+      "believes"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "emphasis-with-do",
+    "title": "Emphasis with do",
+    "level": "B2",
+    "example": "I do appreciate your help.",
+    "explanation": "Use do/does/did before a base verb for emphasis.",
+    "question": "I ___ understand your concern.",
+    "answer": "do",
+    "options": [
+      "am",
+      "do",
+      "have",
+      "does"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "used-to-and-be-used-to",
+    "title": "Used to vs be used to",
+    "level": "B2",
+    "example": "I used to commute by train, but now I am used to driving.",
+    "explanation": "Used to + base verb describes a past habit that no longer applies. Be used to + noun or -ing means something feels familiar now.",
+    "question": "After six months, she is used to ___ early.",
+    "answer": "getting up",
+    "options": [
+      "getted up",
+      "get up",
+      "getting up",
+      "got up"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "should-have-vs-must-have",
+    "title": "Should have vs must have",
+    "level": "B2",
+    "example": "You should have called earlier. / She must have missed the train.",
+    "explanation": "Should have + past participle expresses criticism or regret about an earlier choice. Must have + past participle is a strong deduction about a past event.",
+    "question": "He is not answering. He ___ fallen asleep.",
+    "answer": "must have",
+    "options": [
+      "would",
+      "should have",
+      "must",
+      "must have"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "would-rather-and-prefer",
+    "title": "Would rather vs would prefer",
+    "level": "B2",
+    "example": "I would rather stay home, but I would prefer to leave early tomorrow.",
+    "explanation": "Would rather + bare infinitive; would prefer + to-infinitive. Both express preferences, with different structures.",
+    "question": "We would rather ___ before rush hour.",
+    "answer": "leave",
+    "options": [
+      "leave",
+      "left",
+      "to leave",
+      "leaving"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "despite-in-spite-of-although",
+    "title": "Despite vs although",
+    "level": "B2",
+    "example": "Despite the rain, we went out. / Although it was raining, we went out.",
+    "explanation": "Despite / in spite of is followed by a noun or -ing clause. Although is followed by a subject and finite verb.",
+    "question": "___ being exhausted, Maya finished the report.",
+    "answer": "Despite",
+    "options": [
+      "However",
+      "Despite",
+      "Although",
+      "Because"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "reported-questions",
+    "title": "Reported questions: word order",
+    "level": "B2",
+    "example": "She asked me where I lived. / He asked if I needed help.",
+    "explanation": "Reported questions use statement word order; yes/no questions usually take if or whether. Do not preserve the original question inversion.",
+    "question": "He asked me where I ___ .",
+    "answer": "worked",
+    "options": [
+      "working",
+      "did work",
+      "worked",
+      "do work"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "future-perfect",
+    "title": "Future perfect for deadlines",
+    "level": "B2",
+    "example": "By Friday, we will have finished the project.",
+    "explanation": "Use will have + past participle for an action expected to be complete before a specific future time.",
+    "question": "By the time you arrive, I ___ dinner.",
+    "answer": "will have cooked",
+    "options": [
+      "had cooked",
+      "will cook",
+      "have cooked",
+      "will have cooked"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "the-causative-have-get",
+    "title": "Causative have / get something done",
+    "level": "B2",
+    "example": "I had my phone repaired yesterday.",
+    "explanation": "Have/get + object + past participle describes arranging for another person to perform a service. The subject is not necessarily the person doing the work.",
+    "question": "We are getting the roof ___ next week.",
+    "answer": "repaired",
+    "options": [
+      "repaired",
+      "to repair",
+      "repair",
+      "repairing"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "inversion-hardly-when",
+    "title": "Hardly ... when: narrative inversion",
+    "level": "C1",
+    "example": "Hardly had we sat down when the fire alarm rang.",
+    "explanation": "When hardly appears at the start with a past-perfect sequence, invert the auxiliary and subject: Hardly had + subject + past participle + when.",
+    "question": "Hardly ___ the presentation when the lights went out.",
+    "answer": "had she begun",
+    "options": [
+      "did she began",
+      "had she begun",
+      "she had begun",
+      "has she begun"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "not-only-but-also-inversion",
+    "title": "Not only ... but also with inversion",
+    "level": "C1",
+    "example": "Not only did the hotel lose our booking, but it also charged us twice.",
+    "explanation": "When not only introduces a clause at the beginning, invert the auxiliary and subject in the first clause. Do not invert the second clause.",
+    "question": "Not only ___ the deadline, but he also forgot the attachment.",
+    "answer": "did he miss",
+    "options": [
+      "he did missed",
+      "he missed",
+      "did he miss",
+      "had he miss"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "wish-past-perfect-regret",
+    "title": "Wish + past perfect for regret",
+    "level": "C1",
+    "example": "I wish I had checked the address before leaving.",
+    "explanation": "Wish + had + past participle expresses regret about something that happened or failed to happen in the past. Wish + past simple instead expresses a present unreal situation.",
+    "question": "I wish we ___ the earlier flight yesterday.",
+    "answer": "had taken",
+    "options": [
+      "take",
+      "would take",
+      "have taking",
+      "had taken"
+    ],
+    "answerIndex": 3
+  }
+]

@@ -1,0 +1,252 @@
+[
+  {
+    "id": "tl26-response-01",
+    "kind": "response",
+    "title": "Asking for directions",
+    "script": "Student: Excuse me, is the campus library open on Sundays?",
+    "context": "Student asks about Sunday library hours.",
+    "questions": [
+      {
+        "question": "Which response is most appropriate?",
+        "options": [
+          "Yes, it opens at ten in the morning.",
+          "The librarian wrote a history book.",
+          "I study there yesterday.",
+          "My dorm is behind the hospital."
+        ],
+        "answer": 0,
+        "explanation": "A direct response answers the question about Sunday opening hours."
+      }
+    ],
+    "audioStatus": "no_verified_audio",
+    "practiceMode": "transcript_study_only",
+    "source": "original-authored"
+  },
+  {
+    "id": "tl26-response-02",
+    "kind": "response",
+    "title": "Rescheduling a meeting",
+    "script": "Student: Could we move our project meeting to Thursday afternoon?",
+    "context": "Student asks to change the day of a project meeting.",
+    "questions": [
+      {
+        "question": "Choose a natural reply.",
+        "options": [
+          "Thursday afternoon works for me.",
+          "The project is made of wood.",
+          "I am meet every day.",
+          "The classroom has three windows."
+        ],
+        "answer": 0,
+        "explanation": "The natural reply confirms availability for the proposed time."
+      }
+    ],
+    "audioStatus": "no_verified_audio",
+    "practiceMode": "transcript_study_only",
+    "source": "original-authored"
+  },
+  {
+    "id": "tl26-conversation-03",
+    "kind": "conversation",
+    "title": "Printing at the library",
+    "script": "Student: I need to print my assignment, but my account balance is zero. Staff: You can add credit at the kiosk near the entrance. Student: Is the kiosk available after six? Staff: Yes, but the main help desk closes at six.",
+    "context": "Two people discuss printing services.",
+    "questions": [
+      {
+        "question": "What problem does the student have?",
+        "options": [
+          "A missing assignment",
+          "No printing credit",
+          "A broken entrance",
+          "An overdue library book"
+        ],
+        "answer": 1,
+        "explanation": "The student explicitly says the printing account balance is zero."
+      },
+      {
+        "question": "What remains available after six?",
+        "options": [
+          "The help desk",
+          "The registrar",
+          "The credit kiosk",
+          "The computer repair office"
+        ],
+        "answer": 2,
+        "explanation": "The staff says the kiosk remains available after the desk closes."
+      }
+    ],
+    "audioStatus": "no_verified_audio",
+    "practiceMode": "transcript_study_only",
+    "source": "original-authored"
+  },
+  {
+    "id": "tl26-conversation-04",
+    "kind": "conversation",
+    "title": "Research poster deadline",
+    "script": "Student: I thought our poster was due Friday. Adviser: The deadline moved to Wednesday because printing takes two days. Student: Should we submit the final PDF through the course site? Adviser: Yes, and keep a copy for the department archive.",
+    "context": "A student discusses a revised deadline.",
+    "questions": [
+      {
+        "question": "Why did the deadline change?",
+        "options": [
+          "The class was canceled",
+          "Printing requires two days",
+          "The adviser is traveling",
+          "The poster competition ended"
+        ],
+        "answer": 1,
+        "explanation": "The adviser links the earlier deadline to printing time."
+      },
+      {
+        "question": "What should the student submit?",
+        "options": [
+          "A physical photo",
+          "A final PDF on the course site",
+          "A handwritten form",
+          "Only a link to the archive"
+        ],
+        "answer": 1,
+        "explanation": "The adviser confirms submitting a final PDF on the course site."
+      }
+    ],
+    "audioStatus": "no_verified_audio",
+    "practiceMode": "transcript_study_only",
+    "source": "original-authored"
+  },
+  {
+    "id": "tl26-announcement-05",
+    "kind": "announcement",
+    "title": "Safety drill notice",
+    "script": "Attention all students: The science building will hold a scheduled fire drill on Tuesday at 2 p.m. Please leave using the nearest marked exit and meet staff in the east courtyard. Do not use elevators during the drill. Classes will resume after the all-clear announcement.",
+    "context": "Campus safety announcement.",
+    "questions": [
+      {
+        "question": "Where should students meet?",
+        "options": [
+          "West parking deck",
+          "East courtyard",
+          "Campus theater",
+          "Science library basement"
+        ],
+        "answer": 1,
+        "explanation": "The announcement specifies the east courtyard."
+      },
+      {
+        "question": "What should students avoid?",
+        "options": [
+          "Marked exits",
+          "Staff instructions",
+          "Elevators",
+          "Outdoor meeting points"
+        ],
+        "answer": 2,
+        "explanation": "The instruction says not to use elevators."
+      }
+    ],
+    "audioStatus": "no_verified_audio",
+    "practiceMode": "transcript_study_only",
+    "source": "original-authored"
+  },
+  {
+    "id": "tl26-announcement-06",
+    "kind": "announcement",
+    "title": "Art exhibition opening",
+    "script": "Good afternoon. The student art exhibition opens at four on Friday in the central gallery. Visitors may enter free of charge. A short artist talk begins at five, and the gallery will close at seven. Photography is allowed, but please do not use flash.",
+    "context": "Gallery announcement.",
+    "questions": [
+      {
+        "question": "When does the artist talk begin?",
+        "options": [
+          "Four",
+          "Five",
+          "Six",
+          "Seven"
+        ],
+        "answer": 1,
+        "explanation": "The announcement says the artist talk starts at five, one hour after the exhibition opens."
+      },
+      {
+        "question": "What is the photography rule?",
+        "options": [
+          "No photos at all",
+          "Flash is required",
+          "Photos are permitted without flash",
+          "Photos only after closing"
+        ],
+        "answer": 2,
+        "explanation": "Photography is allowed but flash is prohibited."
+      }
+    ],
+    "audioStatus": "no_verified_audio",
+    "practiceMode": "transcript_study_only",
+    "source": "original-authored"
+  },
+  {
+    "id": "tl26-academic_talk-07",
+    "kind": "academic_talk",
+    "title": "How Pollinators Support Crops",
+    "script": "Many flowering plants rely on insects to move pollen between flowers. Bees are familiar pollinators, but butterflies, beetles, and flies also play important roles. Habitat loss can reduce the variety of pollinators in an area. Farmers sometimes plant strips of native flowers near fields to provide food and shelter. However, the impact of such strips depends on the surrounding landscape and the seasons when plants bloom. Researchers therefore measure pollinator visits over time rather than counting flowers only once.",
+    "context": "Original mini-lecture about ecological relationships.",
+    "questions": [
+      {
+        "question": "What is the central topic?",
+        "options": [
+          "How to calculate rainfall",
+          "The contribution of different insects to pollination",
+          "A new type of tractor",
+          "The history of one flower"
+        ],
+        "answer": 1,
+        "explanation": "The speaker explains pollinators and habitat strategies."
+      },
+      {
+        "question": "Why measure visits across time?",
+        "options": [
+          "To account for changes across seasons and conditions",
+          "To avoid seeing insects",
+          "To make all flowers identical",
+          "To replace all field observations"
+        ],
+        "answer": 0,
+        "explanation": "Visits vary, so repeated observations help assess effects."
+      }
+    ],
+    "audioStatus": "no_verified_audio",
+    "practiceMode": "transcript_study_only",
+    "source": "original-authored"
+  },
+  {
+    "id": "tl26-academic_talk-08",
+    "kind": "academic_talk",
+    "title": "The Limits of Historical Maps",
+    "script": "A historical map tells us something about how people understood a place at the time it was drawn. Yet maps can omit areas their makers knew little about, and boundaries may reflect political claims rather than verified measurements. Historians compare maps with travel notes, census records, and archaeological evidence to identify these limitations. A discrepancy does not always mean the mapmaker made a mistake; sometimes different sources used different names or purposes.",
+    "context": "Original mini-lecture about evaluating sources.",
+    "questions": [
+      {
+        "question": "Why might boundaries on a map be unreliable?",
+        "options": [
+          "They always reflect modern borders",
+          "They can represent political claims",
+          "They never include names",
+          "All old maps were made from photographs"
+        ],
+        "answer": 1,
+        "explanation": "Some boundaries represent claims rather than verified measurements."
+      },
+      {
+        "question": "How do historians check the map?",
+        "options": [
+          "By consulting other sources",
+          "By ignoring all written records",
+          "By choosing the brightest colors",
+          "By assuming one map is perfect"
+        ],
+        "answer": 0,
+        "explanation": "The speaker recommends comparing travel notes, census records, and archaeological evidence."
+      }
+    ],
+    "audioStatus": "no_verified_audio",
+    "practiceMode": "transcript_study_only",
+    "source": "original-authored"
+  }
+]

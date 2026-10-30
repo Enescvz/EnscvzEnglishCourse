@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-29",
+  "mode": "virtual file-routed Chromium, mocked localStorage; not genuine HTTP browser E2E",
+  "desktop": "passed",
+  "mobileViewport": "passed",
+  "covered": ["TOEFL Reading 50-question start", "v2 answer order session persistence", "Reading resume after exit", "Reading submit", "Writing draft local save", "Writing pause/resume", "Writing /10 result denominator"],
+  "physicalIphoneSafari": "not_tested",
+  "webkitAutomation": "unavailable_browser_binary",
+  "realHttpChromium": "blocked_by_administrator",
+  "realHttpOffline": "not_verified",
+  "releaseApproval": false
+}

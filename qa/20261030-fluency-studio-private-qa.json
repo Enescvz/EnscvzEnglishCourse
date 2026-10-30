@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-30",
+  "type": "PRIVATE_DEVELOPMENT",
+  "publication_ready": false,
+  "features": {
+    "tabs": 8,
+    "voa_transcript_sources": 30,
+    "voa_linked_online_audio_urls_unverified": 29,
+    "voa_comprehension_questions": 124,
+    "dictation_candidates_without_timestamps": 120,
+    "scenarios": 12,
+    "scenario_decisions": 36,
+    "thinking_prompts": 24,
+    "writing_prompts": 12
+  },
+  "tests": {
+    "node": {
+      "passed": 128,
+      "failed": 0
+    },
+    "python": {
+      "passed": 200,
+      "failed": 0
+    },
+    "desktop_simulated_chromium": "PASS",
+    "mobile_390px_simulated_chromium": "PASS",
+    "physical_safari": "NOT_TESTED",
+    "actual_external_audio_playback": "NOT_VERIFIED",
+    "combined_browser_runner": "INTERMITTENT_HANG"
+  },
+  "release": {
+    "blocked": true,
+    "blocked_criteria": 14,
+    "passed_criteria": 11
+  },
+  "speaking_changed": false,
+  "bundled_synthetic_mp3": 0,
+  "approved_human_mp3": 0,
+  "known_limitations": [
+    "VOA audio streaming requires internet and needs manual verification",
+    "Dictation targets lack separate timestamps",
+    "Writing produces heuristic counts not semantic grading",
+    "Human editorial and retention studies outstanding"
+  ]
+}

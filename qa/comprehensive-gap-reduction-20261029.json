@@ -1,0 +1,82 @@
+{
+  "snapshotDate": "2026-10-29",
+  "developmentOnly": true,
+  "releaseApproved": false,
+  "publishGate": "LOCKED",
+  "originalPrivateSourcePreserved": true,
+  "speakingModified": false,
+  "userCardIDsDeleted": 0,
+  "oldVOAQuestionAnswersChanged": 0,
+  "voa": {
+    "sources": 50,
+    "inAppCompleteConversationTranscripts": 21,
+    "publisherLinkedOnly": 29,
+    "sourceEvidenceQuestions": 204,
+    "sourceEvidenceTranscriptTurns": 88,
+    "stageDirectionEvidenceNotAudio": 2,
+    "publisherExcerptEvidence": 116,
+    "licensedBundledHumanAudio": 0,
+    "actualRemotePlaybackValidated": false
+  },
+  "toefl": {
+    "readingOriginalTasks": 12,
+    "readingOriginalQuestions": 34,
+    "mini9Question12Minute": true,
+    "diagnostic34Question30Minute": true,
+    "diagnosticPagesOfFive": true,
+    "unfinishedReadingResumes": true,
+    "ETSCalibratedAdaptivity": false,
+    "ETSOfficialScore": null,
+    "writingOriginalTasks": 18,
+    "writingObservationalRevisionSuggestions": true,
+    "writingGrammarAndSemanticsAutoScored": false,
+    "textOnlyListeningScenarios": 8,
+    "textOnlyListeningCountAsListening": false,
+    "coreWords": 400,
+    "corePhrasals": 75,
+    "sourceItemEnglishDefinitionAvailable": 475,
+    "USFrequencyMeasured": false,
+    "independentEditorialApproval": 0
+  },
+  "qa": {
+    "javascriptTestsPassed": 68,
+    "pythonTestsPassed": 162,
+    "totalTestsPassed": 230,
+    "virtualDesktopChromium": "passed",
+    "virtualMobileChromium": "passed",
+    "serviceWorkerOfflineMock": "passed",
+    "localhostRealHTTPChromiumOffline": "blocked_by_administrator",
+    "physicalIPhoneSafari": "not_tested",
+    "publishedVOAAudioPlayback": "not_tested",
+    "audioTimingAndTranscriptMatching": "not_tested",
+    "syntheticMP3NotApproved": 42,
+    "lastChromiumRepeatAfterStatusUpdate": "timeout_no_exit_status",
+    "lastPreviouslyCompletedChromiumSmoke": "desktop_and_mobile_passed_before_documentation_and_cache_key_update"
+  },
+  "remainingMandatory": [
+    "29 publisher conversation transcripts to integrate with independent source review",
+    "Human audio playback and time alignment on a real phone",
+    "Actual real-origin offline iPhone Safari QA",
+    "US-English lexical corpus review and independent language editor",
+    "Real spoken TOEFL-style audio",
+    "Validated Writing evaluation and human grading",
+    "Actual multi-stage four-skill TOEFL-style item bank and calibrated results cannot be inferred from original 34 questions",
+    "Licence review per item and third-party exclusion confirmation"
+  ],
+  "sources": {
+    "ETS2026": "https://www.ets.org/toefl/test-takers/ibt/about/content.html?version=after-jan-2026",
+    "VOAUsage": "https://learningenglish.voanews.com/p/6861.html",
+    "VOA20": "https://learningenglish.voanews.com/a/lets-learn-english-level-2-lesson-20/4254704.html",
+    "VOA21": "https://learningenglish.voanews.com/a/lets-learn-english-level-2-lesson-21/4273059.html"
+  },
+  "artifacts": [
+    "docs/20261029_COMPREHENSIVE_GAP_REDUCTION_PRIVATE.md",
+    "qa/voa-source-coverage.json",
+    "qa/toefl-core-editorial-audit.json",
+    "qa/toefl-475-independent-review-queue.csv",
+    "qa/private-integrity-20261029-comprehensive.json"
+  ],
+  "noGoogleDrive": true,
+  "noGithubUpload": true,
+  "noReleaseZip": true
+}

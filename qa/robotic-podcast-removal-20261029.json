@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-29",
+  "change": "All 18 robotically voiced archived podcast episodes and 24 synthetic mini-drills disabled; 42 eSpeak MP3 bytes omitted from build",
+  "before": {
+    "roboticMP3Files": 42,
+    "archivedPodcastRecords": 18,
+    "archivedDrillRecords": 24
+  },
+  "after": {
+    "bundledRobotMP3Files": 0,
+    "activeRobotPodcastPlayers": 0,
+    "activeRobotDrillPlayers": 0,
+    "archivedEpisodeRecords": 18,
+    "archivedDrillRecords": 24,
+    "bundledLicensedHumanMP3Files": 0
+  },
+  "contentHashesPreserved": {
+    "data/vocabulary.json": true,
+    "data/phrasals.json": true,
+    "data/daily-expressions.json": true,
+    "data/episodes.json": true,
+    "data/drills.json": true,
+    "data/audio-provenance.json": true,
+    "data/authentic-listening.json": true,
+    "data/voa-source-catalog.json": true,
+    "data/voa-source-quizzes.json": true,
+    "data/toefl-core.json": true,
+    "data/toefl-reading-practice.json": true,
+    "data/toefl-writing-practice.json": true,
+    "data/toefl-listening-practice.json": true,
+    "js/memory.js": true
+  },
+  "speakingFunctionAndMicrophoneHandlerUnchanged": true,
+  "legacyProgressPreservedAtCodeLevel": true,
+  "serviceWorker": "new cache version, no legacy audio precache; old AEL caches deleted upon activation (requires update/reload)",
+  "VOA": {
+    "publisherSources": 50,
+    "integratedTranscripts": 30,
+    "publisherLinked": 20,
+    "quizzes": 204,
+    "playbackOnPhysicalIphoneVerified": false
+  },
+  "tests": {
+    "node": 107,
+    "python": 190,
+    "result": "PASS",
+    "browserPhysicalIphone": "NOT_TESTED",
+    "browserTargetedVirtual": "BLOCKED_BY_ENVIRONMENT"
+  },
+  "releaseGate": "LOCKED",
+  "editorialHumanAudioApproval": "NOT_COMPLETED",
+  "note": "Archived lesson scripts, provenance and user progress schema retained. No claim of newly verified human recordings."
+}

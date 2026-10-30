@@ -1,0 +1,15 @@
+{
+  "uniqueCandidates": 4851,
+  "byType": {
+    "phrasal": 1204,
+    "vocabulary": 3647
+  },
+  "reviewFlagCounts": {
+    "NO_SOURCE_CEFR_LEVEL": 1204,
+    "OVERLAPS_EXISTING_LESSON": 240,
+    "US_USAGE_NOT_VERIFIED": 1204,
+    "US_PRONUNCIATION_NOT_VERIFIED": 3647
+  },
+  "approvedForRelease": 0,
+  "note": "Review queue only; no candidate automatically promoted to a validated lesson."
+}

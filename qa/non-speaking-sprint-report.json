@@ -1,0 +1,46 @@
+{
+  "date": "2026-10-28",
+  "scope": "All non-speaking deficits, incremental hardening; not a release",
+  "completed": {
+    "VOA_50_question_sets": 50,
+    "VOA_publisher_linked_quizzes": 46,
+    "VOA_in_app_transcript_quizzes": 4,
+    "VOA_comprehension_questions": 204,
+    "new_original_source_grounded_VOA_questions": 120,
+    "readings_total": 30,
+    "new_original_readings": 22,
+    "new_reading_questions": 110,
+    "grammar_total": 20,
+    "new_grammar_items": 10,
+    "legacy_reading_distractors_improved": 16,
+    "legacy_theme_questions_personalized": 8,
+    "grammar_correct_options_randomized": 20,
+    "source_linked_audio_playback_flag": "unverified, never inferred from opening a publisher link",
+    "natural_human_source_content": "publisher hosted only; not bundled"
+  },
+  "testing": {
+    "node_tests_passed": 49,
+    "python_tests_passed": 103,
+    "total_automated_passed": 152,
+    "chromium_virtual_origin_desktop": "passed - feature-specific VOA/Reading/Grammar/quiz smoke",
+    "chromium_virtual_origin_mobile": "passed - feature-specific VOA/Reading/Grammar/quiz smoke",
+    "full_long_chromium_suite": "not passed, timed out / outdated rapid-C1 expectation",
+    "real_iPhone_WebKit": "not tested",
+    "remote_VOA_audio_playback": "not tested",
+    "release_gate_passed": 11,
+    "release_gate_total": 21,
+    "release_allowed": false
+  },
+  "remaining_blockers": [
+    "46 publisher-only transcripts and remote audio are not imported into app",
+    "zero verified/bundled natural human recordings",
+    "only 18 low-naturalness synthetic mini podcasts and 24 synthetic micro-drills; quality replacement required",
+    "US spoken-frequency verification of 1,000 word and 500 phrasal shortlist incomplete",
+    "independent B2/C1 sense/examples editorial approval incomplete",
+    "finance card/editorial approval incomplete",
+    "remote audio license-by-asset and playback/device verification incomplete",
+    "end-to-end desktop browser + real iPhone Safari, offline cache and audio seek tests incomplete",
+    "release gate retains older 50 original podcast and 60 drill quotas; redesign criteria after real human audio validation, do not weaken safety"
+  ],
+  "third_party_source": "VOA Learning English: publisher Conversation transcripts; source links and attribution in catalog. New questions authored in project."
+}

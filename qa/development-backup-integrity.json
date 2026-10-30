@@ -1,0 +1,25 @@
+{
+  "sourceBackup": "AEL_PRIVATE_DEV_BACKUP_20261028_VOA10_QA_DO_NOT_DEPLOY.zip",
+  "sourceArchiveSHA256": "9ebad284e8de25610fa8c087fcb395659cdf58cf0aadb60eb875d7059dbb57a6",
+  "protectedContentUnchanged": [
+    "js/app.js",
+    "data/vocabulary.json",
+    "data/phrasals.json",
+    "data/episodes.json",
+    "data/drills.json"
+  ],
+  "allOriginalLessonIdsAndQuestionTextsPreserved": true,
+  "voaPublishedConversationLessons": 12,
+  "publisherLinkedLessons": 38,
+  "voaQuizQuestions": 204,
+  "turnEvidenceQuestions": 52,
+  "nodeTestsPassed": 49,
+  "pythonTestsPassed": 121,
+  "chromeDesktopMobileAssertionsPassed": true,
+  "chromeRunnerCleanExit": false,
+  "physicalIphoneAudioVerified": false,
+  "offlineExternalVoiceAudioVerified": false,
+  "releaseReady": false,
+  "speakingModified": false,
+  "sourceRightsUrl": "https://learningenglish.voanews.com/p/6861.html"
+}

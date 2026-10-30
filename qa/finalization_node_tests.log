@@ -1,0 +1,842 @@
+
+> american-english-lab@1.0.0 test
+> node --test tests/*.test.mjs
+
+TAP version 13
+# Subtest: complete source inventory, no invented phrasal CEFR
+ok 1 - complete source inventory, no invented phrasal CEFR
+  ---
+  duration_ms: 3.77481
+  type: 'test'
+  ...
+# Subtest: catalog filters and pagination do not mutate original corpus
+ok 2 - catalog filters and pagination do not mutate original corpus
+  ---
+  duration_ms: 1.563466
+  type: 'test'
+  ...
+# Subtest: startup requests only the minimal data pack, not every lesson
+ok 3 - startup requests only the minimal data pack, not every lesson
+  ---
+  duration_ms: 1.082101
+  type: 'test'
+  ...
+# Subtest: overlapping pages reuse the same in-flight request and preserve original objects
+ok 4 - overlapping pages reuse the same in-flight request and preserve original objects
+  ---
+  duration_ms: 12.147379
+  type: 'test'
+  ...
+# Subtest: failed optional data is never cached and can be retried without losing good data
+ok 5 - failed optional data is never cached and can be retried without losing good data
+  ---
+  duration_ms: 1.408733
+  type: 'test'
+  ...
+# Subtest: every navigation view has a defined data dependency list
+ok 6 - every navigation view has a defined data dependency list
+  ---
+  duration_ms: 0.47721
+  type: 'test'
+  ...
+# Subtest: B1/B2/C1 everyday expressions: exact 150/210/140 unique stable lesson IDs
+ok 7 - B1/B2/C1 everyday expressions: exact 150/210/140 unique stable lesson IDs
+  ---
+  duration_ms: 3.548639
+  type: 'test'
+  ...
+# Subtest: all daily chunks have natural-context teaching fields and no licensed-audio claims
+ok 8 - all daily chunks have natural-context teaching fields and no licensed-audio claims
+  ---
+  duration_ms: 4.386212
+  type: 'test'
+  ...
+# Subtest: expressions join memory studio but FSRS progress never pollutes old word or phrasal IDs
+ok 9 - expressions join memory studio but FSRS progress never pollutes old word or phrasal IDs
+  ---
+  duration_ms: 3.765145
+  type: 'test'
+  ...
+# Subtest: legacy backups merge without wiping new daily-expression review progress
+ok 10 - legacy backups merge without wiping new daily-expression review progress
+  ---
+  duration_ms: 0.58408
+  type: 'test'
+  ...
+# Subtest: data is offline pre-cached and UI includes a distinct daily expressions entrypoint
+ok 11 - data is offline pre-cached and UI includes a distinct daily expressions entrypoint
+  ---
+  duration_ms: 0.732124
+  type: 'test'
+  ...
+# Subtest: independent review and human audio are not misrepresented as completed
+ok 12 - independent review and human audio are not misrepresented as completed
+  ---
+  duration_ms: 0.156446
+  type: 'test'
+  ...
+# Subtest: 200 additions are 80 transitions, 70 collocations, 50 sentence starters; legacy is preserved
+ok 13 - 200 additions are 80 transitions, 70 collocations, 50 sentence starters; legacy is preserved
+  ---
+  duration_ms: 0.618692
+  type: 'test'
+  ...
+# Subtest: TOEFL + Daily is a curriculum tag, not a second FSRS identity
+ok 14 - TOEFL + Daily is a curriculum tag, not a second FSRS identity
+  ---
+  duration_ms: 3.079812
+  type: 'test'
+  ...
+# Subtest: vocabulary IDs unique; B2/C1 or explicitly specialist
+ok 15 - vocabulary IDs unique; B2/C1 or explicitly specialist
+  ---
+  duration_ms: 1.753362
+  type: 'test'
+  ...
+# Subtest: phrasals unique, sensible syntax and examples
+ok 16 - phrasals unique, sensible syntax and examples
+  ---
+  duration_ms: 3.137138
+  type: 'test'
+  ...
+# Subtest: robotic podcast/drill metadata remains but MP3s are quarantined; scripts and quizzes remain consistent
+ok 17 - robotic podcast/drill metadata remains but MP3s are quarantined; scripts and quizzes remain consistent
+  ---
+  duration_ms: 0.604381
+  type: 'test'
+  ...
+# Subtest: reading & grammar keys valid
+ok 18 - reading & grammar keys valid
+  ---
+  duration_ms: 0.293052
+  type: 'test'
+  ...
+# Subtest: normalization and word-level dictation
+ok 19 - normalization and word-level dictation
+  ---
+  duration_ms: 0.817062
+  type: 'test'
+  ...
+# Subtest: spaced review punishes lapses and awards cross-modality mastery
+ok 20 - spaced review punishes lapses and awards cross-modality mastery
+  ---
+  duration_ms: 1.14786
+  type: 'test'
+  ...
+# Subtest: recall-only practice does not grant production mastery
+ok 21 - recall-only practice does not grant production mastery
+  ---
+  duration_ms: 0.229636
+  type: 'test'
+  ...
+# Subtest: due queue and adaptive day plan
+ok 22 - due queue and adaptive day plan
+  ---
+  duration_ms: 0.357639
+  type: 'test'
+  ...
+# Subtest: exam never leaks answer position, has 25 unique questions and 4 distinct choices
+ok 23 - exam never leaks answer position, has 25 unique questions and 4 distinct choices
+  ---
+  duration_ms: 1153.991565
+  type: 'test'
+  ...
+# Subtest: phrasal English explanations are not gloss templates; unique senses are taught in context
+ok 24 - phrasal English explanations are not gloss templates; unique senses are taught in context
+  ---
+  duration_ms: 0.664081
+  type: 'test'
+  ...
+# Subtest: listening diagnosis separates observable misses from unsupported assumptions
+ok 25 - listening diagnosis separates observable misses from unsupported assumptions
+  ---
+  duration_ms: 0.59654
+  type: 'test'
+  ...
+# Subtest: multi-sense phrasal uses become distinct exam questions with context
+ok 26 - multi-sense phrasal uses become distinct exam questions with context
+  ---
+  duration_ms: 1147.544011
+  type: 'test'
+  ...
+# Subtest: daily missions prioritise due and then unseen; listening chooses an unfinished drill
+ok 27 - daily missions prioritise due and then unseen; listening chooses an unfinished drill
+  ---
+  duration_ms: 0.513043
+  type: 'test'
+  ...
+# Subtest: all learning cards have a visible original US-English example and consistent examples schema
+ok 28 - all learning cards have a visible original US-English example and consistent examples schema
+  ---
+  duration_ms: 3.091881
+  type: 'test'
+  ...
+# Subtest: multiple examples cover independent contexts without repeated primary sentences
+ok 29 - multiple examples cover independent contexts without repeated primary sentences
+  ---
+  duration_ms: 0.712394
+  type: 'test'
+  ...
+# Subtest: new 50-question TOEFL practice balances answer positions without changing correct meanings, IDs or base items
+ok 30 - new 50-question TOEFL practice balances answer positions without changing correct meanings, IDs or base items
+  ---
+  duration_ms: 3.603361
+  type: 'test'
+  ...
+# Subtest: nine-question practice is balanced and old unpermuted answers remain supported
+ok 31 - nine-question practice is balanced and old unpermuted answers remain supported
+  ---
+  duration_ms: 1.359108
+  type: 'test'
+  ...
+# Subtest: new Writing result denominator uses actual sentence task total, not legacy eight
+ok 32 - new Writing result denominator uses actual sentence task total, not legacy eight
+  ---
+  duration_ms: 0.306592
+  type: 'test'
+  ...
+# Subtest: 12 original branching scenarios, 36 decisions, 24 thinking, 12 writing with stable noncolliding IDs
+ok 33 - 12 original branching scenarios, 36 decisions, 24 thinking, 12 writing with stable noncolliding IDs
+  ---
+  duration_ms: 2.017831
+  type: 'test'
+  ...
+# Subtest: 30 genuine-source references reused; transcripts not mislabeled as independently audio checked
+ok 34 - 30 genuine-source references reused; transcripts not mislabeled as independently audio checked
+  ---
+  duration_ms: 3.897014
+  type: 'test'
+  ...
+# Subtest: dikte edit distance handles missing words, punctuation, insertions and zero input
+ok 35 - dikte edit distance handles missing words, punctuation, insertions and zero input
+  ---
+  duration_ms: 0.436928
+  type: 'test'
+  ...
+# Subtest: writing coach only exposes countable surface metrics; no fabricated essay score
+ok 36 - writing coach only exposes countable surface metrics; no fabricated essay score
+  ---
+  duration_ms: 0.793506
+  type: 'test'
+  ...
+# Subtest: storage failure never commits fluency review or writing draft; old vocab remains intact
+ok 37 - storage failure never commits fluency review or writing draft; old vocab remains intact
+  ---
+  duration_ms: 0.960287
+  type: 'test'
+  ...
+# Subtest: no listening credit without explicit self-report; durable review and draft merge into backup
+ok 38 - no listening credit without explicit self-report; durable review and draft merge into backup
+  ---
+  duration_ms: 1.135822
+  type: 'test'
+  ...
+# Subtest: error analytics and adaptive minutes are based only on observed answers
+ok 39 - error analytics and adaptive minutes are based only on observed answers
+  ---
+  duration_ms: 0.59662
+  type: 'test'
+  ...
+# Subtest: FSRS-5 defaults and 90-percent forgetting curve are grounded
+ok 40 - FSRS-5 defaults and 90-percent forgetting curve are grounded
+  ---
+  duration_ms: 1.852702
+  type: 'test'
+  ...
+# Subtest: initial grades match FSRS-5 initial stability weights
+ok 41 - initial grades match FSRS-5 initial stability weights
+  ---
+  duration_ms: 1.18117
+  type: 'test'
+  ...
+# Subtest: FSRS honors difficulty, memory decay, and performance
+ok 42 - FSRS honors difficulty, memory decay, and performance
+  ---
+  duration_ms: 0.505903
+  type: 'test'
+  ...
+# Subtest: legacy adaptive records migrate without dropping review history
+ok 43 - legacy adaptive records migrate without dropping review history
+  ---
+  duration_ms: 0.248715
+  type: 'test'
+  ...
+# Subtest: same-day successful reviews never lose stability, failed reviews reset modality mastery
+ok 44 - same-day successful reviews never lose stability, failed reviews reset modality mastery
+  ---
+  duration_ms: 0.687106
+  type: 'test'
+  ...
+# Subtest: invalid grade, retention and stability are rejected
+ok 45 - invalid grade, retention and stability are rejected
+  ---
+  duration_ms: 0.434716
+  type: 'test'
+  ...
+# Subtest: VOA audio state never labels loading or metadata as validated Listening
+ok 46 - VOA audio state never labels loading or metadata as validated Listening
+  ---
+  duration_ms: 1.049291
+  type: 'test'
+  ...
+# Subtest: VOA player attaches diagnostics without auto-play or modifying learning progress
+ok 47 - VOA player attaches diagnostics without auto-play or modifying learning progress
+  ---
+  duration_ms: 0.463309
+  type: 'test'
+  ...
+# Subtest: only real contextual cards enter memory coaching; candidate labels never count
+ok 48 - only real contextual cards enter memory coaching; candidate labels never count
+  ---
+  duration_ms: 1.749797
+  type: 'test'
+  ...
+# Subtest: due cards first, then unseen, not-yet-due after; scoped C1 filters
+ok 49 - due cards first, then unseen, not-yet-due after; scoped C1 filters
+  ---
+  duration_ms: 0.296236
+  type: 'test'
+  ...
+# Subtest: exact typed recall is checked; punctuation normalized but wrong phrases rejected
+ok 50 - exact typed recall is checked; punctuation normalized but wrong phrases rejected
+  ---
+  duration_ms: 0.37203
+  type: 'test'
+  ...
+# Subtest: a correct listening with incorrect recall never advances mastery
+ok 51 - a correct listening with incorrect recall never advances mastery
+  ---
+  duration_ms: 0.142404
+  type: 'test'
+  ...
+# Subtest: one FSRS review, self-reported production distinct from verified modes
+ok 52 - one FSRS review, self-reported production distinct from verified modes
+  ---
+  duration_ms: 0.427384
+  type: 'test'
+  ...
+# Subtest: meaning-in-context options are distinct, stable, and no fixed answer position
+ok 53 - meaning-in-context options are distinct, stable, and no fixed answer position
+  ---
+  duration_ms: 0.431711
+  type: 'test'
+  ...
+# Subtest: five-stage progress has clear active step without prematurely marking it completed
+ok 54 - five-stage progress has clear active step without prematurely marking it completed
+  ---
+  duration_ms: 0.193992
+  type: 'test'
+  ...
+# Subtest: future cards cannot be moved forward by empty session capacity
+ok 55 - future cards cannot be moved forward by empty session capacity
+  ---
+  duration_ms: 0.227443
+  type: 'test'
+  ...
+# Subtest: synthetic audio is optional, does not count as verified human listening
+ok 56 - synthetic audio is optional, does not count as verified human listening
+  ---
+  duration_ms: 0.374565
+  type: 'test'
+  ...
+# Subtest: self-reported production cannot change memory grade or verified mastery
+ok 57 - self-reported production cannot change memory grade or verified mastery
+  ---
+  duration_ms: 0.29815
+  type: 'test'
+  ...
+# Subtest: TOEFL academic cards join the same FSRS bank without duplicate card identities
+ok 58 - TOEFL academic cards join the same FSRS bank without duplicate card identities
+  ---
+  duration_ms: 0.455337
+  type: 'test'
+  ...
+# Subtest: old records without due time remain recoverable in review queue
+ok 59 - old records without due time remain recoverable in review queue
+  ---
+  duration_ms: 1.054159
+  type: 'test'
+  ...
+# Subtest: full shipped TOEFL set is eligible for science-based reviews with no ID duplication
+ok 60 - full shipped TOEFL set is eligible for science-based reviews with no ID duplication
+  ---
+  duration_ms: 13.68712
+  type: 'test'
+  ...
+# Subtest: airplane mode without reload or cache cannot pass
+ok 61 - airplane mode without reload or cache cannot pass
+  ---
+  duration_ms: 1.056683
+  type: 'test'
+  ...
+# Subtest: self-report never claims independent physical iPhone QA
+ok 62 - self-report never claims independent physical iPhone QA
+  ---
+  duration_ms: 0.203657
+  type: 'test'
+  ...
+# Subtest: first-time user starts with version 1 without recovery lock
+ok 63 - first-time user starts with version 1 without recovery lock
+  ---
+  duration_ms: 2.486248
+  type: 'test'
+  ...
+# Subtest: old progress keeps card IDs, all existing history and defaults missing keys
+ok 64 - old progress keeps card IDs, all existing history and defaults missing keys
+  ---
+  duration_ms: 0.470139
+  type: 'test'
+  ...
+# Subtest: unparseable progress is protected rather than silently erased
+ok 65 - unparseable progress is protected rather than silently erased
+  ---
+  duration_ms: 0.806926
+  type: 'test'
+  ...
+# Subtest: future unknown progress version is protected, not migrated destructively
+ok 66 - future unknown progress version is protected, not migrated destructively
+  ---
+  duration_ms: 0.215255
+  type: 'test'
+  ...
+# Subtest: malformed nested collections are protected, not normalized to empty maps
+ok 67 - malformed nested collections are protected, not normalized to empty maps
+  ---
+  duration_ms: 0.485572
+  type: 'test'
+  ...
+# Subtest: prototype injection fields cannot be loaded into progress maps
+ok 68 - prototype injection fields cannot be loaded into progress maps
+  ---
+  duration_ms: 0.279761
+  type: 'test'
+  ...
+# Subtest: older backup does not roll back FSRS or erase current card IDs
+ok 69 - older backup does not roll back FSRS or erase current card IDs
+  ---
+  duration_ms: 1.282884
+  type: 'test'
+  ...
+# Subtest: newer card state imports without deleting other progress
+ok 70 - newer card state imports without deleting other progress
+  ---
+  duration_ms: 0.356297
+  type: 'test'
+  ...
+# Subtest: re-import is idempotent, but existing identical valid history records are preserved
+ok 71 - re-import is idempotent, but existing identical valid history records are preserved
+  ---
+  duration_ms: 0.405131
+  type: 'test'
+  ...
+# Subtest: strict shape validation rejects malformed and prototype-polluting backups
+ok 72 - strict shape validation rejects malformed and prototype-polluting backups
+  ---
+  duration_ms: 0.430298
+  type: 'test'
+  ...
+# Subtest: active writing and reading attempts preserve later session and its answers
+ok 73 - active writing and reading attempts preserve later session and its answers
+  ---
+  duration_ms: 0.260702
+  type: 'test'
+  ...
+# Subtest: rapid deck excludes overlaps with full general lessons and duplicate headwords
+ok 74 - rapid deck excludes overlaps with full general lessons and duplicate headwords
+  ---
+  duration_ms: 1.076102
+  type: 'test'
+  ...
+# Subtest: rapid filters Turkish as well as English, without altering input
+ok 75 - rapid filters Turkish as well as English, without altering input
+  ---
+  duration_ms: 0.426963
+  type: 'test'
+  ...
+# Subtest: a correct rapid recognition schedules review but never claims mastery
+ok 76 - a correct rapid recognition schedules review but never claims mastery
+  ---
+  duration_ms: 0.251569
+  type: 'test'
+  ...
+# Subtest: unknown answer returns in ten minutes and resets streak
+ok 77 - unknown answer returns in ten minutes and resets streak
+  ---
+  duration_ms: 0.111869
+  type: 'test'
+  ...
+# Subtest: due filter excludes unseen cards and retrieves the due card
+ok 78 - due filter excludes unseen cards and retrieves the due card
+  ---
+  duration_ms: 0.21232
+  type: 'test'
+  ...
+# Subtest: empty result clamps page and handles no card
+ok 79 - empty result clamps page and handles no card
+  ---
+  duration_ms: 0.117857
+  type: 'test'
+  ...
+# Subtest: 7-day and 30-day windows count only real followups, no invented success
+ok 80 - 7-day and 30-day windows count only real followups, no invented success
+  ---
+  duration_ms: 1.692771
+  type: 'test'
+  ...
+# Subtest: missing follow-up never becomes success
+ok 81 - missing follow-up never becomes success
+  ---
+  duration_ms: 0.234474
+  type: 'test'
+  ...
+# Subtest: invalid future or malformed review skipped
+ok 82 - invalid future or malformed review skipped
+  ---
+  duration_ms: 0.231429
+  type: 'test'
+  ...
+# Subtest: two human reviews never yield an official TOEFL score
+ok 83 - two human reviews never yield an official TOEFL score
+  ---
+  duration_ms: 0.456168
+  type: 'test'
+  ...
+# Subtest: robotic podcast assets absent, VOAs unaffected, and UI has no synthetic player entries
+ok 84 - robotic podcast assets absent, VOAs unaffected, and UI has no synthetic player entries
+  ---
+  duration_ms: 2.533178
+  type: 'test'
+  ...
+# Subtest: 340 original tasks, unique IDs, expected four skills, accurate metadata
+ok 85 - 340 original tasks, unique IDs, expected four skills, accurate metadata
+  ---
+  duration_ms: 1.972683
+  type: 'test'
+  ...
+# Subtest: every order card uses valid, unmodified tokens and accepts punctuation variants
+ok 86 - every order card uses valid, unmodified tokens and accepts punctuation variants
+  ---
+  duration_ms: 2.838168
+  type: 'test'
+  ...
+# Subtest: all 136 cloze tasks get nonempty, hidden expected chunks
+ok 87 - all 136 cloze tasks get nonempty, hidden expected chunks
+  ---
+  duration_ms: 12.093998
+  type: 'test'
+  ...
+# Subtest: nonmatches and free prose are not automatically declared ungrammatical
+ok 88 - nonmatches and free prose are not automatically declared ungrammatical
+  ---
+  duration_ms: 0.211639
+  type: 'test'
+  ...
+# Subtest: wrong auto match cannot be recorded as correct without explicitly switching to self-assessment
+ok 89 - wrong auto match cannot be recorded as correct without explicitly switching to self-assessment
+  ---
+  duration_ms: 0.893758
+  type: 'test'
+  ...
+# Subtest: failure to write storage never mutates original progress
+ok 90 - failure to write storage never mutates original progress
+  ---
+  duration_ms: 0.265119
+  type: 'test'
+  ...
+# Subtest: successful durable review schedules next check, exports and merges without destroying old card IDs
+ok 91 - successful durable review schedules next check, exports and merges without destroying old card IDs
+  ---
+  duration_ms: 1.324146
+  type: 'test'
+  ...
+# Subtest: 7 / 30 day retention only reports genuinely observed reference matches
+ok 92 - 7 / 30 day retention only reports genuinely observed reference matches
+  ---
+  duration_ms: 0.565803
+  type: 'test'
+  ...
+# Subtest: boot shell installs offline; full offline pack needs explicit repair
+ok 93 - boot shell installs offline; full offline pack needs explicit repair
+  ---
+  duration_ms: 39.394848
+  type: 'test'
+  ...
+# Subtest: no synthetic audio downloads or offline caching; stale caches are removed on activate
+ok 94 - no synthetic audio downloads or offline caching; stale caches are removed on activate
+  ---
+  duration_ms: 6.378124
+  type: 'test'
+  ...
+# Subtest: offline navigation fallback and scoped cache activation preserve unrelated caches
+ok 95 - offline navigation fallback and scoped cache activation preserve unrelated caches
+  ---
+  duration_ms: 7.223056
+  type: 'test'
+  ...
+# Subtest: partial cache loss is reported and repair without disturbing user data
+ok 96 - partial cache loss is reported and repair without disturbing user data
+  ---
+  duration_ms: 18.284028
+  type: 'test'
+  ...
+# Subtest: ETS 2026 writing rehearsal uses 10+1+1, retains old session 8+2+2
+ok 97 - ETS 2026 writing rehearsal uses 10+1+1, retains old session 8+2+2
+  ---
+  duration_ms: 7.260123
+  type: 'test'
+  ...
+# Subtest: typing full words without MC feedback uses all 16 existing IDs safely
+ok 98 - typing full words without MC feedback uses all 16 existing IDs safely
+  ---
+  duration_ms: 1.472148
+  type: 'test'
+  ...
+# Subtest: typed-only submissions do not bias MC Reading level guidance
+ok 99 - typed-only submissions do not bias MC Reading level guidance
+  ---
+  duration_ms: 0.50397
+  type: 'test'
+  ...
+# Subtest: new writing sentence source tokens reconstruct the reference
+ok 100 - new writing sentence source tokens reconstruct the reference
+  ---
+  duration_ms: 1.049743
+  type: 'test'
+  ...
+# Subtest: Reading diagnostic preserves all authored question identities and does not inflate ETS-equivalence
+ok 101 - Reading diagnostic preserves all authored question identities and does not inflate ETS-equivalence
+  ---
+  duration_ms: 1.471628
+  type: 'test'
+  ...
+# Subtest: scoring rejects tampered items, forged answers and duplicate IDs
+ok 102 - scoring rejects tampered items, forged answers and duplicate IDs
+  ---
+  duration_ms: 0.761578
+  type: 'test'
+  ...
+# Subtest: expired timers cannot gain extra time
+ok 103 - expired timers cannot gain extra time
+  ---
+  duration_ms: 0.127412
+  type: 'test'
+  ...
+# Subtest: writing analysis gives concrete revision suggestions but never grades language
+ok 104 - writing analysis gives concrete revision suggestions but never grades language
+  ---
+  duration_ms: 2.053976
+  type: 'test'
+  ...
+# Subtest: dashboard reflects current 400 word / 75 phrasal TOEFL shared set without older totals
+ok 105 - dashboard reflects current 400 word / 75 phrasal TOEFL shared set without older totals
+  ---
+  duration_ms: 0.871594
+  type: 'test'
+  ...
+# Subtest: existing reading and writing IDs remain stable after content expansion
+ok 106 - existing reading and writing IDs remain stable after content expansion
+  ---
+  duration_ms: 1.245207
+  type: 'test'
+  ...
+# Subtest: balanced reading mini includes 9 items and 3 items per official category
+ok 107 - balanced reading mini includes 9 items and 3 items per official category
+  ---
+  duration_ms: 0.506173
+  type: 'test'
+  ...
+# Subtest: mini grade handles partial responses and does not invent ETS score
+ok 108 - mini grade handles partial responses and does not invent ETS score
+  ---
+  duration_ms: 0.485381
+  type: 'test'
+  ...
+# Subtest: wall clock duration cannot become negative
+ok 109 - wall clock duration cannot become negative
+  ---
+  duration_ms: 0.118008
+  type: 'test'
+  ...
+# Subtest: Listening task-type coverage is transcript-only and never claims licensed speech
+ok 110 - Listening task-type coverage is transcript-only and never claims licensed speech
+  ---
+  duration_ms: 0.280323
+  type: 'test'
+  ...
+# Subtest: Writing hints only describe checklists without grammar/score assertions
+ok 111 - Writing hints only describe checklists without grammar/score assertions
+  ---
+  duration_ms: 2.292105
+  type: 'test'
+  ...
+# Subtest: Original 2026 TOEFL reading-style tasks cover all three official categories
+ok 112 - Original 2026 TOEFL reading-style tasks cover all three official categories
+  ---
+  duration_ms: 1.834585
+  type: 'test'
+  ...
+# Subtest: 2026 reading rehearsal has 50 original questions with 3 supported task types, zero official scores
+ok 113 - 2026 reading rehearsal has 50 original questions with 3 supported task types, zero official scores
+  ---
+  duration_ms: 1.716517
+  type: 'test'
+  ...
+# Subtest: timed writing set has 10 sentence 1 email 1 discussion, unique ids, study only
+ok 114 - timed writing set has 10 sentence 1 email 1 discussion, unique ids, study only
+  ---
+  duration_ms: 0.344639
+  type: 'test'
+  ...
+# Subtest: writing session rejects corruption, length abuse and missing IDs; valid drafts remain
+ok 115 - writing session rejects corruption, length abuse and missing IDs; valid drafts remain
+  ---
+  duration_ms: 1.261401
+  type: 'test'
+  ...
+# Subtest: legacy 8+2+2 session remains resumable without data loss
+ok 116 - legacy 8+2+2 session remains resumable without data loss
+  ---
+  duration_ms: 0.227252
+  type: 'test'
+  ...
+# Subtest: open writing is not marked correct based on length; grammatical and ETS score fields are absent
+ok 117 - open writing is not marked correct based on length; grammatical and ETS score fields are absent
+  ---
+  duration_ms: 2.359506
+  type: 'test'
+  ...
+# Subtest: TOEFL UI wires save/restore and does not touch speaking
+ok 118 - TOEFL UI wires save/restore and does not touch speaking
+  ---
+  duration_ms: 0.99506
+  type: 'test'
+  ...
+# Subtest: TOEFL 2026 author-created practice has three question types and stable unique IDs
+ok 119 - TOEFL 2026 author-created practice has three question types and stable unique IDs
+  ---
+  duration_ms: 1.032336
+  type: 'test'
+  ...
+# Subtest: build sentence exact normalized order: a word bag cannot pass
+ok 120 - build sentence exact normalized order: a word bag cannot pass
+  ---
+  duration_ms: 1.032316
+  type: 'test'
+  ...
+# Subtest: writing feedback gives no invented language grade
+ok 121 - writing feedback gives no invented language grade
+  ---
+  duration_ms: 3.000993
+  type: 'test'
+  ...
+# Subtest: home renders actual dashboard
+ok 122 - home renders actual dashboard
+  ---
+  duration_ms: 1.203575
+  type: 'test'
+  ...
+# Subtest: every major module renders
+ok 123 - every major module renders
+  ---
+  duration_ms: 18.35122
+  type: 'test'
+  ...
+# Subtest: robotic podcast/drill routes are closed while reading/exam still work
+ok 124 - robotic podcast/drill routes are closed while reading/exam still work
+  ---
+  duration_ms: 8.566853
+  type: 'test'
+  ...
+# Subtest: example cards render multiple original sentences; sentence dictation hides target before grading
+ok 125 - example cards render multiple original sentences; sentence dictation hides target before grading
+  ---
+  duration_ms: 4.827246
+  type: 'test'
+  ...
+# Subtest: source catalog is searchable but does not inflate reviewed lesson deck
+ok 126 - source catalog is searchable but does not inflate reviewed lesson deck
+  ---
+  duration_ms: 116.048633
+  type: 'test'
+  ...
+# Subtest: rapid bilingual practice opens, reveals, reverses, and saves recognition only
+ok 127 - rapid bilingual practice opens, reveals, reverses, and saves recognition only
+  ---
+  duration_ms: 13.608336
+  type: 'test'
+  ...
+# Subtest: source catalog gives unreviewed bilingual glosses a rapid link, not a false full lesson
+ok 128 - source catalog gives unreviewed bilingual glosses a rapid link, not a false full lesson
+  ---
+  duration_ms: 24.667435
+  type: 'test'
+  ...
+# Subtest: memory coach exercises real contextual content; does not expose answer before hearing
+ok 129 - memory coach exercises real contextual content; does not expose answer before hearing
+  ---
+  duration_ms: 18.077447
+  type: 'test'
+  ...
+# Subtest: memory scope can switch to phrasals without exposing candidate-only entries
+ok 130 - memory scope can switch to phrasals without exposing candidate-only entries
+  ---
+  duration_ms: 3.263499
+  type: 'test'
+  ...
+# Subtest: memory coach requires context recognition between recall and speaking
+ok 131 - memory coach requires context recognition between recall and speaking
+  ---
+  duration_ms: 9.56764
+  type: 'test'
+  ...
+# Subtest: TOEFL + Daily shared learning path filters 400 words and 75 existing phrasals
+ok 132 - TOEFL + Daily shared learning path filters 400 words and 75 existing phrasals
+  ---
+  duration_ms: 10.829552
+  type: 'test'
+  ...
+# Subtest: TOEFL 2026 hub permits a timed Reading mini and transcript-only listening without claiming a score
+ok 133 - TOEFL 2026 hub permits a timed Reading mini and transcript-only listening without claiming a score
+  ---
+  duration_ms: 3.911836
+  type: 'test'
+  ...
+# Subtest: Reading diagnostic can be launched, resumed as a working practice with no official score
+ok 134 - Reading diagnostic can be launched, resumed as a working practice with no official score
+  ---
+  duration_ms: 3.481968
+  type: 'test'
+  ...
+# Subtest: daily expressions list and FSRS entrypoint render without changing listening/speaking
+ok 135 - daily expressions list and FSRS entrypoint render without changing listening/speaking
+  ---
+  duration_ms: 6.205253
+  type: 'test'
+  ...
+# Subtest: VOA has 50 publisher sources, 30 imported-transcript lessons and 20 linked quizzes
+ok 136 - VOA has 50 publisher sources, 30 imported-transcript lessons and 20 linked quizzes
+  ---
+  duration_ms: 1.250425
+  type: 'test'
+  ...
+# Subtest: filter preserves source vs completed lesson statuses
+ok 137 - filter preserves source vs completed lesson statuses
+  ---
+  duration_ms: 0.413373
+  type: 'test'
+  ...
+# Subtest: searches Turkish-agnostic title, topic and paginates without skipping
+ok 138 - searches Turkish-agnostic title, topic and paginates without skipping
+  ---
+  duration_ms: 0.285981
+  type: 'test'
+  ...
+1..138
+# tests 138
+# suites 0
+# pass 138
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 5914.561759

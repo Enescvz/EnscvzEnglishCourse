@@ -1,0 +1,100 @@
+{
+  "scope": "VOA Level 2 source text evidence (not audio verification)",
+  "date": "2026-10-28",
+  "publisherRights": "https://learningenglish.voanews.com/p/6861.html",
+  "sourcePages": [
+    {
+      "lessonId": "voa-linked-2-11",
+      "publisherConversationUrl": "https://learningenglish.voanews.com/a/lets-learn-english-level-2-lesson-11-the-big-snow/4102755.html",
+      "publisher128kbpsAudioUrl": "https://voa-audio.voanews.eu/vle/2017/11/21/0117495a-4165-48c3-8972-61491413ad7a_hq.mp3?download=1",
+      "publisherScriptReviewedOn": "2026-10-28",
+      "conversationSpeakerTurns": 51,
+      "questions": [
+        {
+          "number": 1,
+          "answerIndex": 3,
+          "answerText": "A blizzard",
+          "publisherSpeaker": "Anna",
+          "publisherTurnIndex": 5,
+          "sourceEvidence": "I’ve reported on a blizzard."
+        },
+        {
+          "number": 2,
+          "answerIndex": 0,
+          "answerText": "Pete",
+          "publisherSpeaker": "Anna",
+          "publisherTurnIndex": 15,
+          "sourceEvidence": "I volunteered Pete to help me."
+        },
+        {
+          "number": 3,
+          "answerIndex": 1,
+          "answerText": "Food, a blanket, and warm clothing",
+          "publisherSpeaker": "Anna",
+          "publisherTurnIndex": 17,
+          "sourceEvidence": "my supplies – food, a blanket; warm clothing."
+        },
+        {
+          "number": 4,
+          "answerIndex": 2,
+          "answerText": "Temperature, wind and snowfall",
+          "publisherSpeaker": "Anna",
+          "publisherTurnIndex": 27,
+          "sourceEvidence": "It will give us the temperature, wind speed, wind direction and amount of snowfall … in real time!"
+        }
+      ],
+      "publisherHtmlSourceReview": "speaker dialogue reviewed against publicly displayed VOA Conversation section",
+      "independentlyAudioMatched": false,
+      "onlineMp3PlayableOnIphoneVerified": false,
+      "offlineAudioPresent": false
+    },
+    {
+      "lessonId": "voa-linked-2-12",
+      "publisherConversationUrl": "https://learningenglish.voanews.com/a/lets-learn-english-level-2-lesson-12-run-bees/4139015.html",
+      "publisher128kbpsAudioUrl": "https://voa-audio.voanews.eu/vle/2017/11/28/260c25bd-1773-42d0-8b8a-54924d27427c_hq.mp3?download=1",
+      "publisherScriptReviewedOn": "2026-10-28",
+      "conversationSpeakerTurns": 34,
+      "questions": [
+        {
+          "number": 1,
+          "answerIndex": 0,
+          "answerText": "Ignore it so it flies away",
+          "publisherSpeaker": "Kaveh",
+          "publisherTurnIndex": 3,
+          "sourceEvidence": "if you ignore it, it will fly away."
+        },
+        {
+          "number": 2,
+          "answerIndex": 1,
+          "answerText": "It might sting her",
+          "publisherSpeaker": "Kaveh",
+          "publisherTurnIndex": 3,
+          "sourceEvidence": "if you swat it, it might sting you."
+        },
+        {
+          "number": 3,
+          "answerIndex": 2,
+          "answerText": "Caroline, a beekeeper and educator",
+          "publisherSpeaker": "Kaveh",
+          "publisherTurnIndex": 7,
+          "sourceEvidence": "you should call my friend, Caroline."
+        },
+        {
+          "number": 4,
+          "answerIndex": 3,
+          "answerText": "30,000",
+          "publisherSpeaker": "Caroline",
+          "publisherTurnIndex": 20,
+          "sourceEvidence": "About thirty thousand (30,000) in each."
+        }
+      ],
+      "publisherHtmlSourceReview": "speaker dialogue reviewed against publicly displayed VOA Conversation section",
+      "independentlyAudioMatched": false,
+      "onlineMp3PlayableOnIphoneVerified": false,
+      "offlineAudioPresent": false
+    }
+  ],
+  "independentHumanTranscriptToAudioCheck": false,
+  "realDeviceSafariAudioCheck": false,
+  "published": false
+}

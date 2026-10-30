@@ -1,0 +1,37 @@
+{
+  "originalArchive": "AEL_PRIVATE_DEV_BACKUP_20261028_VOA12_QA_DO_NOT_DEPLOY.zip",
+  "baseArchiveSha256": "2c3b35fdc3bab4ef586c684886bb199187dfe634bdbe5049148177ea09ad2259",
+  "unchangedExistingFocusVocab": true,
+  "unchangedExistingFocusPhrasals": true,
+  "unchangedFocusMappings": true,
+  "unchangedArchive": true,
+  "unchangedLearningEngine": true,
+  "unchangedSpeakingFunction": true,
+  "modifiedExistingFiles": [
+    "CONTENT_LICENSE.md",
+    "CONTINUE_IN_NEW_CHAT.md",
+    "README.md",
+    "development-status.json",
+    "js/app.js",
+    "qa/non-speaking-quality-report.json",
+    "sw.js",
+    "tests/ui-smoke.test.mjs",
+    "tools/release_gate.py"
+  ],
+  "newFiles": [
+    "data/toefl-academic.json",
+    "data/toefl-core.json",
+    "docs/TOEFL_DAILY_CORE_SPRINT_20261028.md",
+    "qa/toefl-core-report.json",
+    "sources/toefl-awl1-extra-20261028.tsv",
+    "sources/toefl-curated-reuse-20261028.txt",
+    "tests/test_toefl_daily_core_20261028.py",
+    "tools/curate_toefl_core_20261028.py"
+  ],
+  "originalFilesMissing": [],
+  "nodeTestsPass": 50,
+  "pythonTestsPass": 125,
+  "virtualChromium": "desktop+mobile PASS assertions, runner timeout/clean exit unverified",
+  "physicalSafariAudioAndOfflineVerified": false,
+  "releaseReady": false
+}

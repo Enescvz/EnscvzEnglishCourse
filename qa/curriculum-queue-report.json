@@ -1,0 +1,23 @@
+{
+  "targetVocabulary": 3500,
+  "targetUniquePhrasalVerbs": 600,
+  "generalSelected": 3500,
+  "phrasalSelected": 600,
+  "generalExistingAuthored": 1000,
+  "phrasalExistingAuthored": 500,
+  "generalSourceOnly": 2500,
+  "phrasalSourceOnly": 100,
+  "generalLevelCandidates": {
+    "B2": 2393,
+    "C1": 1107
+  },
+  "requestedC1Count": 1500,
+  "sourceLimitedC1Candidates": 1107,
+  "missingC1CandidateLevelsToReachMix": 393,
+  "newEditoriallyApprovedCards": 0,
+  "publicationAllowed": false,
+  "phrasalCEFRMissing": 100,
+  "orderingWarning": "Heuristic production review order; not measured spoken-US frequency.",
+  "semanticWarning": "The source-only entries are NOT lessons and cannot be used in flashcard or exam mode.",
+  "licensingWarning": "External phrasal headword source is CC BY-NC 4.0; no source glosses copied."
+}

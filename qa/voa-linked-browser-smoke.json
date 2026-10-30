@@ -1,0 +1,14 @@
+{
+  "desktop": {
+    "UI": "passed",
+    "answerPersistence": true,
+    "externalSourceLink": true,
+    "remoteAudioVerified": false
+  },
+  "mobile": {
+    "UI": "passed",
+    "answerPersistence": true,
+    "externalSourceLink": true,
+    "remoteAudioVerified": false
+  }
+}

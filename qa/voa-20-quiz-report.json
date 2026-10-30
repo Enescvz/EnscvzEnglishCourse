@@ -1,0 +1,25 @@
+{
+  "sourcePages": 50,
+  "fullyImportedTranscriptQuizLessons": 3,
+  "sourceLinkedQuizLessons": 17,
+  "totalQuizEnabledLessons": 20,
+  "newQuestions": 68,
+  "totalOriginalQuestions": 84,
+  "sourceOnlyPages": 30,
+  "audioFilesBundledThisSprint": 0,
+  "remoteAudioPlaybackVerified": false,
+  "realIPhoneSafariVerified": false,
+  "unitTests": {
+    "javascript": 49,
+    "python": 99,
+    "total": 148,
+    "passed": 148
+  },
+  "virtualBrowser": {
+    "desktop": "passed",
+    "mobile": "passed",
+    "audioPlayback": "not_checked"
+  },
+  "releaseAllowed": false,
+  "notes": "VOA-origin audio and full transcript remain on publisher site for 17 newly quiz-enabled lessons."
+}

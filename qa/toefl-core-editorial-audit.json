@@ -1,0 +1,14 @@
+{
+  "audit": "metadata_and_internal_structural_audit_only",
+  "reviewScope": 475,
+  "words": 400,
+  "phrasalVerbs": 75,
+  "resolvableExistingIDs": 475,
+  "englishDefinitionsPresent": 475,
+  "cardsWithFewerThanTwoExamples": [],
+  "corpusUSFrequencyMeasured": false,
+  "TOEFLFrequencyMeasured": false,
+  "humanEditorApproved": 0,
+  "reviewQueue": "qa/toefl-475-independent-review-queue.csv",
+  "releaseApproved": false
+}

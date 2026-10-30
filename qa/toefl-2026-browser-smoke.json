@@ -1,0 +1,8 @@
+{
+  "method": "mocked_asset_routing_in_Chromium_not_real_offline",
+  "releaseEvidence": false,
+  "desktop": "passed",
+  "mobile_viewport": "passed",
+  "physicalIphone": "not_tested",
+  "audioPlayback": "not_tested"
+}

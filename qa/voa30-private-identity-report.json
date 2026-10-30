@@ -1,0 +1,21 @@
+{
+  "baseline": "AEL_PRIVATE_DEV_BACKUP_20261029_VOA24_PUBLIC_DOMAIN_QA_DO_NOT_DEPLOY_2.zip",
+  "scope": "private source integrity and code-path regression, NOT real device/audio QA",
+  "lessonIdsUnchanged": true,
+  "originalVOAQuestionsOptionsAnswersUnchanged": true,
+  "wordAndPhrasalCardsByteIdentical": true,
+  "toeflCoreByteIdentical": true,
+  "speakingFunctionsCheckedUnchanged": [
+    "function speaking",
+    "function pronunciation"
+  ],
+  "inAppVOATranscripts": 30,
+  "externalOnlyVOALessons": 20,
+  "sourceEvidenceQuestions": 204,
+  "humanAudioBundled": 0,
+  "humanAudioActuallyPlayedOnIphone": false,
+  "realOfflineWebkitTest": false,
+  "humanEditorSignoff": false,
+  "etsScoringCalibrated": false,
+  "releaseApproved": false
+}

@@ -1,0 +1,20 @@
+{
+  "verifiedOfficialVOASourcePages": 50,
+  "level2Pages": 30,
+  "lateLevel1Pages": 20,
+  "transcriptImportedQuestionAuthored": 3,
+  "sourceOnly": 47,
+  "originalQuestionsInApp": 16,
+  "voiceType": "human spoken scripted American English",
+  "audioBundledLocally": 0,
+  "remainingTranscriptsInApp": 47,
+  "sourceMP3PlaybackVerifiedInClient": false,
+  "rightsNotice": "VOA original public domain with attribution; third-party audio/music excluded; lesson-level checks needed",
+  "CEFRlevels": "Approximate only, not certified",
+  "releaseApproved": false,
+  "sourceIndexUrls": [
+    "https://learningenglish.voanews.com/p/6765.html",
+    "https://learningenglish.voanews.com/p/5644.html"
+  ],
+  "publisherPermission": "https://learningenglish.voanews.com/p/6861.html"
+}

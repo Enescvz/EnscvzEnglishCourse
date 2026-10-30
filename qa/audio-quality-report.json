@@ -1,0 +1,11 @@
+{
+  "recordings": 42,
+  "quarantined_synthetic_recordings": 42,
+  "episodes": 18,
+  "drills": 24,
+  "approved_for_natural_listening": 0,
+  "not_approved_for_natural_listening": 42,
+  "status": "BLOCKED",
+  "notes": "Synthetic MP3 bytes removed from the playable package. Metadata and historical progress remain; human playback requires separate verification.",
+  "errors": []
+}
